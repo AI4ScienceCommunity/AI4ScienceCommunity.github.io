@@ -29,7 +29,7 @@ The primary goals of this workshop are as follows:
 - Bring more people into the fields, share interdisciplinary research experience, and provide mentorship opportunities for students.
 
 Program Highlight:
-- Two panels about Frontiers, Gaps, and Futures in AI for Science, given by ML and Science researchers, respectively.
+- Panel discussion about Frontiers, Gaps, and Futures in AI for Science, given by ML and Science researchers.
 - Invited talks on grand challenges in AI for Science, real-world practices in AI for Science, and guidance on AI for Science.
 - Call for attention which offers opportunities for researchers to call attention from the community on a specific scientific problem.
 - Mentorship program and roundtable experience sharing to build the community and bring more young people into the fields.
@@ -40,31 +40,38 @@ Program Highlight:
 
 # Invited Talks
 
-Grand challenges in AI for Science
+Topic: Machine Learning for Discovery
+
+Speaker: Yoshua Bengio (confirmed)
+
+Topic: TBA
+
+Speaker: Tomaso Poggio (confirmed)
+
+Topic: TBA
+
+Speaker: Petar Veličković (confirmed)
+
+Topic: Grand challenges in AI for Science
 
 Speaker: John Jumper (tentative)
 
-Real-world practices and impacts in AI for Science 
+Topic: Real-world practices and impacts in AI for Science 
 
-Speaker: TBD
+Speaker: TBA
 
-Guidance on AI for Science
+Topic: Guidance on AI for Science
 
 Speaker: Michela Paganini (tentative)
 
 # Panels
 
-Frontiers, gaps, and futures of AI for Science (ML side)
+Frontiers, gaps, and futures of AI for Science 
 
-Speakers: TBD
+Speakers: Connor Coley (confirmed), Pushmeet Kohli (tentative), TBA
 
-Moderator: TBD
+Moderator: TBA
 
-Frontiers, gaps, and futures of AI for Science (Science side)
-
-Speakers: TBD
-
-Moderator: TBD
 
 <!----
 {% include team.html id="team" %}
@@ -89,3 +96,4 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 - [Ziming Liu](https://kindxiaoming.github.io/)
 - [Hanchen Wang](https://hansen7.github.io/)
 - [Max Welling](https://staff.fnwi.uva.nl/m.welling/)
+- [Marinka Zitnik](https://zitniklab.hms.harvard.edu/)
