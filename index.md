@@ -4,10 +4,10 @@ title: "AI for Science: Frontiers, Gaps, and Futures"
 permalink: /
 
 team:
-  - name: Name
-    url: https://yuanqidu.github.io/
-    title: Affiliation
-    image: assets/images/test.jpeg
+- name: Name
+url: https://yuanqidu.github.io/
+title: Affiliation
+image: assets/images/test.jpeg
 ---
 
 # About
