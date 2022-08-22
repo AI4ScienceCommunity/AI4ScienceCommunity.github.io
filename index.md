@@ -96,7 +96,7 @@ ProfessorOrganizers:
 
   - name: Anima Anandkumar 
     url: http://tensorlab.cms.caltech.edu/users/anima/
-    aff: Caltech, Nvidia
+    aff: Caltech, NVIDIA
     interest: 
     image: assets/images/anima.png 
 
@@ -105,7 +105,7 @@ ProfessorOrganizers:
 
   - name: Yoshua Bengio 
     url: https://yoshuabengio.org
-    aff: MILA
+    aff: MILA, Université de Montréal
     interest: 
     image: assets/images/yoshua.png 
 
