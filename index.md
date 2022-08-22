@@ -96,7 +96,7 @@ ProfessorOrganizers:
 
   - name: Anima Anandkumar 
     url: http://tensorlab.cms.caltech.edu/users/anima/
-    aff: Caltech
+    aff: Caltech, Nvidia
     interest: 
     image: assets/images/anima.png 
 
@@ -120,14 +120,14 @@ ProfessorOrganizers:
 
   - name: Aviv Regev
     url: https://biology.mit.edu/profile/aviv-regev/
-    aff: MIT
+    aff: MIT, Genentech
     interest: 
     image: assets/images/aviv.png 
 
 
   - name: Max Welling 
     url: https://staff.fnwi.uva.nl/m.welling
-    aff: UvA
+    aff: University of Amsterdam, Microsoft Research
     interest: 
     image: assets/images/max.png 
 
