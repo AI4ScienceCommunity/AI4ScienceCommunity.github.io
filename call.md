@@ -5,7 +5,7 @@ permalink: /call
 ---
 
 # Call for Papers
-The 2022 NeurIPS AI for Science workshop calls for high-quality and cutting-edge paper submissions in the following two tracks:
+The 2022 NeurIPS AI for Science workshop (**nonarchival**) calls for high-quality and cutting-edge paper submissions in the following two tracks:
 
 ## (A) Original Research Track
 
