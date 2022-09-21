@@ -182,7 +182,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 ## Submissions 
 
-Please submit your paper in [Openreview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science). Our workshop is **nonarchival**.
+Please submit your paper in [Openreview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science&referrer=%5BHomepage%5D(%2F)). Our workshop is **nonarchival**.
 
 
 # Organizers and Contact
