@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: neurips22
 title: "AI for Science: Progress and Promises"
 permalink: /neurips22/call
 ---
