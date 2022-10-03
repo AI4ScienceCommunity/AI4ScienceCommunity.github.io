@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: icml22
 title: "AI for Science: Theories and Foundations"
 permalink: /icml22
 

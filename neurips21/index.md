@@ -1,5 +1,5 @@
 ---
-layout: /neurips21/default
+layout: neurips21
 title: "AI for Science: Mind the Gaps"
 permalink: /neurips21
 
