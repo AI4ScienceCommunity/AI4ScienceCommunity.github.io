@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AI for Science: Progress and Promises"
-permalink: /call
+permalink: /neurips22/call
 ---
 
 # Call for Papers

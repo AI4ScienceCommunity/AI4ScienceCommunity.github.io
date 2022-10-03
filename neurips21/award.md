@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AI for Science: Mind the Gaps"
-permalink: /award
+permalink: /neurips21/award
 ---
 
 # Travel Awards

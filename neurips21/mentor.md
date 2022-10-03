@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AI for Science: Mind the Gaps"
-permalink: /mentor
+permalink: /neurips21/mentor
 ---
 
 ## Deadlines (Anywhere on Earth)

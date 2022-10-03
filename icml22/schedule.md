@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "2nd AI for Science"
-permalink: /schedule
+permalink: /icml22/schedule
 ---
 
 # Schedule

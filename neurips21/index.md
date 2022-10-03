@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AI for Science: Mind the Gaps"
-permalink: /
+permalink: /neurips21
 
 speakers:
   - name: Yoshua Bengio

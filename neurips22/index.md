@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AI for Science: Progress and Promises"
-permalink: /
+permalink: /neurips22
 
 
 

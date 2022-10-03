@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AI for Science: Mind the Gaps"
-permalink: /schedule
+permalink: /neurips21/schedule
 ---
 
 # Schedule

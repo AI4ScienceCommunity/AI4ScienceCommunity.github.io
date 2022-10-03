@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "2nd AI for Science"
-permalink: /sponsor
+permalink: /icml22/sponsor
 ---
 
 # Sponsors

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AI for Science: Mind the Gaps"
-permalink: /call
+permalink: /neurips21/call
 ---
 
 # Call for Papers

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "2nd AI for Science"
-permalink: /call
+permalink: /icml22/call
 ---
 
 # Call for Papers
