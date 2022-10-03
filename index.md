@@ -3,9 +3,6 @@ layout: default
 title: "AI for Science"
 permalink: /
 
-
-
-
 ---
 
 # About
