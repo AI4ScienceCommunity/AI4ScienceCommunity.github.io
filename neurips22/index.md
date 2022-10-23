@@ -175,7 +175,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 - Abstract Deadline: Sep 25, 2022
 - Submission Deadline: Oct 02, 2022
 - Author Notification: Oct 22, 2022
-- Travel Award Application: Nov 1st -- Nov 21st, 2022
+- Travel Award Application: Nov 7st, 2022
 - Conference Date: Nov 26 -- Dec 4, 2022
 - Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2022
 
