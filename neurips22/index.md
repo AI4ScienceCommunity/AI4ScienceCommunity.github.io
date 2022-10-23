@@ -35,12 +35,12 @@ speakers:
     interest: AI, Chemistry
     image: assets/images/shuiwang.png 
 
-  - name: Katie Bouman 
-    url: http://users.cms.caltech.edu/~klbouman/
+  - name: Jimeng Sun 
+    url: https://sunlab.org/
     topic: 
-    aff: Caltech
-    interest: AI, Astrophysics
-    image: assets/images/katie.png 
+    aff: UIUC
+    interest: AI, Health
+    image: assets/images/jimeng.png 
 
   - name: Maria Schuld
     url: https://quantum.ukzn.ac.za/ms-m-schuld/
