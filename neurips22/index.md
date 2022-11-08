@@ -49,7 +49,17 @@ speakers:
     interest: AI, Quantum Computing
     image: assets/images/maria.png 
 
+Panelist:
 
+  - name: Peter Lee
+    url: https://www.microsoft.com/en-us/research/people/petelee/
+    aff: Microsoft Research & Incubations 
+    image: assets/images/peter_lee.png 
+
+  - name: Sara-Jane Dunn
+    url: https://scholar.google.com/citations?user=ttq50FMAAAAJ&hl=en
+    aff: DeepMind 
+    image: assets/images/sara.png 
 
 
 StudentOrganizers:
