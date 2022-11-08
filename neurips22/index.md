@@ -61,6 +61,21 @@ Panelist:
     aff: DeepMind 
     image: assets/images/sara.png 
 
+  - name: Arvind Rajpal
+    url: https://www.gene.com/scientists/our-scientists/arvind-rajpal
+    aff: Genetech 
+    image: assets/images/arvind.png 
+
+  - name: Alexander Rives
+    url: https://www.gene.com/scientists/our-scientists/arvind-rajpal
+    aff: New York University, Facebook AI Research 
+    image: assets/images/alex.png 
+
+  - name: Max Welling
+    url: https://staff.fnwi.uva.nl/m.welling/
+    aff: University of Amsterdam, Microsoft Research 
+    image: assets/images/max.png 
+
 
 StudentOrganizers:
 
@@ -178,6 +193,10 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 # Invited Talks (In alphabetical order)
 
 {% include team.html id="speakers" %}
+
+# Panel
+
+{% include team.html id="Panelist" %}
 
 
 # Tentative Important Dates (Anywhere on Earth)
