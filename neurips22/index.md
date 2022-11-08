@@ -67,7 +67,7 @@ Panelist:
     image: assets/images/arvind.png 
 
   - name: Alexander Rives
-    url: https://www.gene.com/scientists/our-scientists/arvind-rajpal
+    url: https://scholar.google.com/citations?user=vqb78-gAAAAJ&hl=en
     aff: New York University, Facebook AI Research 
     image: assets/images/alex.png 
 
