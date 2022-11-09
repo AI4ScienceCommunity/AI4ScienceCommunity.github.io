@@ -212,11 +212,11 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 | Invited Talk | Maria Schuld | 10:15-11:10am |
 | Invited Talk | David Baker | 11:10-12:05pm |
 | Poster Session | | 12:05pm-13:00pm |
-| Contributed Talk | Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks<br>Tianze Zheng, Weihao Gao, Chong Wang| 13:00-13:10pm |
-| Contributed Talk | Discovering Dynamical Parameters by Interpreting Echo State Networks<br>Oreoluwa Alao, Peter Y Lu, Marin Soljacic | 13:10-13:20pm |
-| Contributed Talk | Scientific Argument with Supervised Learning<br>Jeffrey W Lockhart, Abigail Z Jacobs| 13:20-13:30pm |
-| Contributed Talk | Apertures in Agriculture Seeking Attention<br>Sanchita Das, Ramya Srinivasan | 13:30-13:40pm |
-| Contributed Talk | Uncovering motif interactions from convolutional-attention networks for genomics<br>Rohan Singh Ghotra, Nicholas Keone Lee, Peter K Koo | 13:40-13:50pm |
+| Contributed Talk | DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking | 13:00-13:10pm |
+| Contributed Talk | An "interpretable-by-design" neural network to decipher RNA splicing regulatory logic | 13:10-13:20pm |
+| Contributed Talk | FALCON: Fourier Adaptive Learning and Control for Disturbance Rejection Under Extreme Turbulence | 13:20-13:30pm |
+| Contributed Talk | Structural Causal Model for Molecular Dynamics Simulation | 13:30-13:40pm |
+| Contributed Talk |  | 13:40-13:50pm |
 | Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, <br>Moderator: Max Welling | 13:55-14:55pm |
 | Coffee Break | - | 14:55-15:10pm |
 | Invited Talk | Jimeng Sun | 15:10-16:05pm |
