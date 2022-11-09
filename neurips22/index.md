@@ -113,7 +113,7 @@ StudentOrganizers:
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
     aff: Cambridge/Caltech
-    interest: AI for Genomics
+    interest: AI for Medical Science
     image: assets/images/hanchen.png 
 
 
