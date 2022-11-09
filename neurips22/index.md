@@ -221,12 +221,12 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 | Contributed Talk | Scientific Argument with Supervised Learning<br>Jeffrey W Lockhart, Abigail Z Jacobs| 13:20-13:30pm pm |
 | Contributed Talk | Apertures in Agriculture Seeking Attention<br>Sanchita Das, Ramya Srinivasan | 13:30-13:40pm pm|
 | Contributed Talk | Uncovering motif interactions from convolutional-attention networks for genomics<br>Rohan Singh Ghotra, Nicholas Keone Lee, Peter K Koo | 13:40-13:50pm |
-| Panel Discussion | Panelists: Peter Lee, <br>Moderator: Max Welling | 13:55-14:55pm |
+| Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, <br>Moderator: Max Welling | 13:55-14:55pm |
 | Coffee Break | - | 14:55-15:10pm |
-| Invited Talk | Jimeng Sun | 3:10-4:05pm |
-| Invited Talk | Shuiwang Ji | 4:05-5:00pm |
-| Closing Remarks | Organizing Team | 5:00-5:10pm |
-| Poster Session | | 5:10-6:00pm |
+| Invited Talk | Jimeng Sun | 15:10-16:05pm |
+| Invited Talk | Shuiwang Ji | 16:05-17:00pm |
+| Closing Remarks | Organizing Team | 17:00-17:10pm |
+| Poster Session | | 17:10-18:00pm |
 
 
 
