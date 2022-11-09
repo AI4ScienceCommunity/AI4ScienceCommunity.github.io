@@ -203,10 +203,6 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 08:00 AM – 06:00 PM (Central Time), Dec 2, 2022
 
-- [NeurIPS Virtual Page](https://neurips.cc/virtual/2021/workshop/21849) (login required)
-- [GatherTown for poster room A](https://tinyurl.com/ai4sciposter1)
-- [GatherTown for poster room B](https://tinyurl.com/ai4sciposter2)
-
 | Event | | Time |
 | :--- | --- | :--- |
 | Openning Remarks | Organizing Team | 8:00-8:15am |
@@ -218,8 +214,8 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 | Poster Session | | 12:05pm-13:00pm |
 | Contributed Talk | Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks<br>Tianze Zheng, Weihao Gao, Chong Wang| 13:00-13:10pm |
 | Contributed Talk | Discovering Dynamical Parameters by Interpreting Echo State Networks<br>Oreoluwa Alao, Peter Y Lu, Marin Soljacic | 13:10-13:20pm |
-| Contributed Talk | Scientific Argument with Supervised Learning<br>Jeffrey W Lockhart, Abigail Z Jacobs| 13:20-13:30pm pm |
-| Contributed Talk | Apertures in Agriculture Seeking Attention<br>Sanchita Das, Ramya Srinivasan | 13:30-13:40pm pm|
+| Contributed Talk | Scientific Argument with Supervised Learning<br>Jeffrey W Lockhart, Abigail Z Jacobs| 13:20-13:30pm |
+| Contributed Talk | Apertures in Agriculture Seeking Attention<br>Sanchita Das, Ramya Srinivasan | 13:30-13:40pm |
 | Contributed Talk | Uncovering motif interactions from convolutional-attention networks for genomics<br>Rohan Singh Ghotra, Nicholas Keone Lee, Peter K Koo | 13:40-13:50pm |
 | Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, <br>Moderator: Max Welling | 13:55-14:55pm |
 | Coffee Break | - | 14:55-15:10pm |
