@@ -1,6 +1,6 @@
 ---
 layout: neurips22
-title: "AI for Science: Mind the Gaps"
+title: "AI for Science: Progress and Promises"
 permalink: /neurips22/schedule
 ---
 
