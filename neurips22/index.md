@@ -76,11 +76,6 @@ Panelist:
     aff: Entos 
     image: assets/images/matt.png 
 
-<!--   - name: Max Welling
-    url: https://staff.fnwi.uva.nl/m.welling/
-    aff: University of Amsterdam, Microsoft Research 
-    image: assets/images/max.png  -->
-
 
 StudentOrganizers:
 
