@@ -71,10 +71,15 @@ Panelist:
     aff: New York University, Facebook AI Research 
     image: assets/images/alex.png 
 
-  - name: Max Welling
+  - name: Matt Welborn
+    url: https://scholar.google.com/citations?user=dMq6UYMAAAAJ&hl=en
+    aff: Entos 
+    image: assets/images/matt.png 
+
+<!--   - name: Max Welling
     url: https://staff.fnwi.uva.nl/m.welling/
     aff: University of Amsterdam, Microsoft Research 
-    image: assets/images/max.png 
+    image: assets/images/max.png  -->
 
 
 StudentOrganizers:
