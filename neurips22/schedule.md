@@ -13,7 +13,7 @@ permalink: /neurips22/schedule
 | :--- | --- | :--- |
 | Openning Remarks | Organizing Team | 8:00-8:15am |
 | Invited Talk | Weinan E | 8:15-9:10am |
-| Invited Talk | Tess Smidt  | 9:10-10:05am |
+| Invited Talk | Jimeng  | 9:10-10:05am |
 | Coffee Break | - | 10:05-10:15am |
 | Invited Talk | Maria Schuld | 10:15-11:10am |
 | Invited Talk | David Baker | 11:10-12:05pm |
@@ -26,7 +26,7 @@ permalink: /neurips22/schedule
 | Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, <br>Moderator: Max Welling | 13:55-14:55pm |
 | Coffee Break | - | 14:55-15:10pm |
 | Invited Talk | Jimeng Sun | 15:10-16:05pm |
-| Invited Talk | Shuiwang Ji | 16:05-17:00pm |
+| Invited Talk | Tess Smidt | 16:05-17:00pm |
 | Closing Remarks | Organizing Team | 17:00-17:10pm |
 | Poster Session | | 17:10-18:00pm |
 
