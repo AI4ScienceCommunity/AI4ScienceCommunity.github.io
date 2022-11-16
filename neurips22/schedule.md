@@ -13,7 +13,7 @@ permalink: /neurips22/schedule
 | :--- | --- | :--- |
 | Openning Remarks | Organizing Team | 8:00-8:15am |
 | Invited Talk | Weinan E | 8:15-9:10am |
-| Invited Talk | Jimeng  | 9:10-10:05am |
+| Invited Talk | Shuiwang Ji  | 9:10-10:05am |
 | Coffee Break | - | 10:05-10:15am |
 | Invited Talk | Maria Schuld | 10:15-11:10am |
 | Invited Talk | David Baker | 11:10-12:05pm |
