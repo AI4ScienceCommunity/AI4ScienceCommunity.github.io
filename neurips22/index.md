@@ -222,7 +222,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 | Contributed Talk | An "interpretable-by-design" neural network to decipher RNA splicing regulatory logic | 13:10-13:20pm |
 | Contributed Talk | FALCON: Fourier Adaptive Learning and Control for Disturbance Rejection Under Extreme Turbulence | 13:20-13:30pm |
 | Contributed Talk | Structural Causal Model for Molecular Dynamics Simulation | 13:30-13:40pm |
-| Contributed Talk |  | 13:40-13:50pm |
+| Contributed Talk | Structure-Inducing Pre-training | 13:40-13:50pm |
 | Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, Matt Welborn <br>Moderator: Max Welling | 13:55-14:55pm |
 | Coffee Break | - | 14:55-15:10pm |
 | Invited Talk | Jimeng Sun | 15:10-16:05pm |
