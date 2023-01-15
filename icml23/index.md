@@ -98,15 +98,18 @@ StudentOrganizers:
     image: assets/images/yuanqi.png 
 
 
-
-  - name: Chenru Duan
-    url: https://www.crduan.com/
+  - name: Wenhao Gao
+    url: https://wenhao-gao.github.io/
     aff: MIT
     interest: AI for Chemistry
-    image: assets/images/chenru.png 
+    image: assets/images/wenhao.png 
 
   
-  
+  - name: Kexin Huang 
+    url: https://www.kexinhuang.com/
+    aff: Stanford
+    interest: AI for Biology
+    image: assets/images/kexin.png
 
   - name: Tianfan Fu 
     url: https://futianfan.github.io/
