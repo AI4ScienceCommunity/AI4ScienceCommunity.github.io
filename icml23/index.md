@@ -89,7 +89,7 @@ StudentOrganizers:
     url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
     aff: Stanford 
     interest: AI for Multiomics
-    image: assets/images/daisy.png 
+    image: assets/images/daisy2.png 
 
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
