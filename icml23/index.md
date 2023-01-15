@@ -196,50 +196,25 @@ We welcome people with diverse background and level of experience to attend our 
 
 Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions.
 
-# Invited Talks (In alphabetical order)
+<!-- # Invited Talks (In alphabetical order)
 
 {% include team.html id="speakers" %}
 
 # Panel: Landing of AI for Science and future of AI for Science in industry
 
 {% include team.html id="Panelist" %}
-
-
-# Schedule
-
-08:00 AM – 06:00 PM (Central Time), Dec 2, 2022
-
-| Event | | Time |
-| :--- | --- | :--- |
-| Openning Remarks | Organizing Team | 8:00-8:15am |
-| Invited Talk | Weinan E | 8:15-9:10am |
-| Invited Talk | Shuiwang Ji  | 9:10-10:05am |
-| Coffee Break | - | 10:05-10:15am |
-| Invited Talk | Maria Schuld | 10:15-11:10am |
-| Invited Talk | David Baker | 11:10-12:05pm |
-| Poster Session | | 12:05pm-13:00pm |
-| Contributed Talk | DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking | 13:00-13:10pm |
-| Contributed Talk | An "interpretable-by-design" neural network to decipher RNA splicing regulatory logic | 13:10-13:20pm |
-| Contributed Talk | FALCON: Fourier Adaptive Learning and Control for Disturbance Rejection Under Extreme Turbulence | 13:20-13:30pm |
-| Contributed Talk | Structural Causal Model for Molecular Dynamics Simulation | 13:30-13:40pm |
-| Contributed Talk | Structure-Inducing Pre-training | 13:40-13:50pm |
-| Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, Matt Welborn <br>Moderator: Max Welling | 13:55-14:55pm |
-| Coffee Break | - | 14:55-15:10pm |
-| Invited Talk | Jimeng Sun | 15:10-16:05pm |
-| Invited Talk | Tess Smidt | 16:05-17:00pm |
-| Closing Remarks | Organizing Team | 17:00-17:10pm |
-| Poster Session | | 17:10-18:00pm |
+ -->
 
 
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Abstract Deadline: Sep 25, 2022
-- Submission Deadline: Oct 02, 2022
-- Author Notification: Oct 22, 2022
-- Travel Award Application: Nov 7st, 2022
-- Conference Date: Nov 26 -- Dec 4, 2022
-- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2022
+- Abstract Deadline: May 25, 2023
+- Submission Deadline: June 02, 2023
+- Author Notification: June 22, 2023
+- Travel Award Application: July 7st, 2023
+- Conference Date: July 23 -- 29, 2023
+- Workshop Date: 08:00 AM -- 06:00 PM, July 29, 2023
 
 
 ## Submissions 
@@ -255,10 +230,10 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 
 {% include team.html id="StudentOrganizers" %}
 
-## Senior Organizers 
+<!-- ## Senior Organizers 
 
 {% include team.html id="ProfessorOrganizers" %}
-
+ -->
 
 <!-- <ul>
 {% for p in page.StudentOrganizers %}
