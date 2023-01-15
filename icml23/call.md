@@ -1,7 +1,7 @@
 ---
-layout: icml23
+layout: neurips22
 title: "AI for Science: Progress and Promises"
-permalink: /icml23/call
+permalink: /neurips22/call
 ---
 
 # Call for Papers
@@ -48,10 +48,8 @@ Example topics include (but not limited to):
 
 # Submission Instructions
 
-Abstract is due on **May 25th AoE**, and submisssion is due on **June 2nd AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science).
+Abstract is due on **Sep 25th AoE**, and submisssion is due on **Oct 2nd AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published, or (3) work-in-progress.
 Please use [AI for Science template Latex files](https://bit.ly/3rOZaZl). Note that for attention track submissions, authors are required to set ‘\usepackage[attention]{neurips_2021}’ to indicate. 
 Accepted papers would be archived on the workshop website. Contributed talks and best paper awards would be given based on review scores and chairs discussion. 
-
-

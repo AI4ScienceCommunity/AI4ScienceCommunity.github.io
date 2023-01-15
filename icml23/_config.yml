@@ -1,8 +1,8 @@
 title: "AI for Science"
-description: A ICML 2023 Workshop
+description: A NeurIPS 2022 Workshop
 google_analytics:
 theme: jekyll-theme-cayman
 
 
 url: "https://AI4ScienceCommunity.github.io"
-baseurl: "/icml23"
+baseurl: "/neurips22"
