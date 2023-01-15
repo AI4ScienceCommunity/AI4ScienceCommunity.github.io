@@ -98,6 +98,13 @@ StudentOrganizers:
     image: assets/images/yuanqi.png 
 
 
+  - name: Tianfan Fu 
+    url: https://futianfan.github.io/
+    aff: Gatech
+    interest: AI for drug design and development 
+    image: assets/images/tianfan.png 
+
+
   - name: Wenhao Gao
     url: https://wenhao-gao.github.io/
     aff: MIT
@@ -110,12 +117,6 @@ StudentOrganizers:
     aff: Stanford
     interest: AI for Biology
     image: assets/images/kexin.png
-
-  - name: Tianfan Fu 
-    url: https://futianfan.github.io/
-    aff: Gatech
-    interest: AI for drug design and development 
-    image: assets/images/tianfan.png 
 
 
 
