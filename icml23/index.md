@@ -129,22 +129,6 @@ StudentOrganizers:
 
 ProfessorOrganizers:
 
-  - name: Anima Anandkumar 
-    url: http://tensorlab.cms.caltech.edu/users/anima/
-    aff: Caltech, NVIDIA
-    interest: 
-    image: assets/images/anima.png 
-
-
-
-
-  - name: Yoshua Bengio 
-    url: https://yoshuabengio.org
-    aff: MILA, Université de Montréal
-    interest: 
-    image: assets/images/yoshua.png 
-
-
 
   - name: Carla P. Gomes
     url: https://www.cs.cornell.edu/gomes/
@@ -152,19 +136,6 @@ ProfessorOrganizers:
     interest: 
     image: assets/images/carla.png 
 
-
-  - name: Aviv Regev
-    url: https://biology.mit.edu/profile/aviv-regev/
-    aff: MIT, Genentech
-    interest: 
-    image: assets/images/aviv.png 
-
-
-  - name: Max Welling 
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: University of Amsterdam, Microsoft Research
-    interest: 
-    image: assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
@@ -234,10 +205,10 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 
 {% include team.html id="StudentOrganizers" %}
 
-<!-- ## Senior Organizers 
+## Senior Organizers 
 
 {% include team.html id="ProfessorOrganizers" %}
- -->
+
 
 <!-- <ul>
 {% for p in page.StudentOrganizers %}
