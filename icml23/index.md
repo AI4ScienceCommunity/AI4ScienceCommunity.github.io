@@ -135,6 +135,13 @@ ProfessorOrganizers:
     aff: Cornell
     interest: 
     image: assets/images/carla.png 
+    
+  - name: Rocío Mercado
+    url: https://rociomer.github.io/
+    aff: Chalmers
+    interest: AI-driven molecular engineering
+    image: assets/images/rocio.png 
+        
 
 
   - name: Marinka Zitnik
