@@ -139,7 +139,7 @@ ProfessorOrganizers:
   - name: Rocío Mercado
     url: https://rociomer.github.io/
     aff: Chalmers
-    interest: AI-driven molecular engineering
+    interest: 
     image: assets/images/rocio.png 
         
 
