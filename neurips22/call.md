@@ -13,6 +13,7 @@ Our workshop calls for high-quality and cutting-edge paper submissions in the fo
 This track calls for 4-8 page paper (with unlimited references and appendices) of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. Appendix is optional, but reviewers are not required to read. 
 
 Example topics include (but not limited to):
+- Learning from acoustics
 - Learning physical dynamics from data
 - Speeding up physical simulators, samplers and solvers
 - Molecular modeling and de novo generation
