@@ -136,7 +136,7 @@ StudentOrganizers:
     url: https://lijingwang.github.io/
     aff: Stanford
     interest: AI for Earth Sciences
-    image: assets/images/lijing.png 
+    image: assets/images/lijing2.png 
 
 
 ProfessorOrganizers:
