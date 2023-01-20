@@ -141,6 +141,12 @@ ProfessorOrganizers:
     interest: 
     image: assets/images/carla.png 
     
+  - name: Jure Leskovec 
+    url: https://cs.stanford.edu/people/jure/
+    aff: Stanford
+    interest: 
+    image: assets/images/jure.png 
+
 
 
   - name: Marinka Zitnik
