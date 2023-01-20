@@ -121,7 +121,7 @@ StudentOrganizers:
   - name: Rocío Mercado
     url: https://rociomer.github.io/
     aff: Chalmers
-    interest: 
+    interest: AI-driven biomolecular engineering
     image: assets/images/rocio.png 
 
 
