@@ -135,7 +135,7 @@ StudentOrganizers:
   - name: Lijing Wang 
     url: https://lijingwang.github.io/
     aff: Stanford
-    interest: AI for Geological Sciences/Earth and Planetary Sciences
+    interest: AI for Earth Sciences
     image: assets/images/lijing.png 
 
 
