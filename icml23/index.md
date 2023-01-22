@@ -11,43 +11,11 @@ speakers:
     url: https://www.bakerlab.org/
     topic: 
     aff: UW
-    interest: AI, Biology
-    image: assets/images/david_baker.png 
+    interest: AI, Fluid Dynamics
+    image: assets/images/steven_brunton.png 
 
-  - name: Weinan E
-    url: http://web.math.princeton.edu/~weinan/
-    topic: 
-    aff: Princeton and PKU
-    interest: AI, Applied Mathematics
-    image: assets/images/weinan.png 
 
-  - name: Tess Smidt 
-    url: https://blondegeek.github.io/
-    topic: 
-    aff: MIT
-    interest: AI, Physical Sciences
-    image: assets/images/tess.png 
 
-  - name: Shuiwang Ji 
-    url: http://people.tamu.edu/~sji/
-    topic: 
-    aff: TAMU
-    interest: AI, Chemistry
-    image: assets/images/shuiwang.png 
-
-  - name: Jimeng Sun 
-    url: https://sunlab.org/
-    topic: 
-    aff: UIUC
-    interest: AI, Health
-    image: assets/images/jimeng.png 
-
-  - name: Maria Schuld
-    url: https://quantum.ukzn.ac.za/ms-m-schuld/
-    topic: 
-    aff: Xanadu
-    interest: AI, Quantum Computing
-    image: assets/images/maria.png 
 
 Panelist:
 
@@ -219,6 +187,12 @@ Please submit your paper in [Openreview](https://openreview.net/group?id=NeurIPS
 # Organizers and Contact
 
 Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+
+## Speakers (alphabetical order)
+
+{% include team.html id="speakers" %}
+
+
 
 ## Student Organizers (alphabetical order)
 
