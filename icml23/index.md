@@ -86,12 +86,6 @@ StudentOrganizers:
     interest: AI for Biology
     image: assets/images/kexin.png
 
-  - name: Rocío Mercado
-    url: https://rociomer.github.io/
-    aff: Chalmers
-    interest: AI-driven biomolecular engineering
-    image: assets/images/rocio.png 
-
 
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
@@ -122,6 +116,11 @@ ProfessorOrganizers:
     interest: 
     image: assets/images/jure.png 
 
+  - name: Rocío Mercado
+    url: https://rociomer.github.io/
+    aff: Chalmers
+    interest: 
+    image: assets/images/rocio.png 
 
 
   - name: Marinka Zitnik
