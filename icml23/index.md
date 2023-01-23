@@ -11,7 +11,7 @@ speakers:
     url: https://www.bakerlab.org/
     topic: 
     aff: UW
-    interest: AI, Fluid Dynamics
+    interest: AI for control and simulation
     image: assets/images/steven_brunton.png 
 
 
