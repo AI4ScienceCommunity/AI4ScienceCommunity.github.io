@@ -7,8 +7,8 @@ permalink: /icml23
 
 speakers:
 
-  - name: David Baker 
-    url: https://www.bakerlab.org/
+  - name: Steven Brunton  
+    url: https://www.me.washington.edu/facultyfinder/steve-brunton 
     topic: 
     aff: UW
     interest: AI for control and simulation
