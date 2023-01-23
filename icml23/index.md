@@ -193,11 +193,11 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 
 
 
-## Student Organizers (alphabetical order)
+## Organizing Committee (alphabetical order)
 
 {% include team.html id="StudentOrganizers" %}
 
-## Senior Organizers 
+## Advisory Committee 
 
 {% include team.html id="ProfessorOrganizers" %}
 
