@@ -19,7 +19,7 @@ speakers:
     topic: 
     aff: DeepMind
     interest: AI for Cognitive Science
-    image: assets/images/steven_brunton.png 
+    image: assets/images/peter_battaglia.png 
 
 
 
