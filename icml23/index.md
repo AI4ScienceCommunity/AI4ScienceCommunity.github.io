@@ -14,6 +14,12 @@ speakers:
     interest: AI for control and simulation
     image: assets/images/steven_brunton.png 
 
+  - name: Peter Battaglia   
+    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
+    topic: 
+    aff: DeepMind
+    interest: AI for Cognitive Science
+    image: assets/images/steven_brunton.png 
 
 
 
