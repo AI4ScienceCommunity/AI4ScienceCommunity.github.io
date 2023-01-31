@@ -14,6 +14,14 @@ speakers:
     interest: AI, Control and Simulation
     image: assets/images/steven_brunton.png 
 
+  - name: Fei Chen   
+    url: https://www.broadinstitute.org/bios/fei-chen 
+    topic: 
+    aff: Broad Institute of MIT and Harvard 
+    interest: AI, Biology
+    image: assets/images/fei_chen.png 
+
+
   - name: Peter Battaglia   
     url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
     topic: 
