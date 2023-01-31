@@ -19,7 +19,7 @@ speakers:
     topic: 
     aff: Broad Institute of MIT and Harvard 
     interest: AI, Biology
-    image: assets/images/fei_chen.png 
+    image: assets/images/fei_chen2.png 
 
 
   - name: Peter Battaglia   
