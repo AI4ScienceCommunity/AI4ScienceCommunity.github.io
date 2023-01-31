@@ -21,6 +21,13 @@ speakers:
     interest: AI for Cognitive Science
     image: assets/images/peter_battaglia.png 
 
+  - name: Azalia Mirhoseini   
+    url: http://azaliamirhoseini.com/  
+    topic: 
+    aff: Google Brain 
+    interest: AI for Chip Design
+    image: assets/images/azalia.png 
+
 
 
 Panelist:
