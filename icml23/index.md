@@ -11,21 +11,21 @@ speakers:
     url: https://www.me.washington.edu/facultyfinder/steve-brunton 
     topic: 
     aff: UW
-    interest: AI for control and simulation
+    interest: AI, Control and Simulation
     image: assets/images/steven_brunton.png 
 
   - name: Peter Battaglia   
     url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
     topic: 
     aff: DeepMind
-    interest: AI for Cognitive Science
+    interest: AI, Physical Simulation
     image: assets/images/peter_battaglia.png 
 
   - name: Azalia Mirhoseini   
     url: http://azaliamirhoseini.com/  
     topic: 
     aff: Google Brain 
-    interest: AI for Chip Design
+    interest: AI, Chip Design
     image: assets/images/azalia.png 
 
 
