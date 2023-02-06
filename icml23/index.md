@@ -36,7 +36,12 @@ speakers:
     interest: AI, Chip Design
     image: assets/images/azalia.png 
 
-
+  - name: Larry Zitnick   
+    url: http://larryzitnick.org/ 
+    topic: 
+    aff: Meta AI 
+    interest: AI, Chemistry
+    image: assets/images/larry_zitnick.png 
 
 
 Panelist:
