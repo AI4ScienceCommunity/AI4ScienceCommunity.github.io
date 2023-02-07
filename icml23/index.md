@@ -7,12 +7,22 @@ permalink: /icml23
 
 speakers:
 
+
+  - name: Peter Battaglia   
+    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
+    topic: 
+    aff: DeepMind
+    interest: AI, Physical Simulation
+    image: assets/images/peter_battaglia.png 
+ 
+
   - name: Steven Brunton  
     url: https://www.me.washington.edu/facultyfinder/steve-brunton 
     topic: 
     aff: UW
     interest: AI, Control and Simulation
     image: assets/images/steven_brunton.png 
+
 
   - name: Fei Chen   
     url: https://www.broadinstitute.org/bios/fei-chen 
@@ -21,13 +31,6 @@ speakers:
     interest: AI, Biology
     image: assets/images/fei_chen2.png 
 
-
-  - name: Peter Battaglia   
-    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
-    topic: 
-    aff: DeepMind
-    interest: AI, Physical Simulation
-    image: assets/images/peter_battaglia.png 
 
   - name: Azalia Mirhoseini   
     url: http://azaliamirhoseini.com/  
