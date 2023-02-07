@@ -39,7 +39,7 @@ speakers:
     interest: AI, Chip Design
     image: assets/images/azalia.png 
     
-   - name: Rick Stevens    
+  - name: Rick Stevens    
     url: https://cs.uchicago.edu/people/rick-stevens/  
     topic: 
     aff: University of Chicago
