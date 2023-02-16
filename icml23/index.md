@@ -7,6 +7,12 @@ permalink: /icml23
 
 speakers:
 
+  - name: Alán Aspuru-Guzik   
+    url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
+    topic: 
+    aff: University of Toronto
+    interest: AI, Chemistry
+    image: assets/images/alan.png 
 
   - name: Peter Battaglia   
     url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
