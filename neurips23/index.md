@@ -130,6 +130,16 @@ StudentOrganizers:
     interest: AI for Biology
     image: assets/images/kexin.png
 
+  - name: Shengchao Liu (MILA)
+    url: https://chao1224.github.io/
+    interest: Transfer Learning, Molecule Discovery
+    image: assets/images/test.jpeg
+    
+  - name: Ziming Liu (MIT)
+    url: https://kindxiaoming.github.io/
+    interest: AI for Physics & Physics for AI, Mechanistic Interpretability 
+    image: assets/images/test.jpeg
+
 
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
@@ -214,12 +224,12 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Abstract Deadline: May 25, 2023
-- Submission Deadline: June 02, 2023
-- Author Notification: June 22, 2023
-- Travel Award Application: July 7st, 2023
-- Conference Date: July 23 -- 29, 2023
-- Workshop Date: 08:00 AM -- 06:00 PM, July 29, 2023
+- Abstract Deadline: Sep 25, 2023
+- Submission Deadline: Oct 02, 2023
+- Author Notification: Oct 22, 2023
+- Travel Award Application: Nov 7st, 2023
+- Conference Date: Nov 26 -- Dec 4, 2023
+- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2023
 
 
 ## Submissions 
