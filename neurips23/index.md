@@ -1,7 +1,7 @@
 ---
-layout: icml23
+layout: neurips23
 title: "AI for Science: Reliability and Actionability"
-permalink: /icml23
+permalink: /neurips23
 
 
 
