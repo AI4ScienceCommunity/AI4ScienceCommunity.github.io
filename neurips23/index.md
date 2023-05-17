@@ -110,6 +110,15 @@ StudentOrganizers:
     image: assets/images/yuanqi.png 
 
 
+
+  - name: Chenru Duan
+    url: https://www.crduan.com/
+    aff: MIT
+    interest: AI for Chemistry
+    image: assets/images/chenru.png 
+
+
+
   - name: Tianfan Fu 
     url: https://futianfan.github.io/
     aff: Gatech
