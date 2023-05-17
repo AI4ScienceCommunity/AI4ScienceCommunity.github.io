@@ -133,12 +133,12 @@ StudentOrganizers:
   - name: Shengchao Liu (MILA)
     url: https://chao1224.github.io/
     interest: Transfer Learning, Molecule Discovery
-    image: assets/images/test.jpeg
+    image: assets/images/shengchao.jpeg
     
   - name: Ziming Liu (MIT)
     url: https://kindxiaoming.github.io/
     interest: AI for Physics & Physics for AI, Mechanistic Interpretability 
-    image: assets/images/test.jpeg
+    image: assets/images/ziming.jpeg
 
 
   - name: Hanchen Wang 
