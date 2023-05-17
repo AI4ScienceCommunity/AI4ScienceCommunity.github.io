@@ -1,6 +1,6 @@
 ---
 layout: neurips23
-title: "AI for Science: Reliability and Actionability"
+title: "AI for Scientific Discovery: From Theory to Practice"
 permalink: /neurips23
 
 
@@ -60,6 +60,8 @@ speakers:
     interest: AI, Chemistry
     image: assets/images/larry_zitnick.png 
 
+
+<!-- Using AI to accelerate scientific discovery -->
 
 Panelist:
 
