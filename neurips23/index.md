@@ -7,47 +7,59 @@ permalink: /neurips23
 
 speakers:
 
-  - name: David Baker 
-    url: https://www.bakerlab.org/
+  - name: Alán Aspuru-Guzik   
+    url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
+    topic: 
+    aff: University of Toronto
+    interest: AI, Chemistry
+    image: assets/images/alan.png 
+
+  - name: Peter Battaglia   
+    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
+    topic: 
+    aff: DeepMind
+    interest: AI, Physical Simulation
+    image: assets/images/peter_battaglia.png 
+ 
+
+  - name: Steven Brunton  
+    url: https://www.me.washington.edu/facultyfinder/steve-brunton 
     topic: 
     aff: UW
+    interest: AI, Control and Simulation
+    image: assets/images/steven_brunton.png 
+
+
+  - name: Fei Chen   
+    url: https://www.broadinstitute.org/bios/fei-chen 
+    topic: 
+    aff: Broad Institute of MIT and Harvard 
     interest: AI, Biology
-    image: assets/images/david_baker.png 
+    image: assets/images/fei_chen2.png 
 
-  - name: Weinan E
-    url: http://web.math.princeton.edu/~weinan/
-    topic: 
-    aff: Princeton and PKU
-    interest: AI, Applied Mathematics
-    image: assets/images/weinan.png 
 
-  - name: Tess Smidt 
-    url: https://blondegeek.github.io/
+  - name: Azalia Mirhoseini   
+    url: http://azaliamirhoseini.com/  
     topic: 
-    aff: MIT
-    interest: AI, Physical Sciences
-    image: assets/images/tess.png 
+    aff: Google Brain 
+    interest: AI, Chip Design
+    image: assets/images/azalia.png 
+    
+  - name: Rick Stevens    
+    url: https://cs.uchicago.edu/people/rick-stevens/  
+    topic: 
+    aff: University of Chicago
+    interest: AI, Life Science
+    image: assets/images/rick_stevens.png    
+    
 
-  - name: Shuiwang Ji 
-    url: http://people.tamu.edu/~sji/
+  - name: Larry Zitnick   
+    url: http://larryzitnick.org/ 
     topic: 
-    aff: TAMU
+    aff: Meta AI 
     interest: AI, Chemistry
-    image: assets/images/shuiwang.png 
+    image: assets/images/larry_zitnick.png 
 
-  - name: Jimeng Sun 
-    url: https://sunlab.org/
-    topic: 
-    aff: UIUC
-    interest: AI, Health
-    image: assets/images/jimeng.png 
-
-  - name: Maria Schuld
-    url: https://quantum.ukzn.ac.za/ms-m-schuld/
-    topic: 
-    aff: Xanadu
-    interest: AI, Quantum Computing
-    image: assets/images/maria.png 
 
 Panelist:
 
