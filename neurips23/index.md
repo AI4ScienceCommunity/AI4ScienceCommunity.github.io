@@ -63,7 +63,10 @@ speakers:
 
 <!-- Using AI to accelerate scientific discovery -->
 
-<!-- Panelist:
+
+<!-- 
+
+Panelist:
 
   - name: Peter Lee
     url: https://www.microsoft.com/en-us/research/people/petelee/
@@ -222,14 +225,7 @@ We welcome people with diverse background and level of experience to attend our 
 
 Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions.
 
-<!-- # Invited Talks (In alphabetical order)
 
-{% include team.html id="speakers" %}
-
-# Panel: Landing of AI for Science and future of AI for Science in industry
-
-{% include team.html id="Panelist" %}
- -->
 
 
 
@@ -265,8 +261,8 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 ## Advisory Committee 
 
 {% include team.html id="ProfessorOrganizers" %}
- -->
 
+ -->
 <!-- <ul>
 {% for p in page.StudentOrganizers %}
 <li>
