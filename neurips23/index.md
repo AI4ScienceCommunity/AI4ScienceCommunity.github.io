@@ -1,70 +1,53 @@
 ---
 layout: neurips23
-title: "AI for Scientific Discovery: From Theory to Practice"
+title: "AI for Science: Progress and Promises"
 permalink: /neurips23
 
 
 
 speakers:
 
-  - name: Alán Aspuru-Guzik  
-    url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
-    topic: 
-    aff: University of Toronto
-    interest: AI, Chemistry
-    image: assets/images/alan.png 
-
-  - name: Peter Battaglia   
-    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
-    topic: 
-    aff: DeepMind
-    interest: AI, Physical Simulation
-    image: assets/images/peter_battaglia.png 
- 
-
-  - name: Steven Brunton  
-    url: https://www.me.washington.edu/facultyfinder/steve-brunton 
+  - name: David Baker 
+    url: https://www.bakerlab.org/
     topic: 
     aff: UW
-    interest: AI, Control and Simulation
-    image: assets/images/steven_brunton.png 
-
-
-  - name: Fei Chen   
-    url: https://www.broadinstitute.org/bios/fei-chen 
-    topic: 
-    aff: Broad Institute of MIT and Harvard 
     interest: AI, Biology
-    image: assets/images/fei_chen2.png 
+    image: assets/images/david_baker.png 
 
+  - name: Weinan E
+    url: http://web.math.princeton.edu/~weinan/
+    topic: 
+    aff: Princeton and PKU
+    interest: AI, Applied Mathematics
+    image: assets/images/weinan.png 
 
-  - name: Azalia Mirhoseini   
-    url: http://azaliamirhoseini.com/  
+  - name: Tess Smidt 
+    url: https://blondegeek.github.io/
     topic: 
-    aff: Google Brain 
-    interest: AI, Chip Design
-    image: assets/images/azalia.png 
-    
-  - name: Rick Stevens    
-    url: https://cs.uchicago.edu/people/rick-stevens/  
-    topic: 
-    aff: University of Chicago
-    interest: AI, Life Science
-    image: assets/images/rick_stevens.png    
-    
+    aff: MIT
+    interest: AI, Physical Sciences
+    image: assets/images/tess.png 
 
-  - name: Larry Zitnick   
-    url: http://larryzitnick.org/ 
+  - name: Shuiwang Ji 
+    url: http://people.tamu.edu/~sji/
     topic: 
-    aff: Meta AI 
+    aff: TAMU
     interest: AI, Chemistry
-    image: assets/images/larry_zitnick.png 
+    image: assets/images/shuiwang.png 
 
+  - name: Jimeng Sun 
+    url: https://sunlab.org/
+    topic: 
+    aff: UIUC
+    interest: AI, Health
+    image: assets/images/jimeng.png 
 
-<!-- Using AI to accelerate scientific discovery -->
-
-
-<!-- 
+  - name: Maria Schuld
+    url: https://quantum.ukzn.ac.za/ms-m-schuld/
+    topic: 
+    aff: Xanadu
+    interest: AI, Quantum Computing
+    image: assets/images/maria.png 
 
 Panelist:
 
@@ -106,7 +89,7 @@ StudentOrganizers:
     url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
     aff: Stanford 
     interest: AI for Multiomics
-    image: assets/images/daisy2.png 
+    image: assets/images/daisy.png 
 
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
@@ -122,7 +105,8 @@ StudentOrganizers:
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
-
+  
+  
 
   - name: Tianfan Fu 
     url: https://futianfan.github.io/
@@ -131,45 +115,31 @@ StudentOrganizers:
     image: assets/images/tianfan.png 
 
 
-  - name: Wenhao Gao
-    url: https://wenhao-gao.github.io/
-    aff: MIT
-    interest: AI for Chemistry
-    image: assets/images/wenhao.png 
-
-  
-  - name: Kexin Huang 
-    url: https://www.kexinhuang.com/
-    aff: Stanford
-    interest: AI for Biology
-    image: assets/images/kexin.png
-
-  - name: Shengchao Liu (MILA)
-    url: https://chao1224.github.io/
-    interest: Transfer Learning, Molecule Discovery
-    image: assets/images/shengchao.jpeg
-    
-  - name: Ziming Liu (MIT)
-    url: https://kindxiaoming.github.io/
-    interest: AI for Physics & Physics for AI, Mechanistic Interpretability 
-    image: assets/images/ziming.jpeg
-
 
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
-    aff: Stanford/Genentech
+    aff: Cambridge/Caltech
     interest: AI for Medical Science
     image: assets/images/hanchen.png 
 
 
-  - name: Lijing Wang 
-    url: https://lijingwang.github.io/
-    aff: Stanford
-    interest: AI for Earth Sciences
-    image: assets/images/lijing2.png 
-
-
 ProfessorOrganizers:
+
+  - name: Anima Anandkumar 
+    url: http://tensorlab.cms.caltech.edu/users/anima/
+    aff: Caltech, NVIDIA
+    interest: 
+    image: assets/images/anima.png 
+
+
+
+
+  - name: Yoshua Bengio 
+    url: https://yoshuabengio.org
+    aff: MILA, Université de Montréal
+    interest: 
+    image: assets/images/yoshua.png 
+
 
 
   - name: Carla P. Gomes
@@ -177,19 +147,20 @@ ProfessorOrganizers:
     aff: Cornell
     interest: 
     image: assets/images/carla.png 
-    
-  - name: Jure Leskovec 
-    url: https://cs.stanford.edu/people/jure/
-    aff: Stanford
-    interest: 
-    image: assets/images/jure.png 
 
-  - name: Rocío Mercado
-    url: https://rociomer.github.io/
-    aff: Chalmers
-    interest: 
-    image: assets/images/rocio.png 
 
+  - name: Aviv Regev
+    url: https://biology.mit.edu/profile/aviv-regev/
+    aff: MIT, Genentech
+    interest: 
+    image: assets/images/aviv.png 
+
+
+  - name: Max Welling 
+    url: https://staff.fnwi.uva.nl/m.welling
+    aff: University of Amsterdam, Microsoft Research
+    interest: 
+    image: assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
@@ -203,7 +174,7 @@ ProfessorOrganizers:
 
 # About
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting-edge of AI going forward. We are particularly interested in the following topics:
+For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
 
 - **Solving grand challenges in structural biology**
 
@@ -225,18 +196,50 @@ We welcome people with diverse background and level of experience to attend our 
 
 Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions.
 
+# Invited Talks (In alphabetical order)
 
+{% include team.html id="speakers" %}
+
+# Panel: Landing of AI for Science and future of AI for Science in industry
+
+{% include team.html id="Panelist" %}
+
+
+# Schedule
+
+08:00 AM – 06:00 PM (Central Time), Dec 2, 2022
+
+| Event | | Time |
+| :--- | --- | :--- |
+| Openning Remarks | Organizing Team | 8:00-8:15am |
+| Invited Talk | Weinan E | 8:15-9:10am |
+| Invited Talk | Shuiwang Ji  | 9:10-10:05am |
+| Coffee Break | - | 10:05-10:15am |
+| Invited Talk | Maria Schuld | 10:15-11:10am |
+| Invited Talk | David Baker | 11:10-12:05pm |
+| Poster Session | | 12:05pm-13:00pm |
+| Contributed Talk | DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking | 13:00-13:10pm |
+| Contributed Talk | An "interpretable-by-design" neural network to decipher RNA splicing regulatory logic | 13:10-13:20pm |
+| Contributed Talk | FALCON: Fourier Adaptive Learning and Control for Disturbance Rejection Under Extreme Turbulence | 13:20-13:30pm |
+| Contributed Talk | Structural Causal Model for Molecular Dynamics Simulation | 13:30-13:40pm |
+| Contributed Talk | Structure-Inducing Pre-training | 13:40-13:50pm |
+| Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, Matt Welborn <br>Moderator: Max Welling | 13:55-14:55pm |
+| Coffee Break | - | 14:55-15:10pm |
+| Invited Talk | Jimeng Sun | 15:10-16:05pm |
+| Invited Talk | Tess Smidt | 16:05-17:00pm |
+| Closing Remarks | Organizing Team | 17:00-17:10pm |
+| Poster Session | | 17:10-18:00pm |
 
 
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Abstract Deadline: Sep 25, 2023
-- Submission Deadline: Oct 02, 2023
-- Author Notification: Oct 22, 2023
-- Travel Award Application: Nov 7st, 2023
-- Conference Date: Nov 26 -- Dec 4, 2023
-- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2023
+- Abstract Deadline: Sep 25, 2022
+- Submission Deadline: Oct 02, 2022
+- Author Notification: Oct 22, 2022
+- Travel Award Application: Nov 7st, 2022
+- Conference Date: Nov 26 -- Dec 4, 2022
+- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2022
 
 
 ## Submissions 
@@ -248,21 +251,15 @@ Please submit your paper in [Openreview](https://openreview.net/group?id=NeurIPS
 
 Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
-## Speakers (alphabetical order)
-
-{% include team.html id="speakers" %}
-
-
-
-## Organizing Committee (alphabetical order)
+## Student Organizers (alphabetical order)
 
 {% include team.html id="StudentOrganizers" %}
 
-## Advisory Committee 
+## Senior Organizers 
 
 {% include team.html id="ProfessorOrganizers" %}
 
- -->
+
 <!-- <ul>
 {% for p in page.StudentOrganizers %}
 <li>
