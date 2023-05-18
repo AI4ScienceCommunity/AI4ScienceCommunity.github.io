@@ -207,7 +207,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Schedule
 
-08:00 AM – 06:00 PM (Central Time), Dec 2, 2022
+08:00 AM – 06:00 PM (Central Time), Dec 2, 2023
 
 | Event | | Time |
 | :--- | --- | :--- |
@@ -234,12 +234,12 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Abstract Deadline: Sep 25, 2022
-- Submission Deadline: Oct 02, 2022
-- Author Notification: Oct 22, 2022
-- Travel Award Application: Nov 7st, 2022
-- Conference Date: Nov 26 -- Dec 4, 2022
-- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2022
+- Abstract Deadline: Sep 25, 2023
+- Submission Deadline: Oct 02, 2023
+- Author Notification: Oct 22, 2023
+- Travel Award Application: Nov 7st, 2023
+- Conference Date: Nov 26 -- Dec 4, 2023
+- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2023
 
 
 ## Submissions 

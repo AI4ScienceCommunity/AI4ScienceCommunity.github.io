@@ -7,7 +7,7 @@ permalink: /neurips23/schedule
 
 # Schedule
 
-08:00 AM – 06:00 PM (Central Time), Dec 2, 2022
+08:00 AM – 06:00 PM (Central Time), Dec 2, 2023
 
 | Event | | Time |
 | :--- | --- | :--- |
