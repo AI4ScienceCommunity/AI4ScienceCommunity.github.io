@@ -14,13 +14,6 @@ speakers:
     interest: AI, Chemistry
     image: assets/images/alan.png 
 
-<!--   - name: Peter Battaglia   
-    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en 
-    topic: 
-    aff: DeepMind
-    interest: AI, Physical Simulation
-    image: assets/images/peter_battaglia.png 
-  -->
 
   - name: Steven Brunton  
     url: https://www.me.washington.edu/facultyfinder/steve-brunton 
@@ -30,17 +23,6 @@ speakers:
     image: assets/images/steven_brunton.png 
 
 
-<!--   - name: Fei Chen   
-    url: https://www.broadinstitute.org/bios/fei-chen 
-    topic: 
-    aff: Broad Institute of MIT and Harvard 
-    interest: AI, Biology
-    image: assets/images/fei_chen2.png 
-
- -->
-
-
- 
   - name: Azalia Mirhoseini   
     url: http://azaliamirhoseini.com/  
     topic: 
@@ -56,13 +38,7 @@ speakers:
     image: assets/images/rick_stevens.png    
     
 
-<!--   - name: Larry Zitnick   
-    url: http://larryzitnick.org/ 
-    topic: 
-    aff: Meta AI 
-    interest: AI, Chemistry
-    image: assets/images/larry_zitnick.png 
- -->
+
 
 Panelist:
 
