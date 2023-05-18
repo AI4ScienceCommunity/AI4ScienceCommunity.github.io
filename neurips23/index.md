@@ -89,7 +89,8 @@ StudentOrganizers:
     url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
     aff: Stanford 
     interest: AI for Multiomics
-    image: assets/images/daisy.png 
+    image: assets/images/daisy2.png 
+
 
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
@@ -105,8 +106,7 @@ StudentOrganizers:
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
-  
-  
+
 
   - name: Tianfan Fu 
     url: https://futianfan.github.io/
@@ -115,13 +115,44 @@ StudentOrganizers:
     image: assets/images/tianfan.png 
 
 
+  - name: Wenhao Gao
+    url: https://wenhao-gao.github.io/
+    aff: MIT
+    interest: AI for Chemistry
+    image: assets/images/wenhao.png 
+
+
+  - name: Kexin Huang 
+    url: https://www.kexinhuang.com/
+    aff: Stanford
+    interest: AI for Biology
+    image: assets/images/kexin.png
+
+
+  - name: Shengchao Liu (MILA)
+    url: https://chao1224.github.io/
+    interest: Transfer Learning, Molecule Discovery
+    image: assets/images/shengchao.jpeg
+    
+
+  - name: Ziming Liu (MIT)
+    url: https://kindxiaoming.github.io/
+    interest: AI for Physics, Physics for AI, Mechanistic Interpretability 
+    image: assets/images/ziming.jpeg
+
 
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
-    aff: Cambridge/Caltech
+    aff: Stanford/Genentech
     interest: AI for Medical Science
     image: assets/images/hanchen.png 
 
+
+  - name: Lijing Wang 
+    url: https://lijingwang.github.io/
+    aff: Stanford
+    interest: AI for Earth Sciences
+    image: assets/images/lijing2.png 
 
 ProfessorOrganizers:
 
