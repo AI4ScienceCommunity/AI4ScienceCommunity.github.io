@@ -227,7 +227,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 {% include team.html id="speakers" %}
 
-# Panel: Landing of AI for Science and future of AI for Science in industry
+# Panel: Using AI to Accelerate Scientific Discovery
 
 {% include team.html id="Panelist" %}
 
