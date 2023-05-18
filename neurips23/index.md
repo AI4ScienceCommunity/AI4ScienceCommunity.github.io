@@ -7,7 +7,7 @@ permalink: /neurips23
 
 speakers:
 
-  - name: Alán Aspuru-Guzik   
+  - name: Alán Aspuru-Guzik  
     url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
     topic: 
     aff: University of Toronto
@@ -63,7 +63,7 @@ speakers:
 
 <!-- Using AI to accelerate scientific discovery -->
 
-Panelist:
+<!-- Panelist:
 
   - name: Peter Lee
     url: https://www.microsoft.com/en-us/research/people/petelee/
@@ -265,7 +265,7 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 ## Advisory Committee 
 
 {% include team.html id="ProfessorOrganizers" %}
-
+ -->
 
 <!-- <ul>
 {% for p in page.StudentOrganizers %}

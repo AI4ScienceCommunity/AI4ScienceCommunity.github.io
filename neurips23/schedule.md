@@ -1,7 +1,7 @@
 ---
-layout: icml23
+layout: neurips23
 title: "AI for Science: Progress and Promises"
-permalink: /icml23/schedule
+permalink: /neurips23/schedule
 ---
 
 
