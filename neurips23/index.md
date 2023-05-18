@@ -97,6 +97,12 @@ StudentOrganizers:
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
+  - name: Ada Fang 
+    url: https://chemistry.harvard.edu/people/ada-fang
+    aff: Harvard
+    interest: AI for Chemistry 
+    image: assets/images/ada.jpg
+
 
 
   - name: Tianfan Fu 
