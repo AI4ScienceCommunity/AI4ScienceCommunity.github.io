@@ -129,14 +129,16 @@ StudentOrganizers:
     image: assets/images/kexin.png
 
 
-  - name: Shengchao Liu (MILA)
+  - name: Shengchao Liu 
     url: https://chao1224.github.io/
+    aff: MILA
     interest: Transfer Learning, Molecule Discovery
     image: assets/images/shengchao.jpeg
     
 
-  - name: Ziming Liu (MIT)
+  - name: Ziming Liu
     url: https://kindxiaoming.github.io/
+    aff: MIT
     interest: AI for Physics, Physics for AI, Mechanistic Interpretability 
     image: assets/images/ziming.jpeg
 
@@ -156,42 +158,24 @@ StudentOrganizers:
 
 ProfessorOrganizers:
 
-  - name: Anima Anandkumar 
-    url: http://tensorlab.cms.caltech.edu/users/anima/
-    aff: Caltech, NVIDIA
-    interest: 
-    image: assets/images/anima.png 
-
-
-
-
-  - name: Yoshua Bengio 
-    url: https://yoshuabengio.org
-    aff: MILA, Université de Montréal
-    interest: 
-    image: assets/images/yoshua.png 
-
-
-
   - name: Carla P. Gomes
     url: https://www.cs.cornell.edu/gomes/
     aff: Cornell
     interest: 
     image: assets/images/carla.png 
-
-
-  - name: Aviv Regev
-    url: https://biology.mit.edu/profile/aviv-regev/
-    aff: MIT, Genentech
+    
+  - name: Jure Leskovec 
+    url: https://cs.stanford.edu/people/jure/
+    aff: Stanford
     interest: 
-    image: assets/images/aviv.png 
+    image: assets/images/jure.png 
 
-
-  - name: Max Welling 
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: University of Amsterdam, Microsoft Research
+  - name: Rocío Mercado
+    url: https://rociomer.github.io/
+    aff: Chalmers
     interest: 
-    image: assets/images/max.png 
+    image: assets/images/rocio.png 
+
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
