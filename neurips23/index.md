@@ -173,6 +173,13 @@ ProfessorOrganizers:
     interest: 
     image: assets/images/rocio.png 
 
+  - name: 
+    url: https://staff.fnwi.uva.nl/m.welling
+    aff: University of Amsterdam, Microsoft Research
+    interest: 
+    image: assets/images/max.png 
+
+
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
