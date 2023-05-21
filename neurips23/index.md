@@ -136,7 +136,7 @@ StudentOrganizers:
   - name: Ziming Liu
     url: https://kindxiaoming.github.io/
     aff: MIT
-    interest: AI for Physics, Physics for AI, Mechanistic Interpretability 
+    interest: AI for Physics 
     image: assets/images/ziming.jpeg
 
 
