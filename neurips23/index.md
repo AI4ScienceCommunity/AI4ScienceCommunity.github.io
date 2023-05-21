@@ -145,7 +145,7 @@ ProfessorOrganizers:
 
   - name: Miles Cranmer
     url: https://www.cs.cornell.edu/gomes/
-    aff: Cornell
+    aff: University of Cambridge 
     interest: 
     image: assets/images/miles_cranmer.jpeg  
 
