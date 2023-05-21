@@ -62,10 +62,10 @@ Panelist:
     aff: New York University, Facebook AI Research 
     image: assets/images/alex.png 
 
-  - name: Matt Welborn
-    url: https://scholar.google.com/citations?user=dMq6UYMAAAAJ&hl=en
-    aff: Entos 
-    image: assets/images/matt.png 
+  - name: David Spergel
+    url: https://www.astro.princeton.edu/~dns/ 
+    aff: Princeton 
+    image: assets/images/david_spergel.jpeg  
 
   - name: Max Welling (Moderator)
     url: https://staff.fnwi.uva.nl/m.welling
