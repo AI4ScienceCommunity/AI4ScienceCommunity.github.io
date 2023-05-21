@@ -129,7 +129,7 @@ StudentOrganizers:
   - name: Shengchao Liu 
     url: https://chao1224.github.io/
     aff: MILA
-    interest: Transfer Learning, Molecule Discovery
+    interest: AI for Molecule Discovery
     image: assets/images/shengchao.jpeg
     
 
