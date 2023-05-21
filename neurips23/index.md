@@ -42,36 +42,17 @@ speakers:
 
 Panelist:
 
-  - name: Peter Lee
-    url: https://www.microsoft.com/en-us/research/people/petelee/
-    aff: Microsoft Research & Incubations 
-    image: assets/images/peter_lee.png 
-
-  - name: Sara-Jane Dunn
-    url: https://scholar.google.com/citations?user=ttq50FMAAAAJ&hl=en
-    aff: DeepMind 
-    image: assets/images/sara.png 
-
-  - name: Arvind Rajpal
-    url: https://www.gene.com/scientists/our-scientists/arvind-rajpal
-    aff: Genetech 
-    image: assets/images/arvind.png 
-
-  - name: Alexander Rives
-    url: https://scholar.google.com/citations?user=vqb78-gAAAAJ&hl=en
-    aff: New York University, Facebook AI Research 
-    image: assets/images/alex.png 
+  - name: Thomas Kalil
+    url: https://www.schmidtfutures.com/person/tom-kalil/ 
+    aff: Schmidt Futures 
+    image: assets/images/thomas_kalil.jpeg 
 
   - name: David Spergel
     url: https://www.astro.princeton.edu/~dns/ 
     aff: Princeton 
     image: assets/images/david_spergel.jpeg  
 
-  - name: Max Welling (Moderator)
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: UvA, Microsoft Research
-    interest: 
-    image: assets/images/max.png 
+
 
 
 StudentOrganizers:
