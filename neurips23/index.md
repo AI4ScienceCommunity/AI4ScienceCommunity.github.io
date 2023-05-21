@@ -173,7 +173,7 @@ ProfessorOrganizers:
     interest: 
     image: assets/images/rocio.png 
 
-  - name: 
+  - name: Max Welling
     url: https://staff.fnwi.uva.nl/m.welling
     aff: University of Amsterdam, Microsoft Research
     interest: 
