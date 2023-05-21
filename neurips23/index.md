@@ -139,9 +139,15 @@ ProfessorOrganizers:
 
   - name: Maria Brbić 
     url: https://people.epfl.ch/maria.brbic 
-    aff: EPFL
+    aff: https://astroautomata.com/
     interest: 
     image: assets/images/maria.jpeg  
+
+  - name: Miles Cranmer
+    url: https://www.cs.cornell.edu/gomes/
+    aff: Cornell
+    interest: 
+    image: assets/images/miles_cranmer.jpeg  
 
   - name: Carla P. Gomes
     url: https://www.cs.cornell.edu/gomes/
