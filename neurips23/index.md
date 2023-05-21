@@ -136,6 +136,13 @@ StudentOrganizers:
 
 ProfessorOrganizers:
 
+
+  - name: Maria Brbić 
+    url: https://people.epfl.ch/maria.brbic 
+    aff: EPFL
+    interest: 
+    image: assets/images/maria.jpeg  
+
   - name: Carla P. Gomes
     url: https://www.cs.cornell.edu/gomes/
     aff: Cornell
