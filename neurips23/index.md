@@ -101,7 +101,7 @@ StudentOrganizers:
     url: https://chemistry.harvard.edu/people/ada-fang
     aff: Harvard
     interest: AI for Chemistry 
-    image: assets/images/ada.jpg
+    image: assets/images/ada.png
 
 
 
