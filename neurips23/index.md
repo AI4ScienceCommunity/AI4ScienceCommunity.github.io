@@ -136,6 +136,13 @@ StudentOrganizers:
 
 ProfessorOrganizers:
 
+  - name: Yoshua Bengio
+    url: https://yoshuabengio.org
+    aff: MILA
+    interest: 
+    image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
+ 
+
 
   - name: Maria Brbić 
     url: https://people.epfl.ch/maria.brbic 
