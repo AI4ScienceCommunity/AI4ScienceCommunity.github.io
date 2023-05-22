@@ -47,6 +47,10 @@ Example topics include (but not limited to):
 - ML for combinatorial optimization
 - ML for simulation
 
+## (D) Education Track 
+
+We aim to solicit systematic and multi-level learning resources (including but not limited to courses, tutorials, notebooks, review papers, etc.) to bridge the educational gap for a specific field.
+
 # Submission Instructions
 
 Abstract is due on **Sep 25th AoE**, and submisssion is due on **Oct 2nd AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science).
