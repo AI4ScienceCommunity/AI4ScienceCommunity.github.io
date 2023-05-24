@@ -130,7 +130,7 @@ StudentOrganizers:
 
   - name: Lijing Wang 
     url: https://lijingwang.github.io/
-    aff: Stanford
+    aff: Lawrence Berkeley National Laboratory 
     interest: AI for Earth Sciences
     image: assets/images/lijing2.png 
 
