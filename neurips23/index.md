@@ -37,6 +37,11 @@ speakers:
     interest: AI, Life Science
     image: assets/images/rick_stevens.png    
     
+  - name: Fabian Theis
+    url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
+    aff: Technical University of Munich  
+    image: assets/images/fabian.png
+
 
 
 
@@ -63,7 +68,6 @@ Panelist:
     url: https://www.astro.princeton.edu/~dns/ 
     aff: Princeton, Flatiron Institute 
     image: assets/images/david_spergel.jpeg  
-
 
 
 StudentOrganizers:
