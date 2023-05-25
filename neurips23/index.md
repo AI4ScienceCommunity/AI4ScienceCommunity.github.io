@@ -61,7 +61,7 @@ Panelist:
 
   - name: David Spergel
     url: https://www.astro.princeton.edu/~dns/ 
-    aff: Princeton 
+    aff: Princeton, Flatiron Institute 
     image: assets/images/david_spergel.jpeg  
 
 
