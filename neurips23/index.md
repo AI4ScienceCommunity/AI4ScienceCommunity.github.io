@@ -42,16 +42,27 @@ speakers:
 
 Panelist:
 
+
+  - name: Pierre Gentine
+    url:  https://gentinelab.eee.columbia.edu/people/pierre-gentine
+    aff: Columbia, NSF 
+    image: assets/images/pierre_gentine.png 
+
+
   - name: Thomas Kalil
     url: https://www.schmidtfutures.com/person/tom-kalil/ 
     aff: Schmidt Futures 
     image: assets/images/thomas_kalil.jpeg 
 
+  - name: Michael Littman
+    url: https://vivo.brown.edu/display/mlittman 
+    aff: Brown 
+    image: assets/images/michael_littman.png 
+
   - name: David Spergel
     url: https://www.astro.princeton.edu/~dns/ 
     aff: Princeton 
     image: assets/images/david_spergel.jpeg  
-
 
 
 
