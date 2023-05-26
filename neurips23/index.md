@@ -72,13 +72,6 @@ Panelist:
 
 StudentOrganizers:
 
-  - name: Daisy Yi Ding
-    url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
-    aff: Stanford 
-    interest: AI for Multiomics
-    image: assets/images/daisy2.png 
-
-
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
     aff: Cornell 
@@ -86,26 +79,12 @@ StudentOrganizers:
     image: assets/images/yuanqi.png 
 
 
+  - name: Maria Brbić 
+    url: https://people.epfl.ch/maria.brbic 
+    aff: EPFL
+    interest: 
+    image: assets/images/maria.jpeg  
 
-  - name: Chenru Duan
-    url: https://www.crduan.com/
-    aff: MIT
-    interest: AI for Chemistry
-    image: assets/images/chenru.png 
-
-  - name: Ada Fang 
-    url: https://chemistry.harvard.edu/people/ada-fang
-    aff: Harvard
-    interest: AI for Chemistry 
-    image: assets/images/ada.png
-
-
-
-  - name: Tianfan Fu 
-    url: https://futianfan.github.io/
-    aff: Gatech
-    interest: AI for drug design and development 
-    image: assets/images/tianfan.png 
 
 
   - name: Wenhao Gao
@@ -122,12 +101,7 @@ StudentOrganizers:
     image: assets/images/kexin.png
 
 
-  - name: Shengchao Liu 
-    url: https://chao1224.github.io/
-    aff: MILA
-    interest: AI for Molecule Discovery
-    image: assets/images/shengchao.jpeg
-    
+
 
   - name: Ziming Liu
     url: https://kindxiaoming.github.io/
@@ -136,11 +110,25 @@ StudentOrganizers:
     image: assets/images/ziming.jpeg
 
 
-  - name: Hanchen Wang 
-    url: https://hansen7.github.io/
-    aff: Stanford/Genentech
-    interest: AI for Medical Science
-    image: assets/images/hanchen.png 
+  - name: Rocío Mercado
+    url: https://rociomer.github.io/
+    aff: Chalmers
+    interest: 
+    image: assets/images/rocio.png 
+
+  - name: Miles Cranmer
+    url: https://astroautomata.com/ 
+    aff: University of Cambridge 
+    interest: 
+    image: assets/images/miles_cranmer.jpeg  
+
+
+  - name: Shengchao Liu 
+    url: https://chao1224.github.io/
+    aff: MILA
+    interest: AI for Molecule Discovery
+    image: assets/images/shengchao.jpeg
+    
 
 
   - name: Lijing Wang 
@@ -183,28 +171,6 @@ ProfessorOrganizers:
     aff: Stanford
     interest: 
     image: assets/images/jure.png 
-
-
-  - name: Maria Brbić 
-    url: https://people.epfl.ch/maria.brbic 
-    aff: EPFL
-    interest: 
-    image: assets/images/maria.jpeg  
-
-  - name: Miles Cranmer
-    url: https://astroautomata.com/ 
-    aff: University of Cambridge 
-    interest: 
-    image: assets/images/miles_cranmer.jpeg  
-
-
-
-
-  - name: Rocío Mercado
-    url: https://rociomer.github.io/
-    aff: Chalmers
-    interest: 
-    image: assets/images/rocio.png 
 
 
 
