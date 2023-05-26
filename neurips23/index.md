@@ -136,6 +136,38 @@ StudentOrganizers:
 
 OtherStudentOrganizers:
 
+  - name: Daisy Yi Ding
+    url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
+    aff: Stanford 
+    interest: AI for Multiomics
+    image: assets/images/daisy2.png 
+
+  - name: Chenru Duan
+    url: https://www.crduan.com/
+    aff: MIT
+    interest: AI for Chemistry
+    image: assets/images/chenru.png 
+
+  - name: Ada Fang 
+    url: https://chemistry.harvard.edu/people/ada-fang
+    aff: Harvard
+    interest: AI for Chemistry 
+    image: assets/images/ada.png
+
+
+  - name: Tianfan Fu 
+    url: https://futianfan.github.io/
+    aff: Gatech
+    interest: AI for drug design and development 
+    image: assets/images/tianfan.png 
+
+
+  - name: Hanchen Wang 
+    url: https://hansen7.github.io/
+    aff: Stanford/Genentech
+    interest: AI for Medical Science
+    image: assets/images/hanchen.png 
+
 
 
 ProfessorOrganizers:
@@ -261,4 +293,13 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 </li>
 {% endfor %}
 </ul> -->
+
+
+## AI4Science Team 
+
+
+
+{% include team.html id="OtherStudentOrganizers" %}
+
+
 
