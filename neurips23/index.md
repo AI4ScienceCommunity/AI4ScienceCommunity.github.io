@@ -85,8 +85,6 @@ StudentOrganizers:
     interest: 
     image: assets/images/maria.jpeg  
 
-
-
   - name: Wenhao Gao
     url: https://wenhao-gao.github.io/
     aff: MIT
@@ -99,8 +97,6 @@ StudentOrganizers:
     aff: Stanford
     interest: AI for Biology
     image: assets/images/kexin.png
-
-
 
 
   - name: Ziming Liu
@@ -136,6 +132,11 @@ StudentOrganizers:
     aff: Lawrence Berkeley National Laboratory 
     interest: AI for Earth Sciences
     image: assets/images/lijing2.png 
+
+
+OtherStudentOrganizers:
+
+
 
 ProfessorOrganizers:
 
