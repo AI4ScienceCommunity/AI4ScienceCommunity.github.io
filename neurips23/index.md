@@ -151,12 +151,38 @@ StudentOrganizers:
 
 ProfessorOrganizers:
 
+  - name: Max Welling
+    url: https://staff.fnwi.uva.nl/m.welling
+    aff: UvA, Microsoft Research
+    interest: 
+    image: assets/images/max.png 
+
+
+
   - name: Yoshua Bengio
     url: https://yoshuabengio.org
     aff: MILA
     interest: 
     image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
  
+  - name: Marinka Zitnik
+    url: https://zitniklab.hms.harvard.edu
+    aff: Harvard
+    interest: 
+    image: assets/images/marinka.png 
+    
+  - name: Carla P. Gomes
+    url: https://www.cs.cornell.edu/gomes/
+    aff: Cornell
+    interest: 
+    image: assets/images/carla.png 
+    
+    
+  - name: Jure Leskovec 
+    url: https://cs.stanford.edu/people/jure/
+    aff: Stanford
+    interest: 
+    image: assets/images/jure.png 
 
 
   - name: Maria Brbić 
@@ -171,17 +197,8 @@ ProfessorOrganizers:
     interest: 
     image: assets/images/miles_cranmer.jpeg  
 
-  - name: Carla P. Gomes
-    url: https://www.cs.cornell.edu/gomes/
-    aff: Cornell
-    interest: 
-    image: assets/images/carla.png 
-    
-  - name: Jure Leskovec 
-    url: https://cs.stanford.edu/people/jure/
-    aff: Stanford
-    interest: 
-    image: assets/images/jure.png 
+
+
 
   - name: Rocío Mercado
     url: https://rociomer.github.io/
@@ -189,19 +206,10 @@ ProfessorOrganizers:
     interest: 
     image: assets/images/rocio.png 
 
-  - name: Max Welling
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: UvA, Microsoft Research
-    interest: 
-    image: assets/images/max.png 
 
 
 
-  - name: Marinka Zitnik
-    url: https://zitniklab.hms.harvard.edu
-    aff: Harvard
-    interest: 
-    image: assets/images/marinka.png 
+
 
 
 
