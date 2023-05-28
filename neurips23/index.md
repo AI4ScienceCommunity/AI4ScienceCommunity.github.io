@@ -70,7 +70,81 @@ Panelist:
     image: assets/images/david_spergel.jpeg  
 
 
-StudentOrganizers:
+
+
+
+
+OtherStudentOrganizers:
+
+  - name: Daisy Yi Ding
+    url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
+    aff: Stanford 
+    interest: AI for Multiomics
+    image: assets/images/daisy2.png 
+
+  - name: Chenru Duan
+    url: https://www.crduan.com/
+    aff: MIT
+    interest: AI for Chemistry
+    image: assets/images/chenru.png 
+
+  - name: Ada Fang 
+    url: https://chemistry.harvard.edu/people/ada-fang
+    aff: Harvard
+    interest: AI for Chemistry 
+    image: assets/images/ada.png
+
+
+  - name: Tianfan Fu 
+    url: https://futianfan.github.io/
+    aff: Gatech
+    interest: AI for drug design and development 
+    image: assets/images/tianfan.png 
+
+
+  - name: Hanchen Wang 
+    url: https://hansen7.github.io/
+    aff: Stanford/Genentech
+    interest: AI for Medical Science
+    image: assets/images/hanchen.png 
+
+
+
+Organizers:
+
+  - name: Max Welling
+    url: https://staff.fnwi.uva.nl/m.welling
+    aff: UvA, Microsoft Research
+    interest: 
+    image: assets/images/max.png 
+
+
+
+  - name: Yoshua Bengio
+    url: https://yoshuabengio.org
+    aff: MILA
+    interest: 
+    image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
+ 
+  - name: Marinka Zitnik
+    url: https://zitniklab.hms.harvard.edu
+    aff: Harvard
+    interest: 
+    image: assets/images/marinka.png 
+    
+  - name: Carla P. Gomes
+    url: https://www.cs.cornell.edu/gomes/
+    aff: Cornell
+    interest: 
+    image: assets/images/carla.png 
+    
+    
+  - name: Jure Leskovec 
+    url: https://cs.stanford.edu/people/jure/
+    aff: Stanford
+    interest: 
+    image: assets/images/jure.png 
+
 
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
@@ -134,81 +208,6 @@ StudentOrganizers:
     image: assets/images/lijing2.png 
 
 
-OtherStudentOrganizers:
-
-  - name: Daisy Yi Ding
-    url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
-    aff: Stanford 
-    interest: AI for Multiomics
-    image: assets/images/daisy2.png 
-
-  - name: Chenru Duan
-    url: https://www.crduan.com/
-    aff: MIT
-    interest: AI for Chemistry
-    image: assets/images/chenru.png 
-
-  - name: Ada Fang 
-    url: https://chemistry.harvard.edu/people/ada-fang
-    aff: Harvard
-    interest: AI for Chemistry 
-    image: assets/images/ada.png
-
-
-  - name: Tianfan Fu 
-    url: https://futianfan.github.io/
-    aff: Gatech
-    interest: AI for drug design and development 
-    image: assets/images/tianfan.png 
-
-
-  - name: Hanchen Wang 
-    url: https://hansen7.github.io/
-    aff: Stanford/Genentech
-    interest: AI for Medical Science
-    image: assets/images/hanchen.png 
-
-
-
-ProfessorOrganizers:
-
-  - name: Max Welling
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: UvA, Microsoft Research
-    interest: 
-    image: assets/images/max.png 
-
-
-
-  - name: Yoshua Bengio
-    url: https://yoshuabengio.org
-    aff: MILA
-    interest: 
-    image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
- 
-  - name: Marinka Zitnik
-    url: https://zitniklab.hms.harvard.edu
-    aff: Harvard
-    interest: 
-    image: assets/images/marinka.png 
-    
-  - name: Carla P. Gomes
-    url: https://www.cs.cornell.edu/gomes/
-    aff: Cornell
-    interest: 
-    image: assets/images/carla.png 
-    
-    
-  - name: Jure Leskovec 
-    url: https://cs.stanford.edu/people/jure/
-    aff: Stanford
-    interest: 
-    image: assets/images/jure.png 
-
-
-
-
-
 
 
 
@@ -267,13 +266,10 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 
 Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
-## Student Organizers (alphabetical order)
 
-{% include team.html id="StudentOrganizers" %}
+## Organizers 
 
-## Senior Organizers 
-
-{% include team.html id="ProfessorOrganizers" %}
+{% include team.html id="Organizers" %}
 
 
 <!-- <ul>
