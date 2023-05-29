@@ -76,33 +76,58 @@ Panelist:
 
 OtherStudentOrganizers:
 
-  - name: Daisy Yi Ding
+
+  - name: Payal Chandak (MIT)
+    url: https://www.payalchandak.com/
+    image: assets/images/test.jpeg
+
+  - name: Yuanqi Du (Cornell)
+    url: https://yuanqidu.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Wenhao Gao (MIT)
+    url: https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en
+    image: assets/images/test.jpeg
+    
+  - name: Kexin Huang (Stanford)
+    url: https://www.kexinhuang.com/
+    image: assets/images/test.jpeg
+    
+  - name: Shengchao Liu (MILA)
+    url: https://chao1224.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Ziming Liu (MIT)
+    url: https://kindxiaoming.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Daisy Yi Ding (Stanford)
     url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
     aff: Stanford 
     interest: AI for Multiomics
     image: assets/images/daisy2.png 
 
-  - name: Chenru Duan
+  - name: Chenru Duan (MSR)
     url: https://www.crduan.com/
     aff: MIT
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
-  - name: Ada Fang 
+  - name: Ada Fang (Harvard)
     url: https://chemistry.harvard.edu/people/ada-fang
     aff: Harvard
     interest: AI for Chemistry 
     image: assets/images/ada.png
 
 
-  - name: Tianfan Fu 
+  - name: Tianfan Fu (UIUC)
     url: https://futianfan.github.io/
     aff: Gatech
     interest: AI for drug design and development 
     image: assets/images/tianfan.png 
 
 
-  - name: Hanchen Wang 
+  - name: Hanchen Wang (Stanford, Genentech)
     url: https://hansen7.github.io/
     aff: Stanford/Genentech
     interest: AI for Medical Science
