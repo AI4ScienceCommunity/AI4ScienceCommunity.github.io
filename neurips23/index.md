@@ -159,6 +159,35 @@ OtherStudentOrganizers:
   - name: Linfeng Zhang (DP Technology)
     url: https://scholar.google.com/citations?user=jk7qwmcAAAAJ&hl=zh-CN
 
+  - name: Anima Anandkumar (Caltech, NVIDIA)
+    url: http://tensorlab.cms.caltech.edu/users/anima/
+    aff: Caltech, NVIDIA
+    interest: 
+    image: assets/images/anima.png 
+
+
+  - name: Yoshua Bengio (MILA, Université de Montréal)
+    url: https://yoshuabengio.org
+    aff: MILA, Université de Montréal
+    interest: 
+    image: assets/images/yoshua.png 
+
+  - name: Carla P. Gomes (Cornell)
+    url: https://www.cs.cornell.edu/gomes/
+    aff: Cornell
+    interest: 
+    image: assets/images/carla.png 
+
+
+  - name: Aviv Regev (MIT, Genentech)
+    url: https://biology.mit.edu/profile/aviv-regev/
+    aff: MIT, Genentech
+    interest: 
+    image: assets/images/aviv.png 
+
+
+
+
 
 Organizers:
 
