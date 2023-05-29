@@ -150,7 +150,14 @@ OtherStudentOrganizers:
     image: assets/images/test.jpeg
 
 
+  - name: Connor Coley (MIT)
+    url: https://cheme.mit.edu/profile/connor-w-coley/
 
+  - name: Le Song (BioMap)
+    url: https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&hl=en
+
+  - name: Linfeng Zhang (DP Technology)
+    url: https://scholar.google.com/citations?user=jk7qwmcAAAAJ&hl=zh-CN
 
 
 Organizers:
