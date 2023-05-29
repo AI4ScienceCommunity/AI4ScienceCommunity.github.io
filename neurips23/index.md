@@ -76,31 +76,16 @@ Panelist:
 
 OtherStudentOrganizers:
 
+  - name: Yuanqi Du (Cornell)
+    url: https://yuanqidu.github.io/
+    image: assets/images/test.jpeg
+    
 
   - name: Payal Chandak (MIT)
     url: https://www.payalchandak.com/
     image: assets/images/test.jpeg
 
-  - name: Yuanqi Du (Cornell)
-    url: https://yuanqidu.github.io/
-    image: assets/images/test.jpeg
-    
-  - name: Wenhao Gao (MIT)
-    url: https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en
-    image: assets/images/test.jpeg
-    
-  - name: Kexin Huang (Stanford)
-    url: https://www.kexinhuang.com/
-    image: assets/images/test.jpeg
-    
-  - name: Shengchao Liu (MILA)
-    url: https://chao1224.github.io/
-    image: assets/images/test.jpeg
-    
-  - name: Ziming Liu (MIT)
-    url: https://kindxiaoming.github.io/
-    image: assets/images/test.jpeg
-    
+
   - name: Daisy Yi Ding (Stanford)
     url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
     aff: Stanford 
@@ -124,8 +109,25 @@ OtherStudentOrganizers:
     url: https://futianfan.github.io/
     aff: Gatech
     interest: AI for drug design and development 
-    image: assets/images/tianfan.png 
-
+    image: assets/images/tianfan.png     
+    
+    
+  - name: Wenhao Gao (MIT)
+    url: https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en
+    image: assets/images/test.jpeg
+    
+  - name: Kexin Huang (Stanford)
+    url: https://www.kexinhuang.com/
+    image: assets/images/test.jpeg
+    
+  - name: Shengchao Liu (MILA)
+    url: https://chao1224.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Ziming Liu (MIT)
+    url: https://kindxiaoming.github.io/
+    image: assets/images/test.jpeg
+    
 
   - name: Hanchen Wang (Stanford, Genentech)
     url: https://hansen7.github.io/
