@@ -133,6 +133,24 @@ OtherStudentOrganizers:
     interest: AI for Medical Science
     image: assets/images/hanchen.png 
 
+  - name: Max Tegmark (MIT)
+    url: https://space.mit.edu/home/tegmark
+    image: assets/images/test.jpeg
+
+  - name: Adrian Weller (Cambridge)
+    url: http://mlg.eng.cam.ac.uk/adrian
+    image: assets/images/test.jpeg
+
+  - name: Max Welling (UvA)
+    url: https://staff.fnwi.uva.nl/m.welling
+    image: assets/images/test.jpeg
+
+  - name: Marinka Zitnik (Harvard)
+    url: https://zitniklab.hms.harvard.edu
+    image: assets/images/test.jpeg
+
+
+
 
 
 Organizers:
