@@ -47,6 +47,12 @@ speakers:
 
 Panelist:
 
+  - name: Todd Anderson
+    url:  https://science.osti.gov/ber/About/Staff
+    aff: Department of Energy  
+    image: assets/images/todd_anderson.png 
+
+
 
   - name: Pierre Gentine
     url:  https://gentinelab.eee.columbia.edu/people/pierre-gentine
