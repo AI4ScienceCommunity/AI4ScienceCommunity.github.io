@@ -21,7 +21,7 @@ Example topics include (but not limited to):
 - Accelerating cosmological simulations
 - Improving crop yields through precision agriculture
 - Optimizing aerospace product design and development
-- Benchmarking related or new tasks (i.e. datasets, sota models, etc.)
+- Benchmarking related or new tasks (i.e., datasets, sota models, etc.)
 - Building tools/infrastructures/platforms for scientific discovery
 - Study of science of science/scientific methods
 
@@ -42,7 +42,7 @@ Example topics include (but not limited to):
 This track solicits 4-8 page paper (with unlimited references and appendices) that is comprehensive survey/benchmark on a specific topic under AI4Science, e.g., ML for Molecules, comparing with the original track, this track is more focused on the are more interested in summarising the published works. 
 
 Example topics include (but not limited to):
-- ML for Molecule design
+- ML for molecule design
 - ML for symbolic regression
 - ML for combinatorial optimization
 - ML for simulation
