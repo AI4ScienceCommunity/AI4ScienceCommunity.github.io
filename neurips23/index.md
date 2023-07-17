@@ -329,7 +329,7 @@ Specifically, the main goal/outcome of this track is to share the message and va
 - The community values education contribution;
 - a platform for people passionate about education to connect.
   
-You may wonder AI for Science is so broad, whether your writing would be read by people and whether you should write about a specific field or a broader area or even the whole field. Our answer to this question is YES and we encourage ANY of them, that’s exactly why we open this track to collect expertise from the community and we may attempt to make some collective effort such as a roadmap of AI for Science to expand the impact and attract more people to contribute.
+You may wonder AI for Science is so broad, whether your writing would be read by people and whether you should write about a specific field or a broader area or even the whole field. Our answer to this question is YES and we encourage ANY of them, that’s exactly why we open this track to collect expertise from the community and we may attempt to make some collective effort such as a roadmap of AI for Science to expand the impact and attract more people to contribute. We encourage researchers from diverse backgrounds to submit (in particular areas that did not attract enough attention). 
 
 
 ## Follow Us
