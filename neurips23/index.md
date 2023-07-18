@@ -348,7 +348,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Suggested Submission Date for Workshop Contributions: Sep 29, 2023
+- Suggested Submission Date for Workshop Contributions: Oct 2, 2023
 - Suggested Accept/Reject Notification Date: Oct 20, 2023
 - Mandatory Accept/Reject Notification Date: Oct 27, 2023
 - Workshop Date: Dec 15 or 16, 2023
