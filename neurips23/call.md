@@ -49,7 +49,15 @@ Example topics include (but not limited to):
 
 ## (D) Education Track 
 
-We aim to solicit systematic and multi-level learning resources (including but not limited to courses, tutorials, notebooks, review papers, etc.) to bridge the educational gap for a specific field.
+To support the ever-growing AI for Science field, education is an indispensable part of our community. We aim to solicit systematic and multi-level learning resources (including but not limited to courses, tutorials, notebooks, review papers, etc.) to bridge the educational gap in AI for Science. The content of the submission is flexible but a paper or report needs to be written using the LaTeX template. If the proposed content type is notebook with code example, we would still expect a short report to write about the overview and motivation about the topic and the learning resources for people who have further interest in the topic. As other tracks, we will highlight the best submissions from this track and invite the authors for a contributed talk at the workshop.
+
+Specifically, the main goal/outcome of this track is to share the message and value of our AI for Science community:
+
+Education is important;
+The community values education contribution;
+a platform for people passionate about education to connect.
+You may wonder AI for Science is so broad, whether your writing would be read by people and whether you should write about a specific field or a broader area or even the whole field. Our answer to this question is YES and we encourage ANY of them, that’s exactly why we open this track to collect expertise from the community and we may attempt to make some collective effort such as a roadmap of AI for Science to expand the impact and attract more people to contribute. We encourage researchers from diverse backgrounds to submit (in particular areas that did not attract enough attention).
+
 
 # Submission Instructions
 
