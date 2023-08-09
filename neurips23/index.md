@@ -67,7 +67,7 @@ Panelist:
 
   - name: Michael Littman
     url: https://vivo.brown.edu/display/mlittman 
-    aff: Brown 
+    aff: Brown, NSF 
     image: assets/images/michael_littman.png 
 
   - name: David Spergel
