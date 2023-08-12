@@ -22,6 +22,13 @@ speakers:
     interest: AI, Control and Simulation
     image: assets/images/steven_brunton.png 
 
+  - name: Kyle Cranmer  
+    url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
+    topic: 
+    aff: UW-Madison
+    interest: AI, Particle Physics
+    image: assets/images/Kyle.png 
+
 
   - name: Azalia Mirhoseini   
     url: http://azaliamirhoseini.com/  
