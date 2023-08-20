@@ -105,9 +105,9 @@ OtherStudentOrganizers:
     interest: AI for Multiomics
     image: assets/images/daisy2.png 
 
-  - name: Chenru Duan (MSR)
+  - name: Chenru Duan (MSFT Quantum)
     url: https://www.crduan.com/
-    aff: MIT
+    aff: MSFT Quantum
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
