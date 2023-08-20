@@ -253,6 +253,14 @@ Organizers:
     interest: 
     image: assets/images/maria.jpeg  
 
+
+  - name: Chenru Duan (MSR)
+    url: https://www.crduan.com/
+    aff: MIT
+    interest: AI for Chemistry
+    image: assets/images/chenru.png 
+
+
   - name: Wenhao Gao
     url: https://wenhao-gao.github.io/
     aff: MIT
