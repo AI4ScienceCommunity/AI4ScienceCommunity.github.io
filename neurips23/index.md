@@ -29,6 +29,14 @@ speakers:
     interest: AI, Particle Physics
     image: assets/images/Kyle.png 
 
+  - name: Su-in Lee   
+    url: https://suinlee.cs.washington.edu/
+    topic: 
+    aff: University of Washington 
+    interest: AI, Computational Biology
+    image: assets/images/su-in.png 
+    
+
 
   - name: Azalia Mirhoseini   
     url: http://azaliamirhoseini.com/  
