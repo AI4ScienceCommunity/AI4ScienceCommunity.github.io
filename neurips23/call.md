@@ -61,7 +61,7 @@ You may wonder AI for Science is so broad, whether your writing would be read by
 
 # Submission Instructions
 
-Abstract is due on **Sep 25th AoE**, and submisssion is due on **Oct 2nd AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science).
+Abstract submission is due on **Sep 30th AoE**, and paper submission is due on **Oct 2nd AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published, or (3) work-in-progress.
 Please use [AI for Science template Latex files](https://bit.ly/3rOZaZl). Note that for attention track submissions, authors are required to set ‘\usepackage[attention]{neurips_2021}’ to indicate. 
