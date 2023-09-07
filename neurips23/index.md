@@ -359,7 +359,8 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Submission Deadline: Oct 2, 2023
+- Abstract Submission Deadline: Sept 30, 2023
+- Paper Submission Deadline: Oct 2, 2023
 - Review Bidding Period: Oct 2-4, 2023
 - Reviewer Deadline: Oct 24, 2023
 - Acceptance Notification Date: Oct 27, 2023
