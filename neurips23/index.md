@@ -337,9 +337,6 @@ For centuries, the method of discovery—the fundamental practice of science tha
 
 - **Accelerating drug discovery pipeline**
 
-## Attendance
-
-We welcome people with diverse background and level of experience to attend our workshop. The attendance is not contingent upon paper submission. Consider to apply for a travel award.
 
 
 
