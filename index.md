@@ -13,6 +13,11 @@ For centuries, the method of discovery—the fundamental practice of science tha
 
 Excited to share our [Nature paper](https://www.nature.com/articles/s41586-023-06221-2) on the role of AI in scientific discovery.  
 
+
+![Nature](./assets/images/nature.png)
+
+
+
 ## Follow Us
 
 Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-15rtaehdi-we~H~LhzZqrQTy6RtLGtug) for active discussions.
