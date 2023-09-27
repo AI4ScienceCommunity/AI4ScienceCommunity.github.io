@@ -18,14 +18,14 @@ speakers:
   - name: Steven Brunton  
     url: https://www.me.washington.edu/facultyfinder/steve-brunton 
     topic: 
-    aff: UW
+    aff: University of Washington
     interest: AI, Control and Simulation
     image: assets/images/steven_brunton.png 
 
   - name: Kyle Cranmer  
     url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
     topic: 
-    aff: UW-Madison
+    aff: University of Wisconsin–Madison 
     interest: AI, Particle Physics
     image: assets/images/Kyle.png 
 
