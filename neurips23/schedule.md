@@ -12,24 +12,25 @@ permalink: /neurips23/schedule
 
 | Event | | Time |
 | :--- | --- | :--- |
-| Openning Remarks | Organizing Team | 8:00-8:15am |
-| Invited Talk | Weinan E | 8:15-9:10am |
-| Invited Talk | Shuiwang Ji  | 9:10-10:05am |
-| Coffee Break | - | 10:05-10:15am |
-| Invited Talk | Maria Schuld | 10:15-11:10am |
-| Invited Talk | David Baker | 11:10-12:05pm |
-| Poster Session | | 12:05pm-13:00pm |
-| Contributed Talk | DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking | 13:00-13:10pm |
-| Contributed Talk | An "interpretable-by-design" neural network to decipher RNA splicing regulatory logic | 13:10-13:20pm |
-| Contributed Talk | FALCON: Fourier Adaptive Learning and Control for Disturbance Rejection Under Extreme Turbulence | 13:20-13:30pm |
-| Contributed Talk | Structural Causal Model for Molecular Dynamics Simulation | 13:30-13:40pm |
-| Contributed Talk | Structure-Inducing Pre-training | 13:40-13:50pm |
-| Panel Discussion | Panelists: Peter Lee, Sara-Jane Dunn, Arvind Rajpal, Alexander Rives, Matt Welborn <br>Moderator: Max Welling | 13:55-14:55pm |
+| Openning Remarks | Organizing Team | 8:15-8:25am |
+| Invited Talk | Steve Brunton | 8:25-8:55am |
+| Invited Talk | Kyle Cranmer | 8:55-9:25am |
+| Invited Talk | Fabian Theis | 9:25-9:55am |
+| Coffee Break | - | 9:55-10:05am |
+| Open Catalyst | - | 10:05-11:10am |
+| Poster Session | | 11:10-12:00 |
+| Lunch | - | 12:00-12:30pm |
+| Invited Talk | Rick Stevens | 12:30-13:00 |
+| Panel Discussion | - | 13:00-14:00pm |
+| Contributed Talk | - | 16:05-16:10pm |
+| Contributed Talk | - | 16:10-16:15pm |
+| Contributed Talk | - | 16:15-16:20pm |
+| Contributed Talk | - | 16:20-16:25pm |
+| Contributed Talk | - | 16:25-16:30pm |
 | Coffee Break | - | 14:55-15:10pm |
-| Invited Talk | Jimeng Sun | 15:10-16:05pm |
 | Invited Talk | Tess Smidt | 16:05-17:00pm |
-| Closing Remarks | Organizing Team | 17:00-17:10pm |
-| Poster Session | | 17:10-18:00pm |
+| Closing Remarks | Organizing Team | 16:30-16:35pm |
+| Poster Session | | 16:35-17:30pm |
 
 
 
