@@ -22,13 +22,12 @@ permalink: /neurips23/schedule
 | Lunch | - | 12:00-12:30pm |
 | Invited Talk | Rick Stevens | 12:30-13:00 |
 | Panel Discussion | - | 13:00-14:00pm |
-| Contributed Talk | - | 16:05-16:10pm |
-| Contributed Talk | - | 16:10-16:15pm |
-| Contributed Talk | - | 16:15-16:20pm |
-| Contributed Talk | - | 16:20-16:25pm |
-| Contributed Talk | - | 16:25-16:30pm |
-| Coffee Break | - | 14:55-15:10pm |
-| Invited Talk | Tess Smidt | 16:05-17:00pm |
+| Contributed Talk * 5 | - | 16:05-16:30pm |
+| Coffee Break | - | 14:25-14:35pm | 
+| Invited Talk | Azalia Mirhoseini |	14:35-15:05 |
+| Invited Talk | Su-In Lee	| 15:05-15:35 |
+| Invited Talk | Alán Aspuru-Guzik |	15:35-16:05 |
+| Contributed Talk * 5 | 16:05-16:30 |
 | Closing Remarks | Organizing Team | 16:30-16:35pm |
 | Poster Session | | 16:35-17:30pm |
 
