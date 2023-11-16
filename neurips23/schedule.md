@@ -27,7 +27,7 @@ permalink: /neurips23/schedule
 | Invited Talk | Azalia Mirhoseini |	14:35-15:05 |
 | Invited Talk | Su-In Lee	| 15:05-15:35 |
 | Invited Talk | Alán Aspuru-Guzik |	15:35-16:05 |
-| Contributed Talk * 5 | 16:05-16:30 |
+| Contributed Talk * 5 |  | 16:05-16:30 |
 | Closing Remarks | Organizing Team | 16:30-16:35pm |
 | Poster Session | | 16:35-17:30pm |
 
