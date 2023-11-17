@@ -17,7 +17,11 @@ permalink: /neurips23/schedule
 | Invited Talk | Kyle Cranmer | 8:55-9:25am |
 | Invited Talk | Fabian Theis | 9:25-9:55am |
 | Coffee Break | - | 9:55-10:05am |
-| Open Catalyst | - | 10:05-11:10am |
+| Open Catalyst | Project Introduction | 10:05-10:25am |
+| Open Catalyst | Winner Talk | 10:25-10:35am |
+| Open Catalyst | Runner-up Talk | 10:35-10:45am |
+| Open Catalyst | Spotlight Talk | 10:45-10:50am |
+| Open Catalyst | Discussion | 10:50-12:10am |
 | Poster Session | | 11:10-12:00am |
 | Lunch | - | 12:00-12:30pm |
 | Invited Talk | Rick Stevens | 12:30-13:00pm |
