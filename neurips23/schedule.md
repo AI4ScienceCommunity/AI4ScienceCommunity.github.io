@@ -22,10 +22,10 @@ permalink: /neurips23/schedule
 | Open Catalyst | Runner-up Talk | 10:35-10:45am |
 | Open Catalyst | Spotlight Talk | 10:45-10:50am |
 | Open Catalyst | Discussion | 11:50-12:10am |
-| Poster Session | | 11:10-12:00am |
+| Poster Session A | | 11:10-12:00am |
 | Lunch | - | 12:00-12:30pm |
 | Invited Talk | Rick Stevens | 12:30-13:00pm |
-| Panel Discussion A | - | 13:00-14:00pm |
+| Panel Discussion  | - | 13:00-14:00pm |
 | Contributed Talk * 5 | - | 14:00-14:25pm |
 | Coffee Break | - | 14:25-14:35pm | 
 | Invited Talk | Azalia Mirhoseini |	14:35-15:05pm |
