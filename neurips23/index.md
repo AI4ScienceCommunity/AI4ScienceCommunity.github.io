@@ -352,6 +352,11 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 {% include team.html id="Panelist" %}
 
+# Open Catalyst Challenge
+
+The Open Catalyst Challenge 2023 invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon neutral means for energy storage and conversion.
+
+Over the past two years the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask.
 
 
 # Tentative Important Dates (Anywhere on Earth)
