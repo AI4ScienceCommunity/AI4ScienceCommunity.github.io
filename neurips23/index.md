@@ -373,13 +373,15 @@ The Open Catalyst Challenge 2023 invites participants to help address the pressi
 Over the past two years the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask.
 
 
-<ul>
+<!-- <ul>
 {% for p in page.opencatalyst %}
 <li>
 <a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
 </li>
 {% endfor %}
 </ul>
+
+
 
 
 # Tentative Important Dates (Anywhere on Earth)
