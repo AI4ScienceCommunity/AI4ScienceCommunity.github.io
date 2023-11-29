@@ -21,7 +21,7 @@ permalink: /neurips23/schedule
 | Open Catalyst | Winner Talk | 10:25-10:35am |
 | Open Catalyst | Runner-up Talk | 10:35-10:45am |
 | Open Catalyst | Spotlight Talk | 10:45-10:50am |
-| Open Catalyst | Discussion | 11:50-12:10am |
+| Open Catalyst | Discussion | 10:50-11:10am |
 | Poster Session A | | 11:10-12:00am |
 | Lunch | - | 12:00-12:30pm |
 | Invited Talk | Rick Stevens | 12:30-13:00pm |
