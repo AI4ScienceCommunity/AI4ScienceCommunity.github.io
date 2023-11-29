@@ -91,7 +91,21 @@ Panelist:
     image: assets/images/david_spergel.jpeg  
 
 
+opencatalyst:
 
+  - name: Muhammed Shuaibi  
+    url: https://scholar.google.com/citations?user=lphfYeIAAAAJ&hl=en 
+    topic: 
+    aff: FAIR, Meta 
+    interest: AI, Chemistry
+    image: assets/images/shuaibi.png 
+
+  - name: Brandon Wood  
+    url: https://scholar.google.com/citations?user=KbqboRgAAAAJ&hl=en
+    topic: 
+    aff: Lawrence Berkeley National Laboratory
+    interest: AI, Chemistry
+    image: assets/images/brandon.png 
 
 
 
