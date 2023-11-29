@@ -366,20 +366,17 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 {% include team.html id="Panelist" %}
 
+
+
 # Open Catalyst Challenge
 
-The Open Catalyst Challenge 2023 invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon neutral means for energy storage and conversion.
+The Open Catalyst Challenge 2023 invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon-neutral means for energy storage and conversion.
 
-Over the past two years the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask.
+Over the past two years, the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask.
 
 
-<!-- <ul>
-{% for p in page.opencatalyst %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul>
+{% include team.html id="opencatalyst" %}
+
 
 
 
@@ -402,7 +399,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 
 # Organizers and Contact
 
-Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
 
 ## Organizers 
