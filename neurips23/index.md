@@ -103,7 +103,7 @@ opencatalyst:
   - name: Brandon Wood  
     url: https://scholar.google.com/citations?user=KbqboRgAAAAJ&hl=en
     topic: 
-    aff: Lawrence Berkeley National Laboratory
+    aff: FAIR, Meta
     interest: AI, Chemistry
     image: assets/images/brandon.jpeg 
 
