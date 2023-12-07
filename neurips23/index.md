@@ -38,19 +38,19 @@ speakers:
     
 
 
-  - name: Azalia Mirhoseini   
-    url: http://azaliamirhoseini.com/  
+  - name: Sherrie Wang  
+    url: https://sherriewang.github.io/  
     topic: 
-    aff: Google Brain 
-    interest: AI, Chip Design
-    image: assets/images/azalia.png 
+    aff: MIT
+    interest: AI, Agriculture, Climate
+    image: assets/images/sherrie.jpeg 
     
-  - name: Rick Stevens    
-    url: https://cs.uchicago.edu/people/rick-stevens/  
+  - name: Sara Beery    
+    url: https://beerys.github.io/  
     topic: 
-    aff: University of Chicago
-    interest: AI, Life Science
-    image: assets/images/rick_stevens.png    
+    aff: MIT
+    interest: AI, Conservation
+    image: assets/images/sara.jpeg    
     
   - name: Fabian Theis
     url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
