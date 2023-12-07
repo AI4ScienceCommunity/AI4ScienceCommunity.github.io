@@ -43,14 +43,14 @@ speakers:
     topic: 
     aff: MIT
     interest: AI, Agriculture, Climate
-    image: assets/images/sherrie.jpeg 
+    image: assets/images/sherrie.png 
     
   - name: Sara Beery    
     url: https://beerys.github.io/  
     topic: 
     aff: MIT
     interest: AI, Conservation
-    image: assets/images/sara.jpeg    
+    image: assets/images/sara.png    
     
   - name: Fabian Theis
     url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
