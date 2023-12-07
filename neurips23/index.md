@@ -62,6 +62,11 @@ speakers:
 
 Panelist:
 
+  - name: Carla Gomes
+    url:  https://www.cs.cornell.edu/gomes/
+    aff: Cornell University  
+    image: assets/images/carla.png 
+
   - name: Todd Anderson
     url:  https://science.osti.gov/ber/About/Staff
     aff: Department of Energy  
