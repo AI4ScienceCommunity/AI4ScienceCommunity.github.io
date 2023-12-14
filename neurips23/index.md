@@ -74,12 +74,6 @@ Panelist:
 
 
 
-  - name: Pierre Gentine
-    url:  https://gentinelab.eee.columbia.edu/people/pierre-gentine
-    aff: Columbia, NSF 
-    image: assets/images/pierre_gentine.png 
-
-
   - name: Thomas Kalil
     url: https://www.schmidtfutures.com/person/tom-kalil/ 
     aff: Schmidt Futures 
