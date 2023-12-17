@@ -436,5 +436,15 @@ Organizers are in alphabetical order. For any question, please contact [ai4scien
 </ul>
 
 
+## Best Paper Award 
+
+- Augmenting large language models with chemistry tools
+- Multiple Physics Pretraining for Physical Surrogate Models
+
+
+## Best Poster Award 
+
+- XLuminA: An Auto-differentiating Discovery Framework for Super-Resolution Microscopy
+- Koopman-Assisted Reinforcement Learning
 
 
