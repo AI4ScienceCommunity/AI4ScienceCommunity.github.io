@@ -1,6 +1,6 @@
 ---
 layout: neurips23
-title: "AI for Science: Mind the Gaps"
+title: "AI for Science: From Theory to Practice"
 permalink: /neurips23/award
 ---
 
