@@ -6,135 +6,254 @@ permalink: /icml24
 
 speakers:
 
-  - name: Anima Anandkumar
-    url: http://tensorlab.cms.caltech.edu/users/anima/
-    topic: 
-    aff: Caltech
-    interest: AI, Chemistry
-    image: assets/images/anima.png
-
-  - name: Anthony Gitter
-    url: https://www.biostat.wisc.edu/~gitter/
-    topic: 
-    aff: UW-Madison
-    interest: AI, Biology
-    image: assets/images/tony.jpeg
-
-  - name: Carla P. Gomes
-    url: https://www.cs.cornell.edu/gomes/
-    topic: 
-    aff: Cornell
-    interest: AI, Sustainability
-    image: assets/images/carla.png
-
-  - name: Rafael Gomez-Bombarelli
-    url: http://gomezbombarelli.mit.edu/
-    topic: 
-    aff: MIT
-    interest: AI, Material
-    image: assets/images/rafael.jpeg
-
-  - name: Jiequn Han
-    url: https://users.flatironinstitute.org/~jhan/
-    topic: 
-    aff: Flatiron Institute
-    interest: AI, Mathematics
-    image: assets/images/jiequn.jpeg
-
-  - name: Daphne Koller 
-    url: https://www.linkedin.com/in/daphne-koller-4053a820/
-    topic:
-    aff: Insitro 
-    interest: AI, Drug
-    image: assets/images/daphne.jpeg
-
-  - name: Frank Noe
-    url: http://www.mi.fu-berlin.de/en/math/groups/ai4s
-    topic: 
-    aff: FU Berlin
-    interest: AI, Physics
-    image: assets/images/frank.jpeg
-
-  - name: Max Tegmark
-    url: https://space.mit.edu/home/tegmark/
-    topic: 
-    aff: MIT
-    interest: AI, Physics
-    image: assets/images/max.jpeg
-
-StudentOrganizers:
-  - name: Yuanqi Du (DP Technology)
-    url: https://yuanqidu.github.io/
-
-  - name: Tianfan Fu (Gatech)
-    url: https://futianfan.github.io/
-
-  - name: Wenhao Gao (MIT)
-    url: https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en
-
-  - name: Kexin Huang (Stanford)
-    url: https://www.kexinhuang.com/
-
-  - name: Shengchao Liu (MILA)
-    url: https://chao1224.github.io/
-
-  - name: Ziming Liu (MIT)
-    url: https://kindxiaoming.github.io/
-
-  - name: Hanchen Wang (Cambridge)
-    url: https://hansen7.github.io/
+#   - name: Alán Aspuru-Guzik   
+#     url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
+#     topic: 
+#     aff: University of Toronto
+#     interest: AI, Chemistry
+#     image: assets/images/alan.png 
 
 
-ProfessorOrganizers:
+#   - name: Steven Brunton  
+#     url: https://www.me.washington.edu/facultyfinder/steve-brunton 
+#     topic: 
+#     aff: University of Washington
+#     interest: AI, Control and Simulation
+#     image: assets/images/steven_brunton.png 
 
-  - name: Connor Coley (MIT)
-    url: https://cheme.mit.edu/profile/connor-w-coley/
+#   - name: Kyle Cranmer  
+#     url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
+#     topic: 
+#     aff: University of Wisconsin–Madison 
+#     interest: AI, Particle Physics
+#     image: assets/images/Kyle.png 
 
-  - name: Le Song (BioMap)
-    url: https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&hl=en
+#   - name: Su-in Lee   
+#     url: https://suinlee.cs.washington.edu/
+#     topic: 
+#     aff: University of Washington 
+#     interest: AI, Computational Biology
+#     image: assets/images/su-in.png 
+    
 
-  - name: Linfeng Zhang (DP Technology)
-    url: https://scholar.google.com/citations?user=jk7qwmcAAAAJ&hl=zh-CN
 
-  - name: Marinka Zitnik (Harvard)
+#   - name: Sherrie Wang  
+#     url: https://sherriewang.github.io/  
+#     topic: 
+#     aff: MIT
+#     interest: AI, Agriculture, Climate
+#     image: assets/images/sherrie.png 
+    
+#   - name: Sara Beery    
+#     url: https://beerys.github.io/  
+#     topic: 
+#     aff: MIT
+#     interest: AI, Conservation
+#     image: assets/images/sara.png    
+    
+#   - name: Fabian Theis
+#     url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
+#     aff: Technical University of Munich  
+#     image: assets/images/fabian.png
+
+
+
+
+Panelist:
+
+#   - name: Carla Gomes
+#     url:  https://www.cs.cornell.edu/gomes/
+#     aff: Cornell University  
+#     image: assets/images/carla.png 
+
+#   - name: Todd Anderson
+#     url:  https://science.osti.gov/ber/About/Staff
+#     aff: Department of Energy  
+#     image: assets/images/todd_anderson.png 
+
+
+
+#   - name: Thomas Kalil
+#     url: https://www.schmidtfutures.com/person/tom-kalil/ 
+#     aff: Schmidt Futures 
+#     image: assets/images/thomas_kalil.jpeg 
+
+#   - name: Michael Littman
+#     url: https://vivo.brown.edu/display/mlittman 
+#     aff: Brown, NSF 
+#     image: assets/images/michael_littman.png 
+
+#   - name: David Spergel
+#     url: https://www.astro.princeton.edu/~dns/ 
+#     aff: Princeton, Flatiron Institute 
+#     image: assets/images/david_spergel.jpeg  
+
+Organizers:
+
+  # - name: Max Welling
+  #   url: https://staff.fnwi.uva.nl/m.welling
+  #   aff: UvA, Microsoft Research
+  #   interest: 
+  #   image: assets/images/max.png 
+
+
+
+  # - name: Yoshua Bengio
+  #   url: https://yoshuabengio.org
+  #   aff: MILA
+  #   interest: 
+  #   image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
+ 
+  - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
+    aff: Harvard
+    interest: 
+    image: assets/images/marinka.png 
+    
+  # - name: Carla P. Gomes
+  #   url: https://www.cs.cornell.edu/gomes/
+  #   aff: Cornell
+  #   interest: 
+  #   image: assets/images/carla.png 
+    
+    
+  # - name: Jure Leskovec 
+  #   url: https://cs.stanford.edu/people/jure/
+  #   aff: Stanford
+  #   interest: 
+  #   image: assets/images/jure.png 
+
+
+  - name: Yuanqi Du
+    url: https://yuanqidu.github.io/
+    aff: Cornell 
+    interest: AI for Science
+    image: assets/images/yuanqi.png 
+
+
+  # - name: Maria Brbić 
+  #   url: https://people.epfl.ch/maria.brbic 
+  #   aff: EPFL
+  #   interest: 
+  #   image: assets/images/maria.jpeg  
+
+
+  # - name: Chenru Duan 
+  #   url: https://www.crduan.com/
+  #   aff: MSFT Quantum
+  #   interest: AI for Chemistry
+  #   image: assets/images/chenru.png 
+
+
+  # - name: Wenhao Gao
+  #   url: https://wenhao-gao.github.io/
+  #   aff: MIT
+  #   interest: AI for Chemistry
+  #   image: assets/images/wenhao.png 
+
+
+  # - name: Kexin Huang 
+  #   url: https://www.kexinhuang.com/
+  #   aff: Stanford
+  #   interest: AI for Biology
+  #   image: assets/images/kexin.png
+
+
+  # - name: Ziming Liu
+  #   url: https://kindxiaoming.github.io/
+  #   aff: MIT
+  #   interest: AI for Physics 
+  #   image: assets/images/ziming.jpeg
+
+
+  # - name: Rocío Mercado
+  #   url: https://rociomer.github.io/
+  #   aff: Chalmers
+  #   interest: 
+  #   image: assets/images/rocio.png 
+
+  # - name: Miles Cranmer
+  #   url: https://astroautomata.com/ 
+  #   aff: University of Cambridge 
+  #   interest: 
+  #   image: assets/images/miles_cranmer.jpeg  
+
+
+  # - name: Shengchao Liu 
+  #   url: https://chao1224.github.io/
+  #   aff: MILA
+  #   interest: AI for Molecule Discovery
+  #   image: assets/images/shengchao.jpeg
+    
+
+
+  # - name: Lijing Wang 
+  #   url: https://lijingwang.github.io/
+  #   aff: Lawrence Berkeley National Laboratory 
+  #   interest: AI for Earth Sciences
+  #   image: assets/images/lijing2.png 
+
+
 ---
 
-## About
+# About
 
 For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
 
-- ** Boosting Scientific Simulation/Calculation with AI & ML**
+- **Solving grand challenges in structural biology**
 
-- ** Responsible use and development of AI for science**
+- **Scaling dynamical system modeling to millions of particles**
 
-- ** Learning Scientific Meaningful Representations**
+- **Visualizing the unimaginable black hole**
 
-- ** Theory and Foundations**
+- **Incorporating physical insights to AI methods**
 
-## Invited Talks (In alphabetical order)
-
-{% include team.html id="speakers" %}
+- **Accelerating drug discovery pipeline**
 
 
-# Important Dates (Anywhere on Earth)
 
-- Abstract Deadline: May 16, 2022
-- Submission Deadline: May 23, 2022
-- Author Notification: June 13, 2022
 
 ## Follow Us
 
-Please follow us on [Twitter](https://twitter.com/AI_for_Science) & [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for updates; also join [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-15rtaehdi-we~H~LhzZqrQTy6RtLGtug) for active discussions.
+Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions.
+
+# Invited Talks (In alphabetical order)
+
+{% include team.html id="speakers" %}
+
+# Panel: 
+
+{% include team.html id="Panelist" %}
 
 
 
-## Organizers and Contact
+# Tentative Important Dates (Anywhere on Earth)
 
-Organizers are in the alphabetical order. For any question, please [send us an email](mailto:ai4sciencecommunity@gmail.com)!
+- Abstract Submission Deadline: Sept 30, 2023
+- Paper Submission Deadline: Oct 2, 2023
+- Review Bidding Period: Oct 2-4, 2023
+- Reviewer Deadline: Oct 24, 2023
+- Acceptance Notification Date: Oct 27, 2023
+- Workshop Date: Dec 16, 2023
 
 
-<ul>
+
+## Submissions 
+
+Please submit your paper in Openreview. Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
+
+
+# Organizers and Contact
+
+Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+
+
+## Organizers 
+
+{% include team.html id="Organizers" %}
+
+
+<!-- <ul>
 {% for p in page.StudentOrganizers %}
 <li>
 <a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
@@ -150,4 +269,21 @@ Organizers are in the alphabetical order. For any question, please [send us an e
 <a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
 </li>
 {% endfor %}
+</ul> -->
+
+
+## AI4Science Team 
+
+<ul>
+{% for p in page.OtherStudentOrganizers %}
+<li>
+<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
+</li>
+{% endfor %}
 </ul>
+
+
+
+
+
+
