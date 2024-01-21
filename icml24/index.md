@@ -131,38 +131,38 @@ Organizers:
     image: assets/images/yuanqi.png 
 
 
-  # - name: Maria Brbić 
-  #   url: https://people.epfl.ch/maria.brbic 
-  #   aff: EPFL
-  #   interest: 
+  - name: Ada Fang
+    url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
+    aff: Harvard
+    interest: AI + Medicine
   #   image: assets/images/maria.jpeg  
 
 
-  # - name: Chenru Duan 
-  #   url: https://www.crduan.com/
-  #   aff: MSFT Quantum
-  #   interest: AI for Chemistry
+  - name: Lixue Cheng 
+    url: https://sherrylixuecheng.github.io/
+    aff: MSR AI4Science
+    interest: AI + Chemistry
   #   image: assets/images/chenru.png 
 
 
-  # - name: Wenhao Gao
-  #   url: https://wenhao-gao.github.io/
-  #   aff: MIT
-  #   interest: AI for Chemistry
+  - name: Kevin Wenliang Li
+    url: https://kevinwli.net/
+    aff: Google DeepMind
+    interest: AI + Neuroscience
   #   image: assets/images/wenhao.png 
 
 
-  # - name: Kexin Huang 
-  #   url: https://www.kexinhuang.com/
-  #   aff: Stanford
-  #   interest: AI for Biology
+  - name: Bowen Jing
+    url: https://people.csail.mit.edu/bjing/
+    aff: MIT
+    interest: AI + Biology
   #   image: assets/images/kexin.png
 
 
-  # - name: Ziming Liu
-  #   url: https://kindxiaoming.github.io/
-  #   aff: MIT
-  #   interest: AI for Physics 
+  - name: Di Luo
+    url: https://scholar.google.com/citations?user=OxZytTQAAAAJ&hl=zh-CN
+    aff: MIT
+    interest: AI + Physics 
   #   image: assets/images/ziming.jpeg
 
 
@@ -271,7 +271,7 @@ Organizers are in alphabetical order. For any question, please contact [ai4scien
 {% endfor %}
 </ul> -->
 
-
+<!-- 
 ## AI4Science Team 
 
 <ul>
@@ -280,7 +280,7 @@ Organizers are in alphabetical order. For any question, please contact [ai4scien
 <a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
 </li>
 {% endfor %}
-</ul>
+</ul> -->
 
 
 
