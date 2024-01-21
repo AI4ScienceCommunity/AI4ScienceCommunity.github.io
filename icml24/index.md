@@ -1,7 +1,7 @@
 ---
-layout: icml22
-title: "AI for Science: Theories and Foundations"
-permalink: /icml22
+layout: icml24
+title: "AI for Science: Pareto Frontier of Methodology, Scaling, Interpretability and Discovery"
+permalink: /icml24
 
 
 speakers:

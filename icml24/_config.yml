@@ -1,8 +1,8 @@
 title: "AI for Science"
-description: A (tentative) ICML 2023 Workshop
+description: A (tentative) ICML 2024 Workshop
 google_analytics:
 theme: jekyll-theme-cayman
 
 
 url: "https://AI4ScienceCommunity.github.io"
-baseurl: "/icml23"
+baseurl: "/icml24"
