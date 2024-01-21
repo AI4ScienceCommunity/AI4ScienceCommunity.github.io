@@ -221,7 +221,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 {% include team.html id="speakers" %}
 
-# Panel: 
+# Panel: Scaling in AI for Science: Pitfalls and Promise
 
 {% include team.html id="Panelist" %}
 
