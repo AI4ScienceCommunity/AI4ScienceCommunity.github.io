@@ -135,21 +135,21 @@ Organizers:
     url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
     aff: Harvard
     interest: AI + Medicine
-  #   image: assets/images/maria.jpeg  
+    image: assets/images/ada.jpg  
 
 
   - name: Lixue Cheng 
     url: https://sherrylixuecheng.github.io/
     aff: MSR AI4Science
     interest: AI + Chemistry
-  #   image: assets/images/chenru.png 
+    image: assets/images/lixue.png 
 
 
   - name: Kevin Wenliang Li
     url: https://kevinwli.net/
     aff: Google DeepMind
     interest: AI + Neuroscience
-  #   image: assets/images/wenhao.png 
+    image: assets/images/kevin.png 
 
 
   - name: Bowen Jing
