@@ -108,15 +108,20 @@ Organizers:
     url: https://zitniklab.hms.harvard.edu
     aff: Harvard
     interest: 
-    image: assets/images/marinka.png 
+    image: ./assets/images/marinka.png 
     
-  # - name: Carla P. Gomes
-  #   url: https://www.cs.cornell.edu/gomes/
-  #   aff: Cornell
-  #   interest: 
-  #   image: assets/images/carla.png 
-    
-    
+  - name: Carla P. Gomes
+    url: https://www.cs.cornell.edu/gomes/
+    aff: Cornell
+    interest: 
+    image: ./assets/images/carla.png 
+  
+  - name: Tommi Jaakkola
+    url: https://people.csail.mit.edu/tommi/
+    aff: MIT
+    interest: 
+    image: ./assets/images/tommi.jpeg 
+
   # - name: Jure Leskovec 
   #   url: https://cs.stanford.edu/people/jure/
   #   aff: Stanford
@@ -128,28 +133,28 @@ Organizers:
     url: https://yuanqidu.github.io/
     aff: Cornell 
     interest: AI for Science
-    image: assets/images/yuanqi.png 
+    image: ./assets/images/yuanqi.png 
 
 
   - name: Ada Fang
     url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
     aff: Harvard
     interest: AI + Medicine
-    image: assets/images/ada.jpg  
+    image: ./assets/images/ada.jpg  
 
 
   - name: Lixue Cheng 
     url: https://sherrylixuecheng.github.io/
     aff: MSR AI4Science
     interest: AI + Chemistry
-    image: assets/images/lixue.png 
+    image: ./assets/images/lixue.png 
 
 
   - name: Kevin Wenliang Li
     url: https://kevinwli.net/
     aff: Google DeepMind
     interest: AI + Neuroscience
-    image: assets/images/kevin.png 
+    image: ./assets/images/kevin.png 
 
 
   - name: Bowen Jing
