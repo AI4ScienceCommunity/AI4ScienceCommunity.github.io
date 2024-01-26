@@ -380,7 +380,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 
 
-# Tentative Important Dates (Anywhere on Earth)
+# Important Dates (Anywhere on Earth)
 
 - Abstract Submission Deadline: Sept 30, 2023
 - Paper Submission Deadline: Oct 2, 2023
