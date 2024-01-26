@@ -1,6 +1,6 @@
 ---
 layout: icml24
-title: "AI for Science: Pareto Frontier of Methodology, Scaling, Interpretability and Discovery"
+title: "AI for Science: Scaling in AI for Scientific Discovery"
 permalink: /icml24
 
 
@@ -221,7 +221,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 {% include team.html id="speakers" %}
 
-# Panel: Scaling in AI for Science: Pitfalls and Promise
+# Panel: Preto Frontier of Methodology, Scaling, Interpretability and Discovery
 
 {% include team.html id="Panelist" %}
 
