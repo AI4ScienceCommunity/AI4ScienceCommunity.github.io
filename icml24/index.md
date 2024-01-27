@@ -168,7 +168,7 @@ Organizers:
     url: https://scholar.google.com/citations?user=OxZytTQAAAAJ&hl=zh-CN
     aff: MIT
     interest: AI + Physics 
-    image: assets/images/luodi.jpg
+    image: assets/images/diluo.jpg
 
 
   # - name: Rocío Mercado
