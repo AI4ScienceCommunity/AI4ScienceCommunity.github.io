@@ -147,14 +147,14 @@ Organizers:
     url: https://sherrylixuecheng.github.io/
     aff: MSR AI4Science
     interest: AI + Chemistry
-    image: ./assets/images/lixue.png 
+    image: ./assets/images/lixue.jpg 
 
 
   - name: Kevin Wenliang Li
     url: https://kevinwli.net/
     aff: Google DeepMind
     interest: AI + Neuroscience
-    image: ./assets/images/kevin.png 
+    image: ./assets/images/kevin.jpg 
 
 
   - name: Bowen Jing
@@ -168,7 +168,7 @@ Organizers:
     url: https://scholar.google.com/citations?user=OxZytTQAAAAJ&hl=zh-CN
     aff: MIT
     interest: AI + Physics 
-  #   image: assets/images/ziming.jpeg
+    image: assets/images/luodi.jpg
 
 
   # - name: Rocío Mercado
@@ -235,9 +235,9 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 # Tentative Important Dates (Anywhere on Earth)
 
 - Abstract Submission Deadline: April 8, 2024
-- Paper Submission Deadline: May 16, 2023
-- Review Bidding Period: Oct 16-18, 2023
-- Reviewer Deadline: June 11, 2023
+- Paper Submission Deadline: May 16, 2024
+- Review Bidding Period: Oct 16-18, 2024
+- Reviewer Deadline: June 11, 2024
 - Acceptance Notification Date: June 14, 2024
 - Workshop Date: July 16, 2024
 
