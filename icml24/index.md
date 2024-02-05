@@ -6,43 +6,41 @@ permalink: /icml24
 
 speakers:
 
-#   - name: Alán Aspuru-Guzik   
-#     url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
-#     topic: 
-#     aff: University of Toronto
-#     interest: AI, Chemistry
-#     image: assets/images/alan.png 
+  - name: Bing W. Brunton  
+    url: https://www.biology.washington.edu/people/profile/bing-w-brunton
+    topic: 
+    aff: University of Washington
+    interest: AI, Neuroscience
+    image: assets/images/bing.jpeg 
 
 
-#   - name: Steven Brunton  
-#     url: https://www.me.washington.edu/facultyfinder/steve-brunton 
-#     topic: 
-#     aff: University of Washington
-#     interest: AI, Control and Simulation
-#     image: assets/images/steven_brunton.png 
+  - name: Kevin Yang
+    url: https://yangkky.github.io/ 
+    topic: 
+    aff: Microsoft Research
+    interest: AI, Biology
+    image: assets/images/kevin.jpeg 
 
-#   - name: Kyle Cranmer  
-#     url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
-#     topic: 
-#     aff: University of Wisconsin–Madison 
-#     interest: AI, Particle Physics
-#     image: assets/images/Kyle.png 
+  - name: Juan Felipe Carrasquilla Álvarez  
+    url: https://scholar.google.com/citations?user=slkzvvQAAAAJ&hl=en
+    topic: 
+    aff: ETH Zürich
+    interest: AI, Quantum Physics
+    image: assets/images/juan.jpeg 
 
-#   - name: Su-in Lee   
-#     url: https://suinlee.cs.washington.edu/
-#     topic: 
-#     aff: University of Washington 
-#     interest: AI, Computational Biology
-#     image: assets/images/su-in.png 
+  - name: Yian Yin
+    url: https://www.yianyin.net/
+    topic: 
+    aff: Cornell University
+    interest: AI, Science of Science
+    image: assets/images/yian.jpg 
     
-
-
-#   - name: Sherrie Wang  
-#     url: https://sherriewang.github.io/  
-#     topic: 
-#     aff: MIT
-#     interest: AI, Agriculture, Climate
-#     image: assets/images/sherrie.png 
+  - name: Gábor Csányi 
+    url: http://www.eng.cam.ac.uk/profiles/gc121 
+    topic: 
+    aff: University of Cambridge
+    interest: AI, Molecular Simulation, Materials
+    image: assets/images/gabor.png 
     
 #   - name: Sara Beery    
 #     url: https://beerys.github.io/  
@@ -61,15 +59,15 @@ speakers:
 
 Panelist:
 
-#   - name: Carla Gomes
-#     url:  https://www.cs.cornell.edu/gomes/
-#     aff: Cornell University  
-#     image: assets/images/carla.png 
+  - name: Lenka Zdeborova
+    url:  https://people.epfl.ch/lenka.zdeborova/?lang=en
+    aff: EPFL 
+    image: assets/images/lenka.jpeg
 
-#   - name: Todd Anderson
-#     url:  https://science.osti.gov/ber/About/Staff
-#     aff: Department of Energy  
-#     image: assets/images/todd_anderson.png 
+  - name: Sam Rodriques
+    url:  https://www.sam-rodriques.com/
+    aff: Future House  
+    image: assets/images/sam.png 
 
 
 
