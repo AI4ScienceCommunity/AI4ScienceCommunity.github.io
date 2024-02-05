@@ -62,11 +62,13 @@ Panelist:
   - name: Lenka Zdeborova
     url:  https://people.epfl.ch/lenka.zdeborova/?lang=en
     aff: EPFL 
+    interest: AI, Statistical Physics
     image: assets/images/lenka.jpeg
 
   - name: Sam Rodriques
     url:  https://www.sam-rodriques.com/
     aff: Future House  
+    interest: AI Scientist
     image: assets/images/sam.jpeg 
 
 
