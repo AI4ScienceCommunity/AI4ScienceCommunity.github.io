@@ -90,11 +90,11 @@ Panelist:
 
 Organizers:
 
-  # - name: Max Welling
-  #   url: https://staff.fnwi.uva.nl/m.welling
-  #   aff: UvA, Microsoft Research
-  #   interest: 
-  #   image: assets/images/max.png 
+  - name: Max Welling
+    url: https://staff.fnwi.uva.nl/m.welling
+    aff: UvA
+    interest: 
+    image: assets/images/max.png 
 
 
 
@@ -122,11 +122,11 @@ Organizers:
     interest: 
     image: ./assets/images/tommi.jpeg 
 
-  # - name: Jure Leskovec 
-  #   url: https://cs.stanford.edu/people/jure/
-  #   aff: Stanford
-  #   interest: 
-  #   image: assets/images/jure.png 
+  - name: Peter Dayan
+    url: https://www.mpg.de/12309370/biological-cybernetics-dayan
+    aff: Max Planck Institute
+    interest: 
+    image: assets/images/jure.png 
 
 
   - name: Yuanqi Du
@@ -161,7 +161,7 @@ Organizers:
     url: https://people.csail.mit.edu/bjing/
     aff: MIT
     interest: AI + Biology
-  #   image: assets/images/kexin.png
+    image: assets/images/bowen.jpeg
 
 
   - name: Di Luo
@@ -171,49 +171,13 @@ Organizers:
     image: assets/images/diluo.jpg
 
 
-  # - name: Rocío Mercado
-  #   url: https://rociomer.github.io/
-  #   aff: Chalmers
-  #   interest: 
-  #   image: assets/images/rocio.png 
-
-  # - name: Miles Cranmer
-  #   url: https://astroautomata.com/ 
-  #   aff: University of Cambridge 
-  #   interest: 
-  #   image: assets/images/miles_cranmer.jpeg  
-
-
-  # - name: Shengchao Liu 
-  #   url: https://chao1224.github.io/
-  #   aff: MILA
-  #   interest: AI for Molecule Discovery
-  #   image: assets/images/shengchao.jpeg
-    
-
-
-  # - name: Lijing Wang 
-  #   url: https://lijingwang.github.io/
-  #   aff: Lawrence Berkeley National Laboratory 
-  #   interest: AI for Earth Sciences
-  #   image: assets/images/lijing2.png 
-
-
 ---
 
 # About
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
+The increasing integration of AI into scientific discovery is augmenting and accelerating research, enabling scientists to generate hypotheses, design experiments, collect and interpret large datasets, and uncover insights previously unattainable through conventional scientific methods. It has addressed challenges once deemed insurmountable, such as predicting 3D protein structures, simulating molecular systems, forecasting global climate changes, and uncovering new scientific laws. The theme of scaling has become increasingly significant in "AI for Science" discussions, driven by the growth in model sizes, datasets, and deployment scopes. We can see analogies between the scaling laws which have a long history in science and emergent properties observed in LLMs and the excitement in the AI for Science community today.
 
-- **Solving grand challenges in structural biology**
-
-- **Scaling dynamical system modeling to millions of particles**
-
-- **Visualizing the unimaginable black hole**
-
-- **Incorporating physical insights to AI methods**
-
-- **Accelerating drug discovery pipeline**
+Recent advancements across scientific disciplines such as materials science, meteorology, and drug discovery illustrate that scaling model training can lead to unprecedented generalization levels and novel discoveries. These achievements underscore the potential of scaling alongside methodological innovations. Although the primary aim of science is to explore new phenomena, the opacity of many ML algorithms raises concerns about model interpretability—a critical issue our workshop will address. As AI tackles a widening array of scientific problems, the role of AI in enabling large-scale scientific research becomes a focal point of our discussions. We have curated a lineup of speakers and panelists renowned for their contributions to understanding the implications of scaling in AI for Science. They will shed light on how scaling introduces new dimensions—or trade-offs—to methodology development, theory, interpretability, and discovery, sharing their insights with the broader ML and scientific communities. The goal of our workshop is to cultivate a rich dialogue among a diverse array of participants, including scientists, industry experts, academics, and machine learning researchers, on the transformative impact of scaling in AI for scientific research. We aim to explore both the burgeoning opportunities and the emerging challenges this evolution presents, fostering a collaborative environment that encourages the exchange of insights and strategies across various disciplines.
 
 
 
