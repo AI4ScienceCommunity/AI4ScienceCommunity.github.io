@@ -67,7 +67,7 @@ Panelist:
   - name: Sam Rodriques
     url:  https://www.sam-rodriques.com/
     aff: Future House  
-    image: assets/images/sam.png 
+    image: assets/images/sam.jpeg 
 
 
 
