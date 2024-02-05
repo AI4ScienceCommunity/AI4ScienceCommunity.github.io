@@ -126,7 +126,7 @@ Organizers:
     url: https://www.mpg.de/12309370/biological-cybernetics-dayan
     aff: Max Planck Institute
     interest: 
-    image: assets/images/jure.png 
+    image: assets/images/peter.jpeg 
 
 
   - name: Yuanqi Du
