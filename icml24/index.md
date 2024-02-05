@@ -33,14 +33,14 @@ speakers:
     topic: 
     aff: Cornell University
     interest: AI, Science of Science
-    image: assets/images/yian.jpg 
+    image: assets/images/yian.png 
     
   - name: Gábor Csányi 
     url: http://www.eng.cam.ac.uk/profiles/gc121 
     topic: 
     aff: University of Cambridge
     interest: AI, Molecular Simulation, Materials
-    image: assets/images/gabor.png 
+    image: assets/images/gabor.jpeg 
     
 #   - name: Sara Beery    
 #     url: https://beerys.github.io/  
