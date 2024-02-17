@@ -46,7 +46,7 @@ speakers:
     url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en  
     topic: 
     aff: Google DeepMind
-    interest: AI, Conservation
+    interest: AI, Climate
     image: assets/images/peter_battaglia.jpeg    
     
 #   - name: Fabian Theis
