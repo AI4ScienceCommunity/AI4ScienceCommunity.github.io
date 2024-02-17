@@ -42,12 +42,12 @@ speakers:
     interest: AI, Molecular Simulation, Materials
     image: assets/images/gabor.jpeg 
     
-#   - name: Sara Beery    
-#     url: https://beerys.github.io/  
-#     topic: 
-#     aff: MIT
-#     interest: AI, Conservation
-#     image: assets/images/sara.png    
+  - name: Peter Battaglia  
+    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en  
+    topic: 
+    aff: Google DeepMind
+    interest: AI, Conservation
+    image: assets/images/peter_battaglia.jpeg    
     
 #   - name: Fabian Theis
 #     url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
@@ -71,17 +71,15 @@ Panelist:
     interest: AI Scientist
     image: assets/images/sam.jpeg 
 
+  - name: Jonas Köhler
+    url: https://argmin.xyz/
+    aff: Microsoft Research
+    image: assets/images/jonas.jpeg 
 
-
-#   - name: Thomas Kalil
-#     url: https://www.schmidtfutures.com/person/tom-kalil/ 
-#     aff: Schmidt Futures 
-#     image: assets/images/thomas_kalil.jpeg 
-
-#   - name: Michael Littman
-#     url: https://vivo.brown.edu/display/mlittman 
-#     aff: Brown, NSF 
-#     image: assets/images/michael_littman.png 
+  - name: Gege Wen
+    url: https://gegewen.github.io/
+    aff: Imperial College London
+    image: assets/images/gege.jpeg 
 
 #   - name: David Spergel
 #     url: https://www.astro.princeton.edu/~dns/ 
