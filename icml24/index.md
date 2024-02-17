@@ -74,11 +74,13 @@ Panelist:
   - name: Jonas Köhler
     url: https://argmin.xyz/
     aff: Microsoft Research
+    interest: AI, Sampling, Comp. Chemistry
     image: assets/images/jonas.jpeg 
 
   - name: Gege Wen
     url: https://gegewen.github.io/
     aff: Imperial College London
+    interest: AI, Earch Science
     image: assets/images/gege.jpeg 
 
 #   - name: David Spergel
