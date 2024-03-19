@@ -26,5 +26,5 @@ Excited to share our [Nature paper](https://www.nature.com/articles/s41586-023-0
 
 ## Follow Us
 
-Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-15rtaehdi-we~H~LhzZqrQTy6RtLGtug) for active discussions.
+Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions.
 
