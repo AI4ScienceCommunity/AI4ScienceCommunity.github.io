@@ -192,7 +192,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 {% include team.html id="speakers" %}
 
-# Panel: Preto Frontier of Methodology, Scaling, Interpretability and Discovery
+# Panel: Pareto Frontier of Methodology, Scaling, Interpretability and Discovery
 
 {% include team.html id="Panelist" %}
 
@@ -200,12 +200,12 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: April 8, 2024
-- Paper Submission Deadline: May 16, 2024
-- Review Bidding Period: Oct 16-18, 2024
-- Reviewer Deadline: June 11, 2024
-- Acceptance Notification Date: June 14, 2024
-- Workshop Date: July 16, 2024
+- Abstract Submission Deadline: May 23, 2024
+- Paper Submission Deadline: May 25, 2024
+- Review Bidding Period: May 25-27, 2024
+- Reviewer Deadline: June 13, 2024
+- Acceptance Notification Date: June 16, 2024
+- Workshop Date: July 26 or 27, 2024
 
 
 ## Submissions 
