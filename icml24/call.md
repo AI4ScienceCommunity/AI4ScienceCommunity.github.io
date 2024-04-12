@@ -62,7 +62,7 @@ You may wonder AI for Science is so broad, whether your writing would be read by
 
 # Submission Instructions
 
-Abstract submission is due on **Sep 30th AoE**, and paper submission is due on **Oct 2nd AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/AI4Science).
+Abstract submission is due on **May 23th AoE**, and paper submission is due on **May 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/AI4Science).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published, or (3) work-in-progress.
 Please use the ICML LaTeX template and change the title to under review at ICML 2024 AI for Science workshop. 
