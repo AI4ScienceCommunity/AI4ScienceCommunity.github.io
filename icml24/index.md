@@ -220,7 +220,7 @@ Please submit your paper in [OpenReview](https://openreview.net/group?id=ICML.cc
 ## Frequent Q&A
 
 - What is the abstract deadline and why do we have it?
-You only need to create a submission tab on OpenReview by the abstract deadline. (**This is not a separate submission track for short papers**). As we receive a large volume of diverse submissions, to entire good review quality and coverage of reviewer areas, we keep an abstract deadline for us to have a chance to invite new reviewers if needed.
+- You only need to create a submission tab on OpenReview by the abstract deadline. (**This is not a separate submission track for short papers**). As we receive a large volume of diverse submissions, to entire good review quality and coverage of reviewer areas, we keep an abstract deadline for us to have a chance to invite new reviewers if needed.
 
 # Organizers and Contact
 
