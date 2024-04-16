@@ -226,7 +226,7 @@ Please submit your paper in [OpenReview](https://openreview.net/group?id=ICML.cc
 - Yes, you are welcome to attend the workshop. Registration is through ICML 2024 registration system with workshop selected. 
 
 - Can I join the organizing team?
-- We always welcome new members to join our organizing team, feel free to reach out to us if you are interested. Several questions are recommended to be answered to help us make decision: what do you like the workshop? what do you think we should improve? what can you contribute to the organizing team?
+- We always welcome new members to join our organizing team, feel free to reach out to us if you are interested. Several questions are recommended to be answered to help us make decision: what do you like about the workshop? what do you think we should improve? what can you contribute to the organizing team?
 
 # Organizers and Contact
 
