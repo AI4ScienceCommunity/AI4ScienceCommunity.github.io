@@ -1,0 +1,8 @@
+title: "AI for Science"
+description: A NeurIPS 2023 Workshop
+google_analytics:
+theme: jekyll-theme-cayman
+
+
+url: "https://AI4ScienceCommunity.github.io"
+baseurl: "/neurips23"
