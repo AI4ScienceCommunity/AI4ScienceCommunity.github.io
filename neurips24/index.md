@@ -222,7 +222,7 @@ Organizers:
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
-  - name: Tianfan Fu (UIUC)
+  - name: Tianfan Fu 
     url: https://futianfan.github.io/
     aff: RPI
     interest: AI for drug design and development 
@@ -250,6 +250,14 @@ Organizers:
     aff: MIT
     interest: AI for Physics 
     image: assets/images/ziming.jpeg
+
+  - name: Di Luo
+    url: https://physics.mit.edu/faculty/di-luo/
+    aff: MIT 
+    interest: AI for Quantum Computing
+    image: assets/images/diluo.png     
+    
+    
 
 
   - name: Rocío Mercado
