@@ -6,22 +6,37 @@ permalink: /neurips24
 
 
 speakers:
-
-
     
-  - name: Sara Beery    
-    url: https://beerys.github.io/  
-    topic: 
+  - name: Grant Rotskoff
+    url: https://chemistry.stanford.edu/people/grant-m-rotskoff
+    aff: Stanford
+    image: assets/images/grant.png
+
+  - name: Jesse Thaler
+    url: https://physics.mit.edu/faculty/jesse-thaler/
     aff: MIT
-    interest: AI, Conservation
-    image: assets/images/sara.png    
-    
-  - name: Fabian Theis
-    url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
-    aff: Technical University of Munich  
-    image: assets/images/fabian.png
+    image: assets/images/jesse.png
 
+  - name: Heather Kulick
+    url: https://cheme.mit.edu/profile/heather-j-kulik/
+    aff: MIT
+    image: assets/images/heather.png
 
+  - name: Courtney Davis
+    url: https://www.birds.cornell.edu/home/staff/courtney-davis/
+    aff: Cornell
+    image: assets/images/courtney.png
+
+  - name: James Evans
+    url: https://macss.uchicago.edu/directory/James-Evans
+    aff: UChicago
+    image: assets/images/james.png
+
+  - name: Jef Caers
+    url: https://profiles.stanford.edu/jef-caers
+    aff: Stanford
+    image: assets/images/jef.png
+  
 
 
 Panelist:
