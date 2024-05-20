@@ -174,12 +174,6 @@ Organizers:
     interest: 
     image: assets/images/max.png 
 
-  - name: Yoshua Bengio
-    url: https://yoshuabengio.org
-    aff: MILA
-    interest: 
-    image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
- 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
     aff: Harvard
@@ -192,13 +186,6 @@ Organizers:
     interest: 
     image: assets/images/carla.png 
     
-    
-  - name: Jure Leskovec 
-    url: https://cs.stanford.edu/people/jure/
-    aff: Stanford
-    interest: 
-    image: assets/images/jure.png 
-
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
     aff: Cornell 
@@ -211,15 +198,11 @@ Organizers:
     interest: AI for quantum chemistry, biology
     image: assets/images/lixue.png 
 
-
-
-
   - name: Maria Brbić 
     url: https://people.epfl.ch/maria.brbic 
     aff: EPFL
     interest: 
     image: assets/images/maria.jpeg  
-
 
   - name: Chenru Duan 
     url: https://www.crduan.com/
@@ -233,22 +216,17 @@ Organizers:
     interest: AI for drug design and development 
     image: assets/images/tianfan.png     
     
-    
-
-
   - name: Wenhao Gao
     url: https://wenhao-gao.github.io/
     aff: MIT
     interest: AI for Chemistry
     image: assets/images/wenhao.png 
 
-
   - name: Kexin Huang 
     url: https://www.kexinhuang.com/
     aff: Stanford
     interest: AI for Biology
     image: assets/images/kexin.png
-
 
   - name: Ziming Liu
     url: https://kindxiaoming.github.io/
@@ -261,22 +239,6 @@ Organizers:
     aff: MIT 
     interest: AI for Quantum Computing
     image: assets/images/diluo.jpg     
-    
-    
-
-
-  - name: Rocío Mercado
-    url: https://rociomer.github.io/
-    aff: Chalmers
-    interest: 
-    image: assets/images/rocio.png 
-
-  - name: Miles Cranmer
-    url: https://astroautomata.com/ 
-    aff: University of Cambridge 
-    interest: 
-    image: assets/images/miles_cranmer.jpeg  
-
 
   - name: Lijing Wang 
     url: https://lijingwang.github.io/
