@@ -174,8 +174,6 @@ Organizers:
     interest: 
     image: assets/images/max.png 
 
-
-
   - name: Yoshua Bengio
     url: https://yoshuabengio.org
     aff: MILA
@@ -200,7 +198,6 @@ Organizers:
     aff: Stanford
     interest: 
     image: assets/images/jure.png 
-
 
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
