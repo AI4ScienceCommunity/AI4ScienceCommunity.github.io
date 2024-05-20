@@ -26,15 +26,10 @@ speakers:
 
 Panelist:
 
-  - name: Carla Gomes
-    url:  https://www.cs.cornell.edu/gomes/
-    aff: Cornell University  
-    image: assets/images/carla.png 
-
-  - name: Todd Anderson
-    url:  https://science.osti.gov/ber/About/Staff
-    aff: Department of Energy  
-    image: assets/images/todd_anderson.png 
+  - name: Anima Anandkumar
+    url: http://tensorlab.cms.caltech.edu/users/anima/
+    aff: Caltech
+    image: assets/images/anima.png
 
 
 opencatalyst:
@@ -126,15 +121,11 @@ OtherStudentOrganizers:
     url: https://zitniklab.hms.harvard.edu
     image: assets/images/test.jpeg
 
-
   - name: Connor Coley (MIT)
     url: https://cheme.mit.edu/profile/connor-w-coley/
 
   - name: Le Song (BioMap)
     url: https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&hl=en
-
-  - name: Linfeng Zhang (DP Technology)
-    url: https://scholar.google.com/citations?user=jk7qwmcAAAAJ&hl=zh-CN
 
   - name: Anima Anandkumar (Caltech, NVIDIA)
     url: http://tensorlab.cms.caltech.edu/users/anima/
