@@ -255,7 +255,7 @@ Organizers:
     url: https://physics.mit.edu/faculty/di-luo/
     aff: MIT 
     interest: AI for Quantum Computing
-    image: assets/images/diluo.png     
+    image: assets/images/diluo.jpg     
     
     
 
