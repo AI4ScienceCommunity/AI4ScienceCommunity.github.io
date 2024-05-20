@@ -208,6 +208,14 @@ Organizers:
     interest: AI for Science
     image: assets/images/yuanqi.png 
 
+  - name: Lixue Cheng
+    url: https://sherrylixuecheng.github.io/
+    aff: Microsoft Research 
+    interest: AI for quantum chemistry, biology
+    image: assets/images/lixue.png 
+
+
+
 
   - name: Maria Brbić 
     url: https://people.epfl.ch/maria.brbic 
