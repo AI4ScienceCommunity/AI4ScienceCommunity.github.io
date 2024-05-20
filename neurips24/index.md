@@ -1,7 +1,7 @@
 ---
-layout: neurips23
+layout: neurips24
 title: "AI for Scientific Discovery: From Theory to Practice"
-permalink: /neurips23
+permalink: /neurips24
 
 
 
@@ -369,7 +369,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Open Catalyst Challenge
 
-The Open Catalyst Challenge 2023 invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon-neutral means for energy storage and conversion.
+The Open Catalyst Challenge invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon-neutral means for energy storage and conversion.
 
 Over the past two years, the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask.
 
@@ -382,12 +382,12 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Sept 30, 2023
-- Paper Submission Deadline: Oct 2, 2023
-- Review Bidding Period: Oct 2-4, 2023
-- Reviewer Deadline: Oct 24, 2023
-- Acceptance Notification Date: Oct 27, 2023
-- Workshop Date: Dec 16, 2023
+- Abstract Submission Deadline: Sept 30, 2024
+- Paper Submission Deadline: Oct 2, 2024
+- Review Bidding Period: Oct 2-4, 2024
+- Reviewer Deadline: Oct 24, 2024
+- Acceptance Notification Date: Oct 27, 2024
+- Workshop Date: Dec 16, 2024
 
 
 
