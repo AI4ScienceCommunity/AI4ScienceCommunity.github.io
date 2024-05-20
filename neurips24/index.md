@@ -31,22 +31,20 @@ Panelist:
     aff: Caltech
     image: assets/images/anima.png
 
+  - name: Philippe Schwaller
+    url: https://schwallergroup.github.io/
+    aff: EPFL
+    image: assets/images/philippe.png
 
-opencatalyst:
+  - name: Mario Krenn
+    url: https://mariokrenn.wordpress.com/
+    aff: Max Planck Institute
+    image: assets/images/mario.png
 
-  - name: Muhammed Shuaibi  
-    url: https://scholar.google.com/citations?user=lphfYeIAAAAJ&hl=en 
-    topic: 
-    aff: FAIR, Meta 
-    interest: AI, Chemistry
-    image: assets/images/shuaibi.jpeg 
-
-  - name: Brandon Wood  
-    url: https://scholar.google.com/citations?user=KbqboRgAAAAJ&hl=en
-    topic: 
-    aff: FAIR, Meta
-    interest: AI, Chemistry
-    image: assets/images/brandon.jpeg 
+  - name: Charlotte Bunne
+    url: https://www.bunne.ch/
+    aff: Stanford
+    image: assets/images/charlotte.png
 
 
 
