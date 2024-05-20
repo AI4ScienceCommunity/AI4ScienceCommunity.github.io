@@ -1,7 +1,7 @@
 ---
-layout: neurips23
+layout: neurips24
 title: "AI for Scientific Discovery: From Theory to Practice"
-permalink: /neurips23/call
+permalink: /neurips24/call
 ---
 
 # Call for Papers
