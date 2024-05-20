@@ -1,14 +1,14 @@
 ---
-layout: neurips23
+layout: neurips24
 title: "AI for Scientific Discovery: From Theory to Practice"
-permalink: /neurips23/schedule
+permalink: /neurips24/schedule
 ---
 
 
 
 # Schedule
 
-08:00 AM – 06:00 PM (Central Time), Dec 16, 2023
+08:00 AM – 06:00 PM (Central Time), Dec 16, 2024
 
 | Event | | Time |
 | :--- | --- | :--- |
