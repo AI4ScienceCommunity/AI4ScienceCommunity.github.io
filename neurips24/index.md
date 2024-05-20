@@ -7,43 +7,7 @@ permalink: /neurips24
 
 speakers:
 
-  - name: Alán Aspuru-Guzik   
-    url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
-    topic: 
-    aff: University of Toronto
-    interest: AI, Chemistry
-    image: assets/images/alan.png 
 
-
-  - name: Steven Brunton  
-    url: https://www.me.washington.edu/facultyfinder/steve-brunton 
-    topic: 
-    aff: University of Washington
-    interest: AI, Control and Simulation
-    image: assets/images/steven_brunton.png 
-
-  - name: Kyle Cranmer  
-    url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
-    topic: 
-    aff: University of Wisconsin–Madison 
-    interest: AI, Particle Physics
-    image: assets/images/Kyle.png 
-
-  - name: Su-in Lee   
-    url: https://suinlee.cs.washington.edu/
-    topic: 
-    aff: University of Washington 
-    interest: AI, Computational Biology
-    image: assets/images/su-in.png 
-    
-
-
-  - name: Sherrie Wang  
-    url: https://sherriewang.github.io/  
-    topic: 
-    aff: MIT
-    interest: AI, Agriculture, Climate
-    image: assets/images/sherrie.png 
     
   - name: Sara Beery    
     url: https://beerys.github.io/  
@@ -71,23 +35,6 @@ Panelist:
     url:  https://science.osti.gov/ber/About/Staff
     aff: Department of Energy  
     image: assets/images/todd_anderson.png 
-
-
-
-  - name: Thomas Kalil
-    url: https://www.schmidtfutures.com/person/tom-kalil/ 
-    aff: Schmidt Futures 
-    image: assets/images/thomas_kalil.jpeg 
-
-  - name: Michael Littman
-    url: https://vivo.brown.edu/display/mlittman 
-    aff: Brown, NSF 
-    image: assets/images/michael_littman.png 
-
-  - name: David Spergel
-    url: https://www.astro.princeton.edu/~dns/ 
-    aff: Princeton, Flatiron Institute 
-    image: assets/images/david_spergel.jpeg  
 
 
 opencatalyst:
@@ -162,12 +109,6 @@ OtherStudentOrganizers:
     url: https://kindxiaoming.github.io/
     image: assets/images/test.jpeg
     
-
-  - name: Hanchen Wang (Stanford, Genentech)
-    url: https://hansen7.github.io/
-    aff: Stanford/Genentech
-    interest: AI for Medical Science
-    image: assets/images/hanchen.png 
 
   - name: Max Tegmark (MIT)
     url: https://space.mit.edu/home/tegmark
@@ -281,6 +222,14 @@ Organizers:
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
+  - name: Tianfan Fu (UIUC)
+    url: https://futianfan.github.io/
+    aff: RPI
+    interest: AI for drug design and development 
+    image: assets/images/tianfan.png     
+    
+    
+
 
   - name: Wenhao Gao
     url: https://wenhao-gao.github.io/
@@ -314,14 +263,6 @@ Organizers:
     aff: University of Cambridge 
     interest: 
     image: assets/images/miles_cranmer.jpeg  
-
-
-  - name: Shengchao Liu 
-    url: https://chao1224.github.io/
-    aff: MILA
-    interest: AI for Molecule Discovery
-    image: assets/images/shengchao.jpeg
-    
 
 
   - name: Lijing Wang 
