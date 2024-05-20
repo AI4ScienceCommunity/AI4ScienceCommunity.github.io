@@ -258,18 +258,15 @@ Organizers:
 
 # About
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
-
-- **Solving grand challenges in structural biology**
-
-- **Scaling dynamical system modeling to millions of particles**
-
-- **Visualizing the unimaginable black hole**
-
-- **Incorporating physical insights to AI methods**
-
-- **Accelerating drug discovery pipeline**
-
+Dramatic developments in AI have led to its increasing adoption in science as a means to model complex phenomena, generate hypotheses,
+design experiments, collect and interpret large datasets, and gain new insights that might not have been possible using traditional scientific methods. The main goal of this series of workshops is to discover synergy across a variety of scientific fields, encourage
+interdisciplinary discussions, and enhance the flow of knowledge between AI and various scientific communities. Throughout history,
+bridging seemly different fields has brought overarching benefits, with notable examples: entropy in thermodynamics and information
+theory, neuroscience and AI, and algorithms inspired by discoveries in science (e.g. genetic algorithm, simulated annealing and diffusion-
+based generative models). In the current era, successes of AI methods in different fields of science have alluded to the general effectiveness
+of common themes: large simulated datasets, enforcing problem symmetries, and foundation model architectures. Our mission is to bring
+more scientists to attend ICML to share different perspectives on the use of AI and to illuminate exciting research directions for AI
+researchers. 
 
 
 
