@@ -207,7 +207,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 - Abstract Submission Deadline: May 23, 2024
 - Paper Submission Deadline: May 25, 2024
-- Review Bidding Period: May 25-27, 2024
+- Review Bidding Period: May 25-31, 2024
 - Reviewer Deadline: June 13, 2024
 - Acceptance Notification Date: June 16, 2024
 - Workshop Date: July 26 or 27, 2024
