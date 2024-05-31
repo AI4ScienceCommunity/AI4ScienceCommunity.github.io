@@ -58,7 +58,7 @@ Panelist:
 
   - name: Charlotte Bunne
     url: https://www.bunne.ch/
-    aff: Stanford
+    aff: EPFL
     image: assets/images/charlotte.png
 
 
