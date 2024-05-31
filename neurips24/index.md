@@ -12,6 +12,11 @@ speakers:
     aff: Stanford
     image: assets/images/grant.png
 
+  - name: Rianne Van Der Berg
+    url: https://www.microsoft.com/en-us/research/people/rvandenberg/
+    aff: MSR Amsterdam
+    image: assets/images/rianne.png
+
   - name: Jesse Thaler
     url: https://physics.mit.edu/faculty/jesse-thaler/
     aff: MIT
