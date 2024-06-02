@@ -6,13 +6,12 @@ permalink: /icml24
 
 speakers:
 
-  - name: Bing W. Brunton  
-    url: https://www.biology.washington.edu/people/profile/bing-w-brunton
+  - name: Sacha van Albada
+    url: https://scholar.google.com/citations?user=pdpt9EMAAAAJ&hl=en
     topic: 
-    aff: University of Washington
+    aff: University of Cologne
     interest: AI, Neuroscience
-    image: assets/images/bing.jpeg 
-
+    image: assets/images/sacha.jpeg 
 
   - name: Kevin Yang
     url: https://yangkky.github.io/ 
@@ -21,12 +20,12 @@ speakers:
     interest: AI, Biology
     image: assets/images/kevin.jpeg 
 
-  - name: Juan Felipe Carrasquilla Álvarez  
-    url: https://scholar.google.com/citations?user=slkzvvQAAAAJ&hl=en
+  - name: Megan Stanley  
+    url: https://twitter.com/megjanestanley
     topic: 
-    aff: ETH Zürich
-    interest: AI, Quantum Physics
-    image: assets/images/juan.jpeg 
+    aff: Microsoft Research AI4Science
+    interest: AI, Climate
+    image: assets/images/megan.jpeg 
 
   - name: Yian Yin
     url: https://www.yianyin.net/
@@ -42,17 +41,12 @@ speakers:
     interest: AI, Molecular Simulation, Materials
     image: assets/images/gabor.jpeg 
     
-  - name: Peter Battaglia  
-    url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en  
-    topic: 
-    aff: Google DeepMind
-    interest: AI, Climate
-    image: assets/images/peter_battaglia.jpeg    
-    
-#   - name: Fabian Theis
-#     url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
-#     aff: Technical University of Munich  
-#     image: assets/images/fabian.png
+  - name: Lenka Zdeborova
+    url:  https://people.epfl.ch/lenka.zdeborova/?lang=en
+    topic:
+    aff: EPFL 
+    interest: AI, Statistical Physics
+    image: assets/images/lenka.jpeg
 
 
 
