@@ -1,6 +1,6 @@
 ---
 layout: neurips24
-title: "AI for Scientific Discovery: From Theory to Practice"
+title: "AI for Science: Collaborative Future between AI and Scientists"
 permalink: /neurips24/schedule
 ---
 
