@@ -347,15 +347,6 @@ Organizers are in alphabetical order. For any question, please contact [ai4scien
 </ul> -->
 
 
-## AI4Science Team 
-
-<ul>
-{% for p in page.OtherStudentOrganizers %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul>
 
 
 
