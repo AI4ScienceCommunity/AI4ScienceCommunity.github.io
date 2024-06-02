@@ -257,20 +257,26 @@ Organizers:
 
 # About
 
-## NeurIPS 2024 Workshop Objectives
+The main objectives include
 
-### 1. Showcasing Successful AI-Scientist Collaborations
-We will analyze and present successful partnerships between AI and scientists across various scientific fields to understand collaboration levels and discuss the potential for autonomous AI systems in scientific research.
+1. **Showcasing Successful AI-Scientist Collaborations**
+   - Analyze and present successful partnerships between AI and scientists across various scientific fields.
+   - Understand collaboration levels and discuss the potential for autonomous AI systems in scientific research.
 
-### 2. Hosting Research Debates on AI and Human Roles
-We will facilitate debates on the roles of scientists and AI in the stages of scientific discovery. The discussions will focus on distinguishing contributions between AI and human scientists and identifying optimal collaboration conditions for maximal benefits.
+2. **Hosting Research Debates on AI and Human Roles**
+   - Facilitate debates on the roles of scientists and AI in the stages of scientific discovery.
+   - Focus on distinguishing contributions between AI and human scientists.
+   - Identify optimal collaboration conditions for maximal benefits.
 
-### 3. Addressing Ethical Issues and Regulation
-We will critically examine ethical concerns and propose regulatory solutions to mitigate risks such as generating malicious content, biased decision-making, and the misuse of AI in scientific discoveries. The aim is to ensure ethical, safe, and regulated use of AI in scientific settings.
+3. **Addressing Ethical Issues and Regulation**
+   - Critically examine ethical concerns related to AI in scientific research.
+   - Propose regulatory solutions to mitigate risks such as generating malicious content, biased decision-making, and the misuse of AI.
+   - Ensure ethical, safe, and regulated use of AI in scientific settings.
 
-### 4. Exploring AI in Education
-We will explore opportunities for using AI to democratize access to advanced scientific knowledge and improve education. This includes discussing how AI can enhance scientific education, training, and make scientific knowledge more accessible to non-experts.
-
+4. **Exploring AI in Education**
+   - Explore opportunities for using AI to democratize access to advanced scientific knowledge.
+   - Discuss how AI can enhance scientific education and training.
+   - Make scientific knowledge more accessible to non-experts.
 
 
 
