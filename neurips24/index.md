@@ -178,7 +178,7 @@ Organizers:
 
   - name: Max Welling
     url: https://staff.fnwi.uva.nl/m.welling
-    aff: UvA, Microsoft Research
+    aff: UvA, Caltech
     interest: 
     image: assets/images/max.png 
 
@@ -215,7 +215,7 @@ Organizers:
   - name: Lixue Cheng
     url: https://sherrylixuecheng.github.io/
     aff: Microsoft Research 
-    interest: AI for quantum chemistry, biology
+    interest: AI for Quantum Chemistry
     image: assets/images/lixue.png 
 
   - name: Chenru Duan 
@@ -227,7 +227,7 @@ Organizers:
   - name: Tianfan Fu 
     url: https://futianfan.github.io/
     aff: RPI
-    interest: AI for drug design and development 
+    interest: AI for Drug Discovery
     image: assets/images/tianfan.png     
 
   - name: Kexin Huang 
@@ -251,7 +251,7 @@ Organizers:
   - name: Lijing Wang 
     url: https://lijingwang.github.io/
     aff: Lawrence Berkeley National Laboratory 
-    interest: AI for Earth Sciences
+    interest: AI for Earth Science
     image: assets/images/lijing2.png 
 
 
