@@ -1,8 +1,7 @@
 ---
 layout: neurips24
-title: "AI for Scientific Discovery: Collaborative Future of AI and Scientists"
+title: "AI for Science: Collaborative Future between AI and Scientists"
 permalink: /neurips24
-
 
 
 speakers:
