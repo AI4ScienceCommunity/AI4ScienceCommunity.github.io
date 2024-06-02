@@ -317,6 +317,18 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 Please submit your paper in Openreview. Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
 
+## Frequent Q&A
+
+- What is the abstract deadline and why do we have it?
+- You only need to create a submission tab on OpenReview by the abstract deadline. (**This is not a separate submission track for short papers**). As we receive a large volume of diverse submissions, to entire good review quality and coverage of reviewer areas, we keep an abstract deadline for us to have a chance to invite new reviewers if needed.
+
+- Can I attend the workshop even if I don't have any submissions?
+- Yes, you are welcome to attend the workshop. Registration is through NeurIPS 2024 registration system with workshop selected. 
+
+- Can I join the organizing team?
+- We always welcome new members to join our organizing team, feel free to reach out to us if you are interested. Several questions are recommended to be answered to help us make decision: what do you like about the workshop? what do you think we should improve? what can you contribute to the organizing team?
+
+
 
 # Organizers and Contact
 
