@@ -224,12 +224,6 @@ Organizers:
     aff: RPI
     interest: AI for drug design and development 
     image: assets/images/tianfan.png     
-    
-  - name: Wenhao Gao
-    url: https://wenhao-gao.github.io/
-    aff: MIT
-    interest: AI for Chemistry
-    image: assets/images/wenhao.png 
 
   - name: Kexin Huang 
     url: https://www.kexinhuang.com/
