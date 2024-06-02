@@ -188,12 +188,24 @@ Organizers:
     aff: Harvard
     interest: 
     image: assets/images/marinka.png 
+
+  - name: Tie-Yan Liu
+    url: https://www.microsoft.com/en-us/research/people/tyliu/
+    aff: Microsoft Research AI4Science
+    interest: 
+    image: assets/images/tieyan.png 
     
   - name: Carla P. Gomes
     url: https://www.cs.cornell.edu/gomes/
     aff: Cornell
     interest: 
     image: assets/images/carla.png 
+
+  - name: Yunan Yang
+    url: https://as.cornell.edu/people/yunan-yang
+    aff: Cornell 
+    interest: 
+    image: assets/images/yunan.png 
     
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
@@ -206,12 +218,6 @@ Organizers:
     aff: Microsoft Research 
     interest: AI for quantum chemistry, biology
     image: assets/images/lixue.png 
-
-  - name: Maria Brbić 
-    url: https://people.epfl.ch/maria.brbic 
-    aff: EPFL
-    interest: 
-    image: assets/images/maria.jpeg  
 
   - name: Chenru Duan 
     url: https://www.crduan.com/
@@ -257,7 +263,7 @@ Organizers:
 
 # About
 
-The main objectives include
+In the evolving landscape of scientific research, integrating artificial intelligence (AI) with scientists offers an opportunity to empower scientific research and eventually lead to Nobel prize worthy discoveries made by AI. A notable example is the development of large language models (LLMs), which build interactive interfaces between humans and AI through language. This has led to their adoption in science, including the use of AI agents to create autonomous workflows for scientific discovery. The main objectives include
 
 1. **Showcasing Successful AI-Scientist Collaborations**
    - Analyze and present successful partnerships between AI and scientists across various scientific fields.
