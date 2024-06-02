@@ -263,7 +263,7 @@ Organizers:
 
 # About
 
-In the evolving landscape of scientific research, integrating artificial intelligence (AI) with scientists offers an opportunity to empower scientific research and eventually lead to Nobel prize worthy discoveries made by AI. A notable example is the development of large language models (LLMs), which build interactive interfaces between humans and AI through language. This has led to their adoption in science, including the use of AI agents to create autonomous workflows for scientific discovery. The main objectives include
+In the evolving landscape of scientific research, integrating artificial intelligence (AI) with scientists offers an opportunity to empower scientific research and eventually lead to Nobel prize worthy discoveries made by AI. A notable example is the development of large language models (LLMs), which build interactive interfaces between humans and AI through language. This has led to their adoption in science, including the use of AI agents to create autonomous workflows for scientific discovery. **We welcome submissions from all AI for Science areas, but we concentrate some of our talks and panels on scaling in AI for Science**. The main objectives include
 
 1. **Showcasing Successful AI-Scientist Collaborations**
    - Analyze and present successful partnerships between AI and scientists across various scientific fields.
