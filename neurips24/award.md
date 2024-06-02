@@ -8,5 +8,5 @@ permalink: /neurips24/award
 
 
 
-# Best Poster Award 
+# Best Poster Awards 
 
