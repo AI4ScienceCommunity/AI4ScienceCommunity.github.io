@@ -9,43 +9,43 @@ speakers:
   - name: Grant Rotskoff
     url: https://chemistry.stanford.edu/people/grant-m-rotskoff
     aff: Stanford
-    interest: computational chemistry    
+    interest: AI, Biophyiscs 
     image: assets/images/grant.png
 
   - name: Rianne Van Der Berg
     url: https://www.microsoft.com/en-us/research/people/rvandenberg/
     aff: MSR Amsterdam
-    interest: computational chemistry   
+    interest: AI, Quantum Chemistry
     image: assets/images/rianne.png
 
   - name: Jesse Thaler
     url: https://physics.mit.edu/faculty/jesse-thaler/
     aff: MIT
-    interest: quantum field theory
+    interest: AI, High Energy Physics
     image: assets/images/jesse.png
 
   - name: Heather Kulick
     url: https://cheme.mit.edu/profile/heather-j-kulik/
     aff: MIT
-    interest: catalysis, transition-metal chemistry
+    interest: AI, Comp. Chemistry
     image: assets/images/heather.png
 
   - name: Courtney Davis
     url: https://www.birds.cornell.edu/home/staff/courtney-davis/
     aff: Cornell
-    interest: Quantitative Ecology
+    interest: AI, Ecology
     image: assets/images/courtney.png
 
   - name: James Evans
     url: https://macss.uchicago.edu/directory/James-Evans
     aff: UChicago
-    interest: Computational Social Science
+    interest: AI, Comp. Social Science
     image: assets/images/james.png
 
   - name: Jef Caers
     url: https://profiles.stanford.edu/jef-caers
     aff: Stanford
-    interest: mining engineering
+    interest: AI, Geophysics
     image: assets/images/jef.png
   
 
@@ -55,25 +55,25 @@ Panelist:
   - name: Anima Anandkumar
     url: http://tensorlab.cms.caltech.edu/users/anima/
     aff: Caltech
-    interest: AI for Science
+    interest: AI, Science
     image: assets/images/anima.png
 
   - name: Philippe Schwaller
     url: https://schwallergroup.github.io/
     aff: EPFL
-    interest: AI, sustainability
+    interest: AI, Chemical Discovery
     image: assets/images/philippe.png
 
   - name: Mario Krenn
     url: https://mariokrenn.wordpress.com/
     aff: Max Planck Institute
-    interest: AI, quantum physics
+    interest: AI, Quantum Physics
     image: assets/images/mario.png
 
   - name: Charlotte Bunne
     url: https://www.bunne.ch/
     aff: EPFL
-    interest: AI for medicine 
+    interest: AI, Genomics, Medicine
     image: assets/images/charlotte.png
 
 
