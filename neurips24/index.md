@@ -257,15 +257,20 @@ Organizers:
 
 # About
 
-Dramatic developments in AI have led to its increasing adoption in science as a means to model complex phenomena, generate hypotheses,
-design experiments, collect and interpret large datasets, and gain new insights that might not have been possible using traditional scientific methods. The main goal of this series of workshops is to discover synergy across a variety of scientific fields, encourage
-interdisciplinary discussions, and enhance the flow of knowledge between AI and various scientific communities. Throughout history,
-bridging seemly different fields has brought overarching benefits, with notable examples: entropy in thermodynamics and information
-theory, neuroscience and AI, and algorithms inspired by discoveries in science (e.g. genetic algorithm, simulated annealing and diffusion-
-based generative models). In the current era, successes of AI methods in different fields of science have alluded to the general effectiveness
-of common themes: large simulated datasets, enforcing problem symmetries, and foundation model architectures. Our mission is to bring
-more scientists to attend ICML to share different perspectives on the use of AI and to illuminate exciting research directions for AI
-researchers. 
+## NeurIPS 2024 Workshop Objectives
+
+### 1. Showcasing Successful AI-Scientist Collaborations
+We will analyze and present successful partnerships between AI and scientists across various scientific fields to understand collaboration levels and discuss the potential for autonomous AI systems in scientific research.
+
+### 2. Hosting Research Debates on AI and Human Roles
+We will facilitate debates on the roles of scientists and AI in the stages of scientific discovery. The discussions will focus on distinguishing contributions between AI and human scientists and identifying optimal collaboration conditions for maximal benefits.
+
+### 3. Addressing Ethical Issues and Regulation
+We will critically examine ethical concerns and propose regulatory solutions to mitigate risks such as generating malicious content, biased decision-making, and the misuse of AI in scientific discoveries. The aim is to ensure ethical, safe, and regulated use of AI in scientific settings.
+
+### 4. Exploring AI in Education
+We will explore opportunities for using AI to democratize access to advanced scientific knowledge and improve education. This includes discussing how AI can enhance scientific education, training, and make scientific knowledge more accessible to non-experts.
+
 
 
 
