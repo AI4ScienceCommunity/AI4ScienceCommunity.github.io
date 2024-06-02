@@ -17,6 +17,9 @@ Our blog “[AI for Science in 2023: A Community Primer](https://medium.com/@AI_
 ![2023](./assets/images/2023.png)
 
 
+## Nature Review Paper
+
+
 Excited to share our [Nature paper](https://www.nature.com/articles/s41586-023-06221-2) on the role of AI in scientific discovery.  
 
 
