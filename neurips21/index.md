@@ -9,7 +9,7 @@ speakers:
     topic: Machine Learning for Discovery
     aff: MILA
     interest: AI, Discovery
-    image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
+    image: assets/images/yoshua.png
     
   - name: Karianne Bergen
     url: https://www.kariannebergen.com/
