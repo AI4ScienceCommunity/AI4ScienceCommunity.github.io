@@ -53,11 +53,11 @@ speakers:
 
 Panelist:
 
-  - name: Lenka Zdeborova
-    url:  https://people.epfl.ch/lenka.zdeborova/?lang=en
-    aff: EPFL 
-    interest: AI, Statistical Physics
-    image: assets/images/lenka.jpeg
+  - name: Yisong Yue
+    url:  http://www.yisongyue.com/
+    aff: Caltech 
+    interest: AI, Autonomy, Knowledge, Discovery
+    image: assets/images/yisong.jpeg
 
   - name: Sam Rodriques
     url:  https://www.sam-rodriques.com/
@@ -77,10 +77,11 @@ Panelist:
     interest: AI, Earch Science
     image: assets/images/gege.jpeg 
 
-#   - name: David Spergel
-#     url: https://www.astro.princeton.edu/~dns/ 
-#     aff: Princeton, Flatiron Institute 
-#     image: assets/images/david_spergel.jpeg  
+  - name: Quanying Liu
+    url: https://scholar.google.ch/citations?user=UpP9hJ8AAAAJ&hl=en
+    aff: SUSTech
+    interest: AI, Neuroscience
+    image: assets/images/quanying.jpeg  
 
 Organizers:
 
