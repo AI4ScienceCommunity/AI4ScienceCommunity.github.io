@@ -193,8 +193,9 @@ Dramatic developments in AI have led to its increasing adoption in science as a 
 
 - **What is the limitation of scaling and what is the cure for it?**
 
+# Social night
 
-
+We are organizing a social event with [AI Alliance](https://thealliance.ai/), [Sign up here](https://ibm.biz/ai-alliance-ai4science2024) and join us in the party!
 
 
 ## Follow Us
