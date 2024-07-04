@@ -26,6 +26,13 @@ speakers:
     aff: Microsoft Research AI4Science
     interest: AI, Climate
     image: assets/images/megan.jpeg 
+  
+  - name: Max Jaderberg
+    url: https://scholar.google.co.uk/citations?user=JeZoMicAAAAJ
+    topic:
+    aff: Isomorphic Labs
+    interest: AI, Drug Discovery
+    image: assets/images/max_jaderberg.png
 
   - name: Yian Yin
     url: https://www.yianyin.net/
@@ -52,6 +59,12 @@ speakers:
 
 
 Panelist:
+
+  - name: Max Welling (Moderator)
+    url: https://staff.fnwi.uva.nl/m.welling
+    aff: UvA
+    interest: AI, Molecular Simulation
+    image: assets/images/max.png 
 
   - name: Yisong Yue
     url:  http://www.yisongyue.com/
