@@ -11,6 +11,11 @@ For centuries, the method of discovery—the fundamental practice of science tha
 
 ## News
 
+We collect papers published in AI for Science areas and categorize them by subjects, years, venues and keywords, etc. Please see the [link](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection)
+
+
+
+
 Our blog “[AI for Science in 2023: A Community Primer](https://medium.com/@AI_for_Science/ai-for-science-in-2023-a-community-primer-d2c2db37e9a7)” is now live! In this blog, we delve into how AI intersects with various scientific fields - from Chemistry, Biology, Physics, Computer/Math. Science, Neuroscience to Earth Science.
 
 
