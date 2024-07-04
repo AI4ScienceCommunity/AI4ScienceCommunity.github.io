@@ -32,7 +32,7 @@ speakers:
     topic:
     aff: Isomorphic Labs
     interest: AI, Drug Discovery
-    image: assets/images/max_jaderberg.png
+    image: assets/images/max_jaderberg.jpeg
 
   - name: Yian Yin
     url: https://www.yianyin.net/
