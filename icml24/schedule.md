@@ -8,14 +8,14 @@ permalink: /icml24/schedule
 
 # Schedule
 
-08:00 AM – 06:00 PM (Central Time), Dec 16, 2023
+09:00 AM – 05:00 PM (Vienna time), Friday 26 July, 2024
 
 | Event | | Time |
 | :--- | --- | :--- |
-| Openning Remarks | Organizing Team | 8:15-8:25am |
-| Invited Talk | Steve Brunton | 8:25-8:55am |
-| Invited Talk | Kyle Cranmer | 8:55-9:25am |
-| Invited Talk | Fabian Theis | 9:25-9:55am |
+| Openning Remarks | Organizing Team | 9:00-9:10am |
+| Invited Talk | Kevin Yang | 9:10-9:40am |
+| Invited Talk | Lenka Zdeborová | 9:40-10:10am |
+| Invited Talk | Megan Stanley | 10:10-10:40am |
 | Coffee Break | - | 9:55-10:05am |
 | Open Catalyst | Project Introduction | 10:05-10:25am |
 | Open Catalyst | Winner Talk | 10:25-10:35am |
