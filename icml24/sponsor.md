@@ -12,6 +12,8 @@ We are grateful for the generous funding from our list of sponsors:
 
 [AI Alliance](https://thealliance.ai/): The AI Alliance is focused on fostering an open community and enabling developers and researchers to accelerate responsible innovation in AI while ensuring scientific rigor, trust, safety, security, diversity and economic competitiveness. We bring together a critical mass of compute, data, tools, and talent to accelerate and advocate for open innovation in AI.
 
-![foundry](./assets/images/foundry.png)
+<!-- ![foundry](./assets/images/foundry.png) -->
+
+<img src="foundry.png" alt="drawing" width="200"/>
 
 ![aialliance](./assets/images/AI_Alliance_Wordmark_pos.png)
