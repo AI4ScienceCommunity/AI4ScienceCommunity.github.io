@@ -14,6 +14,6 @@ We are grateful for the generous funding from our list of sponsors:
 
 <!-- ![foundry](./assets/images/foundry.png) -->
 
-<img src="foundry.png" alt="drawing" width="200"/>
+<img src="./assets/images/foundry.png" width="200"/>
 
 ![aialliance](./assets/images/AI_Alliance_Wordmark_pos.png)
