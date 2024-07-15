@@ -25,8 +25,8 @@ permalink: /icml24/schedule
 | Invited Talk | Gábor Csányi |	15:00-15:30pm |
 | Coffee Break | - | 15:30-15:40pm |
 | Contributed Talk * 3 |  | 15:40-16:10pm |
-| Closing Remarks | Organizing Team | 16:10-16:15pm |
 | Poster Session B | | 16:15-17:00pm |
+| Closing Remarks | Organizing Team | 16:55-17:00pm |
 
 
 
