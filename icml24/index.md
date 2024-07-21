@@ -193,10 +193,13 @@ Dramatic developments in AI have led to its increasing adoption in science as a 
 
 - **What is the limitation of scaling and what is the cure for it?**
 
-# Social night
+# Social Night
 
 We are organizing a social event with [AI Alliance](https://thealliance.ai/) at ICML 2024, [Sign up here](https://ibm.biz/ai-alliance-ai4science2024) and join us in the party!
 
+# Paper Exploration
+
+Check out the accepted papers in our workshop [here](https://icml-ai4science.s3.amazonaws.com/icml-ai4science-paper-explorer.html) with clusterings over similar topics!
 
 ## Follow Us
 
