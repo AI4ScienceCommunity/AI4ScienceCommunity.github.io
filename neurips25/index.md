@@ -89,25 +89,13 @@ Organizers:
     url: https://zitniklab.hms.harvard.edu
     aff: Harvard
     interest: 
-    image: assets/images/marinka.png 
-
-  - name: Tie-Yan Liu
-    url: https://www.microsoft.com/en-us/research/people/tyliu/
-    aff: Microsoft Research AI4Science
-    interest: 
-    image: assets/images/tieyan.png 
+    image: assets/images/marinka.png  
     
   - name: Carla P. Gomes
     url: https://www.cs.cornell.edu/gomes/
     aff: Cornell
     interest: 
     image: assets/images/carla.png 
-
-  - name: Yunan Yang
-    url: https://as.cornell.edu/people/yunan-yang
-    aff: Cornell 
-    interest: 
-    image: assets/images/yunan.png 
     
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
@@ -120,36 +108,6 @@ Organizers:
     aff: Microsoft Research 
     interest: AI for Quantum Chemistry
     image: assets/images/lixue.png 
-
-  - name: Chenru Duan 
-    url: https://www.crduan.com/
-    aff: MSFT Quantum
-    interest: AI for Chemistry
-    image: assets/images/chenru.png 
-
-  - name: Tianfan Fu 
-    url: https://futianfan.github.io/
-    aff: RPI
-    interest: AI for Drug Discovery
-    image: assets/images/tianfan.png     
-
-  - name: Kexin Huang 
-    url: https://www.kexinhuang.com/
-    aff: Stanford
-    interest: AI for Biology
-    image: assets/images/kexin.png
-
-  - name: Ziming Liu
-    url: https://kindxiaoming.github.io/
-    aff: MIT
-    interest: AI for Physics 
-    image: assets/images/ziming.jpeg
-
-  - name: Di Luo
-    url: https://physics.mit.edu/faculty/di-luo/
-    aff: MIT 
-    interest: AI for Quantum Computing
-    image: assets/images/diluo.jpg     
 
   - name: Lijing Wang 
     url: https://lijingwang.github.io/
@@ -201,17 +159,14 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 {% include team.html id="Panelist" %}
 
 
-
-
-
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Sept 30, 2024
-- Paper Submission Deadline: Oct 2, 2024
-- Review Bidding Period: Oct 2-4, 2024
-- Reviewer Deadline: Oct 24, 2024
-- Acceptance Notification Date: Oct 27, 2024
-- Workshop Date: Dec 16, 2024
+- Abstract Submission Deadline: Aug 18, 2025
+- Paper Submission Deadline: Aug 25, 2025
+- Review Bidding Period: Aug 25-27, 2025
+- Review Deadline: Sep 18, 2025
+- Acceptance Notification Date: Sep 22, 2025
+- Workshop Date: Dec 6-7, 2025
 
 
 
@@ -225,7 +180,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 - You only need to create a submission tab on OpenReview by the abstract deadline. (**This is not a separate submission track for short papers**). As we receive a large volume of diverse submissions, to entire good review quality and coverage of reviewer areas, we keep an abstract deadline for us to have a chance to invite new reviewers if needed.
 
 - Can I attend the workshop even if I don't have any submissions?
-- Yes, you are welcome to attend the workshop. Registration is through NeurIPS 2024 registration system with workshop selected. 
+- Yes, you are welcome to attend the workshop. Registration is through NeurIPS 2025 registration system with workshop selected. 
 
 - Can I join the organizing team?
 - We always welcome new members to join our organizing team, feel free to reach out to us if you are interested. Several questions are recommended to be answered to help us make decision: what do you like about the workshop? what do you think we should improve? what can you contribute to the organizing team?
@@ -241,24 +196,6 @@ Organizers are in alphabetical order. For any question, please contact [ai4scien
 
 {% include team.html id="Organizers" %}
 
-
-<!-- <ul>
-{% for p in page.StudentOrganizers %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul>
-
-
-
-<ul>
-{% for p in page.ProfessorOrganizers %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul> -->
 
 
 
