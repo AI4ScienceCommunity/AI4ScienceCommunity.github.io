@@ -1,7 +1,7 @@
 ---
-layout: neurips24
+layout: neurips25
 title: "AI for Science: Collaborative Future between AI and Scientists"
-permalink: /neurips24/call
+permalink: /neurips25/call
 ---
 
 # Call for Papers
