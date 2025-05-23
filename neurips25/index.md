@@ -1,6 +1,6 @@
 ---
 layout: neurips25
-title: "AI for Science: The Reach and Limits of AI for Scientific Discovery"
+title: "The Reach and Limits of AI for Scientific Discovery"
 permalink: /neurips25
 
 
