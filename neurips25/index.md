@@ -105,13 +105,7 @@ Organizers:
 
   - name: Lijing Wang 
     url: https://lijingwang.github.io/
-    aff: Lawrence Berkeley National Laboratory 
-    interest: AI for Earth Science
-    image: assets/images/lijing2.png 
-  
-  - name: Lijing Wang 
-    url: https://lijingwang.github.io/
-    aff: Lawrence Berkeley National Laboratory 
+    aff: University of Connecticut 
     interest: AI for Earth Science
     image: assets/images/lijing2.png 
   
