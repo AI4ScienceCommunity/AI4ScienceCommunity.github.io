@@ -118,19 +118,19 @@ Organizers:
   - name: Ada Fang
     url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
     aff: Harvard
-    interest: AI + Medicine
+    interest: AI for Medicine
     image: ./assets/images/ada.jpg 
 
   - name: Sanjeev Raja
     url: https://sanjeevraja.com/
     aff: UC Berkeley
-    interest: AI + Medicine
+    interest: AI for Comp. Chemistry
     image: ./assets/images/sanjeev.png 
   
   - name: Michael Albergo
     url: http://malbergo.me/
     aff: Harvard
-    interest: AI + Physics
+    interest: AI for Physics
     image: ./assets/images/michael.jpg 
 
 
