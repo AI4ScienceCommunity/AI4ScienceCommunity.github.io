@@ -108,6 +108,30 @@ Organizers:
     aff: Lawrence Berkeley National Laboratory 
     interest: AI for Earth Science
     image: assets/images/lijing2.png 
+  
+  - name: Lijing Wang 
+    url: https://lijingwang.github.io/
+    aff: Lawrence Berkeley National Laboratory 
+    interest: AI for Earth Science
+    image: assets/images/lijing2.png 
+  
+  - name: Ada Fang
+    url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
+    aff: Harvard
+    interest: AI + Medicine
+    image: ./assets/images/ada.jpg 
+
+  - name: Sanjeev Raja
+    url: https://sanjeevraja.com/
+    aff: UC Berkeley
+    interest: AI + Medicine
+    image: ./assets/images/sanjeev.png 
+  
+  - name: Michael Albergo
+    url: http://malbergo.me/
+    aff: Harvard
+    interest: AI + Physics
+    image: ./assets/images/michael.jpg 
 
 
 
@@ -183,7 +207,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 
 # Organizers and Contact
 
-Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
 
 ## Organizers 
