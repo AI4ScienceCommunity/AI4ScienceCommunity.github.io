@@ -56,7 +56,7 @@ Panelist:
     url: https://www.shirleyho.space/
     aff: NYU, Flatiron Institute
     interest: AI, Astrophysics
-    image: assets/images/shirley_ho.jpg.png
+    image: assets/images/Ho_Shirley.jpeg
 
   - name: Pratyush Tiwary
     url: https://sites.google.com/site/pratyushtiwary/
