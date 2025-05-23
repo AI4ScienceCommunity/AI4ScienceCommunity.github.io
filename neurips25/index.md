@@ -172,7 +172,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 {% include team.html id="speakers" %}
 
-# Panel: Using AI to Accelerate Scientific Discovery
+# Panel: From Atoms to Answers: Can AI Simulate Science and Explain It?
 
 {% include team.html id="Panelist" %}
 
