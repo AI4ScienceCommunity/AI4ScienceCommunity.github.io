@@ -34,7 +34,7 @@ speakers:
     url: https://stephanhoyer.com/
     aff: Google Research
     interest: AI, Climate Science
-    image: assets/images/stephan.png
+    image: assets/images/stephan.jpg
 
   - name: Rose Yu
     url: https://roseyu.com/
@@ -46,29 +46,29 @@ speakers:
 
 Panelist:
 
-  - name: Anima Anandkumar
-    url: http://tensorlab.cms.caltech.edu/users/anima/
-    aff: Caltech
-    interest: AI, Science
-    image: assets/images/anima.png
+  - name: Nathan Frey
+    url: https://ncfrey.github.io/
+    aff: Prescient Design, Genentech
+    interest: AI, Drug Discovery
+    image: assets/images/nathan.jpeg
 
-  - name: Philippe Schwaller
-    url: https://schwallergroup.github.io/
-    aff: EPFL
-    interest: AI, Chemical Discovery
-    image: assets/images/philippe.png
+  - name: Shirley Ho
+    url: https://www.shirleyho.space/
+    aff: NYU, Flatiron Institute
+    interest: AI, Astrophysics
+    image: assets/images/shirley_ho.jpg.png
 
-  - name: Mario Krenn
-    url: https://mariokrenn.wordpress.com/
-    aff: Max Planck Institute
-    interest: AI, Quantum Physics
-    image: assets/images/mario.png
+  - name: Pratyush Tiwary
+    url: https://sites.google.com/site/pratyushtiwary/
+    aff: University of Maryland
+    interest: AI, Comp. Chemistry
+    image: assets/images/pratyush.jpg
 
-  - name: Charlotte Bunne
-    url: https://www.bunne.ch/
-    aff: EPFL
-    interest: AI, Genomics, Medicine
-    image: assets/images/charlotte.png
+  - name: Priya Donti
+    url: https://priyadonti.com/
+    aff: MIT
+    interest: AI, Climate Science
+    image: assets/images/priya.jpg
 
 
 Organizers:
