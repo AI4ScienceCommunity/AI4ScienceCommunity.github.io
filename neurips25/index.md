@@ -1,6 +1,6 @@
 ---
 layout: neurips25
-title: "AI for Science: Collaborative Future between AI and Scientists"
+title: "AI for Science: The Reach and Limits of AI for Scientific Discovery"
 permalink: /neurips25
 
 
@@ -35,12 +35,6 @@ speakers:
     aff: Google Research
     interest: AI, Climate Science
     image: assets/images/stephan.png
-
-  - name: James Evans
-    url: https://macss.uchicago.edu/directory/James-Evans
-    aff: UChicago
-    interest: AI, Comp. Social Science
-    image: assets/images/james.png
 
   - name: Rose Yu
     url: https://roseyu.com/
