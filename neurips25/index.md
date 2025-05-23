@@ -6,35 +6,35 @@ permalink: /neurips25
 
 speakers:
     
-  - name: Grant Rotskoff
-    url: https://chemistry.stanford.edu/people/grant-m-rotskoff
-    aff: Stanford
-    interest: AI, Biophyiscs 
-    image: assets/images/grant.png
-
-  - name: Rianne Van Der Berg
-    url: https://www.microsoft.com/en-us/research/people/rvandenberg/
-    aff: MSR Amsterdam
-    interest: AI, Quantum Chemistry
-    image: assets/images/rianne.png
-
-  - name: Jesse Thaler
-    url: https://physics.mit.edu/faculty/jesse-thaler/
+  - name: Yunha Hwang
+    url: https://www.yunhahwang.com/
     aff: MIT
-    interest: AI, High Energy Physics
-    image: assets/images/jesse.png
+    interest: AI, Biology 
+    image: assets/images/yunha.jpg
 
-  - name: Heather Kulick
+  - name: Gurtej Kanwar
+    url: https://scholar.google.com/citations?user=zK77P6MAAAAJ&hl=en
+    aff: University of Edinburgh
+    interest: AI, Physics
+    image: assets/images/gurtej.jpeg
+
+  - name: Michele Ceriotti
+    url: https://www.epfl.ch/labs/cosmo/
+    aff: EPFL
+    interest: AI, Materials Science
+    image: assets/images/michele.jpg
+
+  - name: Heather Kulik
     url: https://cheme.mit.edu/profile/heather-j-kulik/
     aff: MIT
-    interest: AI, Comp. Chemistry
+    interest: AI, Chemistry
     image: assets/images/heather.png
 
-  - name: Courtney Davis
-    url: https://www.birds.cornell.edu/home/staff/courtney-davis/
-    aff: Cornell
-    interest: AI, Ecology
-    image: assets/images/courtney.png
+  - name: Stephan Hoyer
+    url: https://stephanhoyer.com/
+    aff: Google Research
+    interest: AI, Climate Science
+    image: assets/images/stephan.png
 
   - name: James Evans
     url: https://macss.uchicago.edu/directory/James-Evans
@@ -42,11 +42,11 @@ speakers:
     interest: AI, Comp. Social Science
     image: assets/images/james.png
 
-  - name: Jef Caers
-    url: https://profiles.stanford.edu/jef-caers
-    aff: Stanford
-    interest: AI, Geophysics
-    image: assets/images/jef.png
+  - name: Rose Yu
+    url: https://roseyu.com/
+    aff: UCSD
+    interest: AI, Science
+    image: assets/images/rose.jpg
   
 
 
