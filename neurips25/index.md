@@ -147,7 +147,9 @@ High-profile voices in AI research and industry have forecasted that AGI will �
   - Spotlight scientific areas that lack “Protein-Data-Bank–level” resources and invite dataset-generation proposals to catalyze community efforts.
   - Explore lab-in-the-loop strategies—active learning, autonomous experimentation, synthetic data augmentation—to overcome limited or biased measurements and accelerate model improvement.
 
+## New AI for Science White Paper Competition
 
+The goal of the competition is to catalyze follow-on investment from government and philanthropy for at least one of the ideas, within 3-6 months  one year of the announcement of the winning ideas. We secure a total of $25K fund, where $15K will be used for prizes and $10K will be used for honoraria for volunteers (judging, marketing). We will post the details later.
 
 ## Follow Us
 
