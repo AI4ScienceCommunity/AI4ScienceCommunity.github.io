@@ -135,26 +135,17 @@ Organizers:
 
 # About
 
-In the evolving landscape of scientific research, integrating artificial intelligence (AI) with scientists offers an opportunity to empower scientific research and eventually lead to Nobel prize worthy discoveries made by AI. A notable example is the development of large language models (LLMs), which build interactive interfaces between humans and AI through language. This has led to their adoption in science, including the use of AI agents to create autonomous workflows for scientific discovery. **We welcome submissions from all AI for Science areas, but we concentrate some of our talks and panels on scaling in AI for Science**. The main objectives include
+High-profile voices in AI research and industry have forecasted that AGI will “cure all diseases” and that due to developments in AI, “scientific progress will likely be much faster than it is today”. While these statements underscore the rapid and exciting developments in the AI for Science community, beneath the headlines lie unresolved questions about *where current AI methods genuinely advance scientific discovery and where they still hit hard limits*. Through our proposed AI for Science workshop, we will bring together experimentalists, domain scientists, and ML researchers to discuss where this boundary lies. Our workshop will highlight common bottlenecks in developing AI methods across scientific application domains, and delve into solutions that can unlock progress across all of these domains. We welcome submissions from all AI for Science areas, but we concentrate our talks and panel on the reach and limits of AI for scientific discovery. The main objectives include:
 
-1. **Showcasing Successful AI-Scientist Collaborations**
-   - Analyze and present successful partnerships between AI and scientists across various scientific fields.
-   - Understand collaboration levels and discuss the potential for autonomous AI systems in scientific research.
-
-2. **Hosting Research Debates on AI and Human Roles**
-   - Facilitate debates on the roles of scientists and AI in the stages of scientific discovery.
-   - Focus on distinguishing contributions between AI and human scientists.
-   - Identify optimal collaboration conditions for maximal benefits.
-
-3. **Addressing Ethical Issues and Regulation**
-   - Critically examine ethical concerns related to AI in scientific research.
-   - Propose regulatory solutions to mitigate risks such as generating malicious content, biased decision-making, and the misuse of AI.
-   - Ensure ethical, safe, and regulated use of AI in scientific settings.
-
-4. **Exploring AI in Education**
-   - Explore opportunities for using AI to democratize access to advanced scientific knowledge.
-   - Discuss how AI can enhance scientific education and training.
-   - Make scientific knowledge more accessible to non-experts.
+* **Multi-domain scientific reasoning**
+  - Benchmark how well today’s LLMs and autonomous agents generate rigorously testable hypotheses and interpret results that span physics, chemistry, biology, climate science, and beyond.
+  - Identify failure modes in cross-disciplinary reasoning and outline directions--e.g., tool-augmented prompting, graph-structured memory, retrieval pipelines—-to close these gaps.
+* **High-fidelity generative & surrogate simulators**
+  - Survey state-of-the-art models—from all-atom biomolecular generators to neural weather simulators—and assess the spatial, temporal, and accuracy limits they still cannot cross.
+  - Convene domain and ML experts to design hybrid, physics-informed, or multiscale approaches that push simulation fidelity where classical or purely data-driven methods plateau.
+* **Experimental data scarcity & bias**
+  - Spotlight scientific areas that lack “Protein-Data-Bank–level” resources and invite dataset-generation proposals to catalyze community efforts.
+  - Explore lab-in-the-loop strategies—active learning, autonomous experimentation, synthetic data augmentation—to overcome limited or biased measurements and accelerate model improvement.
 
 
 
