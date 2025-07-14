@@ -153,7 +153,7 @@ We introduce a white paper competition, to encourage researchers to identify sha
 
 ## Follow Us
 
-Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions.
+Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions.
 
 # Invited Talks (In alphabetical order)
 
@@ -177,7 +177,11 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 ## Submissions 
 
-Please submit your paper in Openreview. Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
+Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
+
+## Call for Reviewers/Area Chairs
+
+We are calling for active researchers in the field to help with our review process. Here are the [reviewer](https://docs.google.com/forms/d/e/1FAIpQLSff7J0JVJ_oXEARMagWYB6a6wSNifjY7rl50eODT4xwm8vPRw/viewform) and [area chair](https://docs.google.com/forms/d/e/1FAIpQLSfYbGfWTtMFRe5fKdC2HrIOgnKXsfupLjV0z-Zzf1g0HNzkhA/viewform) sign up forms.
 
 ## Frequent Q&A
 
