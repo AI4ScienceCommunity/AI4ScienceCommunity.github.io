@@ -153,7 +153,7 @@ We introduce a white paper competition, to encourage researchers to identify sha
 
 ## Follow Us
 
-Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions.
+Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-2eyoftz47-eOPRlhXnhWG0sEnWKRDHRQ) for active discussions.
 
 # Invited Talks (In alphabetical order)
 
