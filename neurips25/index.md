@@ -177,7 +177,7 @@ Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www
 
 ## Submissions 
 
-Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
+Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. We use the [template from NeurIPS 2025](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Please change the footnote to Submitted to/Accepted at AI for Science workshop (NeurIPS 2025).
 
 ## Call for Reviewers/Area Chairs
 
