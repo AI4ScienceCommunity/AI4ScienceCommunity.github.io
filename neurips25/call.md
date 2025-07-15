@@ -53,17 +53,22 @@ To support the ever-growing AI for Science field, education is an indispensable 
 
 Specifically, the main goal/outcome of this track is to share the message and value of our AI for Science community:
 
-Education is important;
-The community values education contribution;
+Education is important; The community values education contribution;
 a platform for people passionate about education to connect.
 You may wonder AI for Science is so broad, whether your writing would be read by people and whether you should write about a specific field or a broader area or even the whole field. Our answer to this question is YES and we encourage ANY of them, that’s exactly why we open this track to collect expertise from the community and we may attempt to make some collective effort such as a roadmap of AI for Science to expand the impact and attract more people to contribute. We encourage researchers from diverse backgrounds to submit (in particular areas that did not attract enough attention).
 
+# Important Dates (Anywhere on Earth)
 
+- Abstract Submission Deadline: Aug 18, 2025
+- Paper Submission Deadline: Aug 25, 2025
+- Review Bidding Period: Aug 25-27, 2025
+- Review Deadline: Sep 18, 2025
+- Acceptance Notification Date: Sep 22, 2025
 
 # Submission Instructions
 
-Abstract submission is due on **Sep 30th AoE**, and paper submission is due on **Oct 2nd AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/AI4Science&referrer=%5BHomepage%5D(%2F)).
+All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/AI4Science&referrer=%5BHomepage%5D(%2F)).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published in science journals, or (3) work-in-progress.
-Please use [AI for Science template Latex files](https://bit.ly/3rOZaZl). Note that for attention track submissions, authors are required to set ‘\usepackage[attention]{neurips_2021}’ to indicate. 
+We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025).
 Accepted papers would be archived on the workshop website. Contributed talks and best paper awards would be given based on review scores and chairs discussion. 
