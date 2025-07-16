@@ -67,7 +67,7 @@ You may wonder AI for Science is so broad, whether your writing would be read by
 
 # Submission Instructions
 
-All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/AI4Science&referrer=%5BHomepage%5D(%2F)).
+All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published in science journals, or (3) work-in-progress.
 We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025).
