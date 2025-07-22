@@ -34,10 +34,9 @@ Acceptance Notification Date: Sep 22, 2025
 - Acceptance Notification Date: Sep 22, 2025
 
 # Submission Instructions
-
-Length: 2 pages of main text max — unlimited space for references and appendices.
-Please submit your paper on Openreview.
-Our workshop is nonarchival, the accepted papers will be posted on our website. Authors will have an option to keep their submissions private.
+- Length: 2 pages of main text max — unlimited space for references and appendices
+- Submission site: Openreview
+- Anonymity: authors will have an option to keep their submissions private
 
 **About Renaissance Philanthropy**
 [Renaissance Philanthropy](http://www.renaissancephilanthropy.org) is a nonprofit organization that fuels a 21st-century renaissance by increasing the ambition of philanthropists, scientists and innovators. In the first year, Renaissance Philanthropy catalyzed more than $214M in philanthropic funding for science, technology, and innovation, launching 10+ initiatives across AI, education, climate, health, and scientific infrastructure. The organization designs time-bound, thesis-driven funds led by field experts and inspires talent to take action through  playbooks and communities. From accelerating mathematical discovery to expanding talent mobility, Renaissance Philanthropy is building the connective tissue between exceptional ideas and resources to create breakthroughs that transform entire fields. 
