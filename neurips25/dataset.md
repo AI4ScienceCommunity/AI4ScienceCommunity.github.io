@@ -21,13 +21,6 @@ Submissions will be judged on (i) clarity and scientific importance of the task,
 - Data-creation pathway – Where will the data come from? (e.g., public archives, new experiments, cross-company sharing, simulation pipelines, privacy-preserving consortium).
 - Cost & scalability – Rough budget or strategy for cost-effective generation at scale, including new platform technologies that lower the cost of generating the data.
 
-Submission
-Paper Submission Deadline: Aug 22, 2025
-Acceptance Notification Date: Sep 22, 2025
-
-
-
-
 # Important Dates (Anywhere on Earth)
 
 - Submission Deadline: Aug 22, 2025
