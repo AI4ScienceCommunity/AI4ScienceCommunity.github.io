@@ -28,7 +28,7 @@ Submissions will be judged on (i) clarity and scientific importance of the task,
 
 # Submission Instructions
 - Length: 2 pages of main text max — unlimited space for references and appendices
-- Submission site: Openreview
+- Submission site: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science)
 - Anonymity: authors will have an option to keep their submissions private
 
 ## About Renaissance Philanthropy
