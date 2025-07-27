@@ -149,7 +149,7 @@ High-profile voices in AI research and industry have forecasted that AGI will â€
 
 ## New AI for Science White Paper Competition
 
-We introduce a white paper competition, to encourage researchers to identify shared resources that have the potential to accelerate the pace of scientific research.  These shared resources include large, diverse, high-quality datasets, benchmarks for evaluating the performance of AI algorithms, the integration of AI and simulation software, software that enables inverse design, and self-driving labs. The goal of the competition is to catalyze follow-on investment from government and philanthropy for at least one of the ideas, within 3-6 months one year of the announcement of the winning ideas. We secure a total of $25K fund, where part of them will be used for monetary prize. We will post the details later.
+Check details on [this page](/neurips25/dataset.html).
 
 ## Follow Us
 
