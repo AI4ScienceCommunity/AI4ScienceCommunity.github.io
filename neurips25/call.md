@@ -8,7 +8,7 @@ permalink: /neurips25/call
 Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
 Our workshop calls for high-quality and cutting-edge paper submissions in the following two tracks:
 
-## Original Research/Position/Education Track
+## Original Research/Position/Attention/Education Track
 
 This track calls for 4-8 page paper (with unlimited references and appendices) of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. Appendix is optional, but reviewers are not required to read. 
 
