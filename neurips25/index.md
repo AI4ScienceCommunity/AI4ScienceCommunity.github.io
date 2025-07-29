@@ -147,7 +147,7 @@ High-profile voices in AI research and industry have forecasted that AGI will �
   - Spotlight scientific areas that lack “Protein-Data-Bank–level” resources and invite dataset-generation proposals to catalyze community efforts.
   - Explore lab-in-the-loop strategies—active learning, autonomous experimentation, synthetic data augmentation—to overcome limited or biased measurements and accelerate model improvement.
 
-## New AI for Science White Paper Competition
+## New Dataset Proposal Competition
 
 Check details on [this page](/neurips25/dataset.html).
 
