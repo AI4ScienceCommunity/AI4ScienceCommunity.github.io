@@ -149,7 +149,7 @@ High-profile voices in AI research and industry have forecasted that AGI will â€
 
 ## New Dataset Proposal Competition
 
-Check details on [this page](/neurips25/dataset.html).
+We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025). Check details on [this page](/neurips25/dataset.html).
 
 ## Follow Us
 
