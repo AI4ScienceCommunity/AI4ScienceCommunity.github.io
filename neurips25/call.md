@@ -39,5 +39,5 @@ Example topics include (but not limited to):
 All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published in science journals, or (3) work-in-progress.
-We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025).
+We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025).
 Accepted papers would be archived on the workshop website. Contributed talks and best paper awards would be given based on review scores and chairs discussion. 
