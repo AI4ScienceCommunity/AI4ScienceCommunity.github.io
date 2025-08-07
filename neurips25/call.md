@@ -25,6 +25,9 @@ Example topics include (but not limited to):
 - Building tools/infrastructures/platforms for scientific discovery
 - Study of science of science/scientific methods
 
+## Dataset Proposal Competition
+
+For the details of the dataset proposal competition, [check this page](https://ai4sciencecommunity.github.io/neurips25/dataset.html).
 
 # Important Dates (Anywhere on Earth)
 
