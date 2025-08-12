@@ -166,7 +166,7 @@ Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www
 
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Aug 18, 2025
+- Abstract Submission Deadline: Aug 21, 2025
 - Paper Submission Deadline: Aug 25, 2025
 - Review Bidding Period: Aug 25-27, 2025
 - Review Deadline: Sep 18, 2025
