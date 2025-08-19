@@ -24,6 +24,7 @@ Submissions will be judged on (i) clarity and scientific importance of the task,
 # Important Dates (Anywhere on Earth)
 
 - Submission Deadline: Aug 22, 2025
+- Submission Revision Deadline: Aug 25, 2025 (You can still update the submission before this deadline)
 - Acceptance Notification Date: Sep 22, 2025
 
 # Submission Instructions
