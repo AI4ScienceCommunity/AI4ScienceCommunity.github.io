@@ -53,7 +53,7 @@ To support the ever-growing AI for Science field, education is an indispensable 
 
 ## Dataset Proposal Competition
 
-For the details of the dataset proposal competition, [check this page](https://ai4sciencecommunity.github.io/neurips25/dataset.html).
+For the details and instructions of the dataset proposal competition, [check this page](https://ai4sciencecommunity.github.io/neurips25/dataset.html). (The instructions below only apply to the original research/attention/highlight/education tracks).
 
 # Important Dates (Anywhere on Earth)
 

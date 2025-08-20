@@ -31,6 +31,7 @@ Submissions will be judged on (i) clarity and scientific importance of the task,
 - Length: 2 pages of main text max — unlimited space for references and appendices
 - Submission site: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science)
 - Anonymity: All submissions must be anonymized and may not contain any identifying information that may violate the double-blind reviewing policy. This policy applies to any supplementary or linked material as well. If you need to cite one of your own papers, you should do so with adequate anonymization to preserve double-blind reviewing.
+- Format: We use the NeurIPS 2025 LaTeX template (Note that you do not need to attach the NeurIPS checklist).
 
 ## Frequently Asked Questions
 - **Who can submit?**
@@ -39,6 +40,9 @@ Anyone—researchers, practitioners, students, or independent contributors—fro
 You may apply as a sole author or as part of a team. There is no upper limit on the number of co-authors.
 - **Will my submission be made public?**
 Yes. Accepted dataset proposals will be published on OpenReview. If you would prefer your accepted proposal to remain private, simply email ai4sciencecommunity@gmail.com after you receive your acceptance notification, and we will accommodate your request
+- **Using the NeurIPS 2025 LaTeX template**:
+For submission to ensure a double-blind review please \usepackage[dblblindworkshop]{neurips_2025} . After acceptance we will ask for a camera-ready version with \usepackage[dblblindworkshop, final]{neurips_2025} .
+Please change the footnote on line 379-380 of neurips_2025.sty to “Submitted to AI for Science workshop (NeurIPS \@neuripsyear).”
 
 ## About Renaissance Philanthropy
 [Renaissance Philanthropy](http://www.renaissancephilanthropy.org) is a nonprofit organization that fuels a 21st-century renaissance by increasing the ambition of philanthropists, scientists and innovators. In the first year, Renaissance Philanthropy catalyzed more than $214M in philanthropic funding for science, technology, and innovation, launching 10+ initiatives across AI, education, climate, health, and scientific infrastructure. The organization designs time-bound, thesis-driven funds led by field experts and inspires talent to take action through  playbooks and communities. From accelerating mathematical discovery to expanding talent mobility, Renaissance Philanthropy is building the connective tissue between exceptional ideas and resources to create breakthroughs that transform entire fields. 
