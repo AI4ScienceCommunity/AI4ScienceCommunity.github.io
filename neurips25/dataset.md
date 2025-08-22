@@ -22,9 +22,8 @@ Submissions will be judged on (i) clarity and scientific importance of the task,
 - Cost & scalability – Rough budget or strategy for cost-effective generation at scale, including new platform technologies that lower the cost of generating the data.
 
 # Important Dates (Anywhere on Earth)
-
-- Submission Deadline: Aug 22, 2025
-- Submission Revision Deadline: Aug 25, 2025 (You can still update the submission before this deadline)
+- Submission Deadline: Aug 22, 2025 (extended to Aug 24)
+- Submission Revision Deadline: Aug 25, 2025 (extended to Aug 27, you can still update the submission before this deadline)
 - Acceptance Notification Date: Sep 22, 2025
 
 # Submission Instructions

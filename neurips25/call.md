@@ -57,10 +57,10 @@ For the details and instructions of the dataset proposal competition, [check thi
 
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Aug 22, 2025
-- Paper Submission Deadline: Aug 25, 2025
-- Review Bidding Period: Aug 25-27, 2025
-- Review Deadline: Sep 18, 2025
+- Abstract Submission Deadline: Aug 22, 2025 (extended to Aug 24)
+- Paper Submission Deadline: Aug 25, 2025 (extended to Aug 27)
+- Review Bidding Period: Aug 25-27, 2025 (extended to Aug 27-28)
+- Review Deadline: Sep 19, 2025
 - Acceptance Notification Date: Sep 22, 2025
 
 # Submission Instructions
