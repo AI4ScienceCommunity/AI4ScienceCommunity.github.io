@@ -131,7 +131,7 @@ Organizers:
     url: https://x.com/mia_rosenfeld
     aff: Iambic Therapeutics
     interest: AI for Drug Discovery
-    image: ./assets/images/mia.jpg
+    image: ./assets/images/mia_bio.jpg
 
 
 
