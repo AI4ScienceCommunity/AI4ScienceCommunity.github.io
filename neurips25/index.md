@@ -126,6 +126,12 @@ Organizers:
     aff: Harvard
     interest: AI for Physics
     image: ./assets/images/michael.jpg 
+  
+  - name: Mia Rosenfeld
+    url: https://x.com/mia_rosenfeld
+    aff: Iambic Therapeutics
+    interest: AI for Drug Discovery
+    image: ./assets/images/mia.jpg
 
 
 
