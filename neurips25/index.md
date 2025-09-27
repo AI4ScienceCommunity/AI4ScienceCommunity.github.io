@@ -159,7 +159,7 @@ We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/Ne
 
 ## Follow Us
 
-Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-2eyoftz47-eOPRlhXnhWG0sEnWKRDHRQ) for active discussions.
+Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-3eferk1xy-vIDrgaBCdpXfCKmQs9WH0g) for active discussions.
 
 # Invited Talks (In alphabetical order)
 
