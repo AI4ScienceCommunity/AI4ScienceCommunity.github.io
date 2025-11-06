@@ -1,7 +1,7 @@
 ---
-layout: neurips24
-title: "AI for Science: Collaborative Future between AI and Scientists"
-permalink: /neurips24/schedule
+layout: neurips25
+title: "The Reach and Limits of AI for Scientific Discovery"
+permalink: /neurips25/schedule
 ---
 
 
