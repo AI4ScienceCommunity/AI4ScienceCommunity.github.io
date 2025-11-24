@@ -12,11 +12,11 @@ speakers:
     interest: AI, Biology 
     image: assets/images/yunha.jpg
 
-  - name: Gurtej Kanwar
-    url: https://scholar.google.com/citations?user=zK77P6MAAAAJ&hl=en
-    aff: University of Edinburgh
+  - name: Daniel Hackett
+    url: https://scholar.google.com/citations?user=9ZDR9jYAAAAJ&hl=en
+    aff: Fermilab
     interest: AI, Physics
-    image: assets/images/gurtej.jpeg
+    image: assets/images/dan.jpeg
 
   - name: Michele Ceriotti
     url: https://www.epfl.ch/labs/cosmo/
