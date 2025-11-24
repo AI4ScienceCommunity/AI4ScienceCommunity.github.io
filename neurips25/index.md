@@ -46,6 +46,12 @@ speakers:
 
 Panelist:
 
+  - name: Max Welling (Moderator)
+    url: https://staff.fnwi.uva.nl/m.welling
+    aff: CuspAI
+    interest: 
+    image: assets/images/max.png 
+
   - name: Nathan Frey
     url: https://ncfrey.github.io/
     aff: Prescient Design, Genentech
@@ -75,7 +81,7 @@ Organizers:
 
   - name: Max Welling
     url: https://staff.fnwi.uva.nl/m.welling
-    aff: UvA, Caltech
+    aff: CuspAI
     interest: 
     image: assets/images/max.png 
 
