@@ -167,6 +167,10 @@ We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/Ne
 
 Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-3eferk1xy-vIDrgaBCdpXfCKmQs9WH0g) for active discussions.
 
+## AI for Science Party
+
+We are hosting a party for the community, check the registration link [here](https://partiful.com/e/IDy23TR5e14Dz4L3hatk?).
+
 # Invited Talks (In alphabetical order)
 
 {% include team.html id="speakers" %}
