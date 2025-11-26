@@ -54,7 +54,7 @@ Panelist:
 
   - name: Nathan Frey
     url: https://ncfrey.github.io/
-    aff: Prescient Design, Genentech
+    aff: Coefficient Bio
     interest: AI, Drug Discovery
     image: assets/images/nathan.jpeg
 
