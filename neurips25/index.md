@@ -187,7 +187,7 @@ We are hosting a party for the community, check the registration link [here](htt
 - Review Bidding Period: Aug 25-27, 2025 (extended to Aug 27-28)
 - Review Deadline: Sep 19, 2025
 - Acceptance Notification Date: Sep 22, 2025
-- Workshop Date: Dec 6-7, 2025
+- Workshop Date: Dec 7, 2025
 
 
 
