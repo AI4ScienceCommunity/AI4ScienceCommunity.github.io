@@ -16,7 +16,7 @@ speakers:
     url: https://scholar.google.com/citations?user=9ZDR9jYAAAAJ&hl=en
     aff: Fermilab
     interest: AI, Physics
-    image: assets/images/dan.jpeg
+    image: assets/images/daniel.jng
 
   - name: Michele Ceriotti
     url: https://www.epfl.ch/labs/cosmo/
