@@ -59,7 +59,7 @@ Panelist:
   - name: Sara-Jane Dunn
     url: https://scholar.google.com/citations?user=ttq50FMAAAAJ&hl=en
     aff: DeepMind 
-    image: assets/images/sara.png 
+    image: assets/images/sara-jane.jpeg 
 
   - name: Arvind Rajpal
     url: https://www.gene.com/scientists/our-scientists/arvind-rajpal
