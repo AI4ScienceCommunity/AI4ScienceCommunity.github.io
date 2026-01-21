@@ -148,21 +148,20 @@ Organizers:
 
 # About
 
-High-profile voices in AI research and industry have forecasted that AGI will “cure all diseases” and that due to developments in AI, “scientific progress will likely be much faster than it is today”. While these statements underscore the rapid and exciting developments in the AI for Science community, beneath the headlines lie unresolved questions about *where current AI methods genuinely advance scientific discovery and where they still hit hard limits*. Through our proposed AI for Science workshop, we will bring together experimentalists, domain scientists, and ML researchers to discuss where this boundary lies. Our workshop will highlight common bottlenecks in developing AI methods across scientific application domains, and delve into solutions that can unlock progress across all of these domains. We welcome submissions from all AI for Science areas, but we concentrate our talks and panel on the reach and limits of AI for scientific discovery. The main objectives include:
+Foundation models and autonomous agents are beginning to draft papers, direct experiments, and negotiate with collaborators. Yet the community is still debating whether these systems are merely powerful tools, trusted co-authors, or independent founders of new scientific disciplines. The ICML 2026 workshop **AI Scientists – Tools, Co-authors, or Founders?** convenes researchers from machine learning, natural sciences, and human-computer interaction to examine how close we are to autonomous scientific teams and what checks must be in place before we rely on them. We emphasize rigorous case studies, best practices from lab deployments, and frameworks for attributing scientific credit in hybrid human–AI teams.
 
-* **Multi-domain scientific reasoning**
-  - Benchmark how well today’s LLMs and autonomous agents generate rigorously testable hypotheses and interpret results that span physics, chemistry, biology, climate science, and beyond.
-  - Identify failure modes in cross-disciplinary reasoning and outline directions--e.g., tool-augmented prompting, graph-structured memory, retrieval pipelines—-to close these gaps.
-* **High-fidelity generative & surrogate simulators**
-  - Survey state-of-the-art models—from all-atom biomolecular generators to neural weather simulators—and assess the spatial, temporal, and accuracy limits they still cannot cross.
-  - Convene domain and ML experts to design hybrid, physics-informed, or multiscale approaches that push simulation fidelity where classical or purely data-driven methods plateau.
-* **Experimental data scarcity & bias**
-  - Spotlight scientific areas that lack “Protein-Data-Bank–level” resources and invite dataset-generation proposals to catalyze community efforts.
-  - Explore lab-in-the-loop strategies—active learning, autonomous experimentation, synthetic data augmentation—to overcome limited or biased measurements and accelerate model improvement.
+Our discussions and submissions center on three themes:
+
+* **Autonomous discovery loops**
+  - Build and evaluate agents that plan experiments, control instruments, and decide when to consult human oversight or simulations.
+* **Human–AI co-authorship**
+  - Explore workflows for documenting AI contributions, sharing authorship, and maintaining reproducibility as assistants move from ideation to execution.
+* **Governance and verification**
+  - Propose benchmarks, datasets, and socio-technical safeguards that keep scientific exploration transparent, auditable, and equitable.
 
 ## New Dataset Proposal Competition
 
-We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025). Check details on [this page](/neurips25/dataset.html).
+Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. We will follow the ICML 2026 LaTeX template (link coming once ICML releases it). Update the footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).” Learn more on [the dataset page](/icml26/dataset.html).
 
 ## Follow Us
 
@@ -183,33 +182,33 @@ We are hosting a party for the community, check the registration link [here](htt
 
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Aug 22, 2025 (extended to Aug 24)
-- Paper Submission Deadline: Aug 25, 2025 (extended to Aug 27)
-- Review Bidding Period: Aug 25-27, 2025 (extended to Aug 27-28)
-- Review Deadline: Sep 19, 2025
-- Acceptance Notification Date: Sep 22, 2025
-- Workshop Date: Dec 7, 2025
+- Abstract Submission Deadline: Mar 13, 2026
+- Paper Submission Deadline: Mar 16, 2026
+- Review Bidding Period: Mar 20–22, 2026
+- Review Deadline: Apr 17, 2026
+- Acceptance Notification Date: Apr 24, 2026
+- Workshop Date: July 2026 (exact ICML day TBA)
 
 
 
 ## Submissions 
 
-Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. We use [the template from NeurIPS 2025](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025). The submissions are expected to be 4-8 pages with unlimited references and appendices. For more detials, please check [the Call for Papers page](/neurips25/call.html).
+Please submit your paper on [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science). Our workshop is **nonarchival**; accepted papers will be showcased on this site and at ICML. Final formatting will follow the ICML 2026 template (we will share the official files and checklist guidance once ICML releases them). Submissions should be 4–8 pages, excluding unlimited references and appendices. More information appears on the [Call for Papers page](/icml26/call.html).
 
 ## Call for Reviewers/Area Chairs
 
-We are calling for active researchers in the field to help with our review process. Here are the [reviewer](https://docs.google.com/forms/d/e/1FAIpQLSff7J0JVJ_oXEARMagWYB6a6wSNifjY7rl50eODT4xwm8vPRw/viewform) and [area chair](https://docs.google.com/forms/d/e/1FAIpQLSfYbGfWTtMFRe5fKdC2HrIOgnKXsfupLjV0z-Zzf1g0HNzkhA/viewform) sign up forms.
+If you actively publish in AI for Science or deploy autonomous labs, we would love your help with reviews and meta-reviews. Please email ai4sciencecommunity@gmail.com with your areas of expertise (and whether you can serve as an area chair) so we can match submissions appropriately. Formal sign-up forms will be posted here once ICML finalizes the reviewing timeline.
 
 ## Frequent Q&A
 
-- What is the abstract deadline and why do we have it?
-- You only need to create a submission tab on OpenReview by the abstract deadline. (**This is not a separate submission track for short papers**). As we receive a large volume of diverse submissions, to entire good review quality and coverage of reviewer areas, we keep an abstract deadline for us to have a chance to invite new reviewers if needed.
+- **Do I need a full paper for the abstract deadline?**  
+  No. Register your title/abstract on OpenReview by Mar 13 so we can secure reviewers. The full PDF is due at the paper deadline.
 
-- Can I attend the workshop even if I don't have any submissions?
-- Yes, you are welcome to attend the workshop. Registration is through NeurIPS 2025 registration system with workshop selected. 
+- **Can I attend if my work is still in progress?**  
+  Absolutely. Registration happens through the ICML 2026 workshop portal; anyone with an ICML pass may join.
 
-- Can I join the organizing team?
-- We always welcome new members to join our organizing team, feel free to reach out to us if you are interested. Several questions are recommended to be answered to help us make decision: what do you like about the workshop? what do you think we should improve? what can you contribute to the organizing team?
+- **How can I help organize or suggest new programming?**  
+  Email us at ai4sciencecommunity@gmail.com with a short note about the session or activity you would like to lead. We periodically bring new organizers onboard as needs arise.
 
 
 
@@ -221,8 +220,6 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 ## Organizers 
 
 {% include team.html id="Organizers" %}
-
-
 
 
 

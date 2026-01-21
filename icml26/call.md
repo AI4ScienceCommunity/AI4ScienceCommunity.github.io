@@ -5,68 +5,60 @@ permalink: /icml26/call
 ---
 
 # Call for Papers
-Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
-Our workshop calls for high-quality and cutting-edge paper submissions in the following two tracks:
+Our workshop is **nonarchival** so authors retain the right to publish the work elsewhere. We seek cutting-edge stories of autonomous discovery, co-creative workflows, and responsible deployment across four submission tracks.
 
 ## (A) Original Research Track
 
-This track calls for 4-8 page paper (with unlimited references and appendices) of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. Appendix is optional, but reviewers are not required to read. 
+Submit 4–8 page papers (unlimited references/appendices) describing new algorithms, systems, or scientific findings enabled by AI. We welcome work spanning physics, chemistry, biology, climate, engineering, and the social or management sciences. Appendices may include implementation details, but reviewers are not required to read them.
 
 Example topics include (but not limited to):
-- Learning from acoustics
-- Learning physical dynamics from data
-- Speeding up physical simulators, samplers and solvers
-- Molecular modeling and de novo generation
-- Modeling biological systems, genomics, protein, RNA 
-- Accelerating cosmological simulations
-- Improving crop yields through precision agriculture
-- Optimizing aerospace product design and development
-- Benchmarking related or new tasks (i.e., datasets, sota models, etc.)
-- Building tools/infrastructures/platforms for scientific discovery
-- Study of science of science/scientific methods
+- Closed-loop design-build-test workflows and autonomous labs
+- Multiscale modeling of molecules, materials, or climate systems
+- Generative models for catalysts, battery materials, or biological sequences
+- Scientific reasoning agents that incorporate symbolic, causal, or geometric priors
+- New benchmarks or datasets for evaluating AI scientists
 
 ## (B) Attention Track
 
-This track solicits 4-8 page paper (with unlimited references and appendices) that highlights a perspective of a subject in the field of AI for Science. We especially welcome contributions that discuss the gaps between AI and Science.
+This 4–8 page track spotlights position papers that articulate the opportunities and risks of AI-driven science. Bring forward missing perspectives, community recommendations, and informed critiques.
 
 Example topics include (but not limited to):
-- Unrealistic ML methodological assumptions
-- Overlooked scientific questions
-- Opportunities on the intersections of multiple disciplines
-- Future research directions/hypothesis of an application area
-- Responsible use and development of AI for science
+- Policies for credit assignment and authorship with AI collaborators
+- Practical guidance for responsible deployment in physical labs
+- Opportunities at the intersection of disciplines that rarely meet
+- Future research agendas for sociotechnical governance
 
 
 ## (C) Highlight Track
 
-This track solicits 4-8 page paper (with unlimited references and appendices) that is comprehensive survey/benchmark on a specific topic under AI4Science, e.g., ML for Molecules, comparing with the original track, this track is more focused on the are more interested in summarising the published works. 
+This 4–8 page track features surveys, benchmarks, or synthesis work that consolidates progress on a specific AI4Science topic (agents for experimental planning, lab robotics, etc.). Compared with the original track, highlight papers emphasize lessons from existing literature rather than brand-new experiments.
 
 Example topics include (but not limited to):
-- ML for molecule design
-- ML for symbolic regression
-- ML for combinatorial optimization
-- ML for simulation
+- Benchmark suites for cooperative human–AI scientific teams
+- Lessons from AI-assisted drug discovery campaigns
+- Comparative studies of autonomous experimentation platforms
+- Evaluations of agent-based scientific reasoning
 
 ## (D) Education Track 
 
-To support the ever-growing AI for Science field, education is an indispensable part of our community. We aim to solicit systematic and multi-level learning resources (including but not limited to courses, tutorials, notebooks, review papers, etc.) to bridge the educational gap in AI for Science. The content of the submission is flexible but a paper or report needs to be written using the LaTeX template. If the proposed content type is notebook with code example, we would still expect a short report to write about the overview and motivation about the topic and the learning resources for people who have further interest in the topic. As other tracks, we will highlight the best submissions from this track and invite the authors for a contributed talk at the workshop.
+The community needs high-quality, open educational resources to keep pace with rapid advances. We invite tutorials, curricula, notebooks, or review papers (again 4–8 pages plus unlimited appendices) that lower the barrier for students and practitioners who want to build AI scientists. If you submit multimedia content such as code labs, include a short written overview that explains the intended audience and learning outcomes.
 
 ## Dataset Proposal Competition
 
-For the details and instructions of the dataset proposal competition, [check this page](https://ai4sciencecommunity.github.io/neurips25/dataset.html). (The instructions below only apply to the original research/attention/highlight/education tracks).
+For the dataset proposal competition details, please visit [this page](https://ai4sciencecommunity.github.io/icml26/dataset.html). (The instructions below only apply to the research, attention, highlight, and education tracks.)
 
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Aug 22, 2025 (extended to Aug 24)
-- Paper Submission Deadline: Aug 25, 2025 (extended to Aug 27)
-- Review Bidding Period: Aug 25-27, 2025 (extended to Aug 27-28)
-- Review Deadline: Sep 19, 2025
-- Acceptance Notification Date: Sep 22, 2025
+- Abstract Submission Deadline: Mar 13, 2026
+- Paper Submission Deadline: Mar 16, 2026
+- Review Bidding Period: Mar 20–22, 2026
+- Review Deadline: Apr 17, 2026
+- Acceptance Notification Date: Apr 24, 2026
 
 # Submission Instructions
 
-All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science).
+All submissions are managed through [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science).
 
-The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published in science journals, or (3) work-in-progress.
-We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025).
-Accepted papers would be archived on the workshop website. Contributed talks and best paper awards would be given based on review scores and chairs discussion. 
+The review process is double blind, so please remove identifying information from the main paper and supplementary files. Submissions may include work in progress, previously unpublished results, or recently published science-journal articles that you would like to bring to the ICML audience.
+
+We will use the official ICML 2026 style files (link forthcoming from the conference). Please change the template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).” Accepted papers will be posted on this website, and a subset will be invited for spotlight or contributed talks based on reviewer and organizer recommendations. 
