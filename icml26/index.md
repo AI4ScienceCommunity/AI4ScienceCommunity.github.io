@@ -7,75 +7,75 @@ permalink: /icml26
 
 speakers:
     
-  - name: Yunha Hwang
+  - name: Peter Clark 
     url: https://www.yunhahwang.com/
-    aff: MIT
-    interest: AI, Biology 
-    image: assets/images/yunha.jpg
+    aff: Allen Institute for AI (AI2)
+    interest: AI, Reasoning
+    image: assets/images/peter.jpg
 
-  - name: Daniel Hackett
-    url: https://scholar.google.com/citations?user=9ZDR9jYAAAAJ&hl=en
-    aff: Fermilab
+  - name: Ziming Liu
+    url: https://kindxiaoming.github.io/
+    aff: Stanford University
     interest: AI, Physics
-    image: assets/images/daniel.png
+    image: assets/images/ziming.jpg
 
-  - name: Michele Ceriotti
+  - name: xxx
     url: https://www.epfl.ch/labs/cosmo/
-    aff: EPFL
-    interest: AI, Materials Science
-    image: assets/images/michele.jpg
+    aff: xxx
+    interest: AI, xxx
+    image: assets/images/xxx.jpg
 
-  - name: Heather Kulik
+  - name: xxx
     url: https://cheme.mit.edu/profile/heather-j-kulik/
-    aff: MIT
-    interest: AI, Chemistry
-    image: assets/images/heather.png
+    aff: xxx
+    interest: AI, xxx
+    image: assets/images/xxx.png
 
-  - name: Stephan Hoyer
+  - name: xxx
     url: https://stephanhoyer.com/
-    aff: Google Research
-    interest: AI, Climate Science
-    image: assets/images/stephan.jpg
+    aff: xxx
+    interest: AI, xxx
+    image: assets/images/xxx.jpg
 
-  - name: Rose Yu
+  - name: xxx
     url: https://roseyu.com/
-    aff: UCSD
-    interest: AI, Science
-    image: assets/images/rose.jpg
+    aff: xxx
+    interest: AI, xxx
+    image: assets/images/xxx.jpg
   
 
 
 Panelist:
 
-  - name: Max Welling (Moderator)
+  - name: xxx (Moderator)
     url: https://staff.fnwi.uva.nl/m.welling
-    aff: CuspAI
+    aff: xxx
     interest: 
-    image: assets/images/max.png 
+    image: assets/images/xxx.png 
 
-  - name: Nathan Frey
+  - name: xxx
     url: https://ncfrey.github.io/
-    aff: Coefficient Bio
-    interest: AI, Drug Discovery
+    aff: xxx
+    interest: AI, xxx
     image: assets/images/nathan.jpeg
 
-  - name: Shirley Ho
+  - name: xxx
     url: https://www.shirleyho.space/
-    aff: NYU, Flatiron Institute
-    interest: AI, Astrophysics
-    image: assets/images/Ho_Shirley.jpeg
+    aff: xxx
+    interest: AI, xxx
+    image: assets/images/xxx.jpeg
 
-  - name: Pratyush Tiwary
+  - name: xxx
     url: https://sites.google.com/site/pratyushtiwary/
-    aff: University of Maryland
-    interest: AI, Comp. Chemistry
-    image: assets/images/pratyush.jpg
+    aff: xxx
+    interest: AI, xxx
+    image: assets/images/xxx.jpg
 
-  - name: Priya Donti
+  - name: xxx
     url: https://priyadonti.com/
-    aff: MIT
-    interest: AI, Climate Science
-    image: assets/images/priya.jpg
+    aff: xxx
+    interest: AI, xxx
+    image: assets/images/xxx.jpg
 
 
 Organizers:
@@ -92,56 +92,41 @@ Organizers:
     interest: 
     image: assets/images/marinka.png  
     
-  - name: Carla P. Gomes
+  - name: xxx
     url: https://www.cs.cornell.edu/gomes/
-    aff: Cornell
+    aff: xxx
     interest: 
-    image: assets/images/carla.png 
-    
-  - name: Yuanqi Du
-    url: https://yuanqidu.github.io/
-    aff: Cornell 
-    interest: AI for Science
-    image: assets/images/yuanqi.png 
+    image: assets/images/xxx.png 
 
   - name: Lixue Cheng
     url: https://sherrylixuecheng.github.io/
-    aff: Microsoft Research 
-    interest: AI for Quantum Chemistry
+    aff: The Hong Kong University of Science and Technology (HKUST)
+    interest: AI for Quantum Sciences
     image: assets/images/lixue.png 
 
-  - name: Lijing Wang 
-    url: https://lijingwang.github.io/
-    aff: University of Connecticut 
-    interest: AI for Earth Science
-    image: assets/images/lijing2.png 
+  - name: Sungsoo Ahn
+    url: https://sites.google.com/view/sungsooahn0215/home
+    aff: Korea Advanced Institute of Science & Technology (KAIST)
+    interest: AI for Chemistry
+    image: assets/images/sungsoo.jpg 
   
-  - name: Ada Fang
-    url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
-    aff: Harvard
-    interest: AI for Medicine
-    image: ./assets/images/ada.jpg 
+  - name: Soojung Yang
+    url: https://sites.google.com/view/soojungy/
+    aff: Massachusetts Institute of Technology (MIT)
+    interest: AI for Materials
+    image: ./assets/images/soojung.jpg 
 
-  - name: Sanjeev Raja
-    url: https://sanjeevraja.com/
-    aff: UC Berkeley
-    interest: AI for Comp. Chemistry
-    image: ./assets/images/sanjeev.png 
-  
-  - name: Michael Albergo
-    url: http://malbergo.me/
-    aff: Harvard
-    interest: AI for Physics
-    image: ./assets/images/michael.jpg 
+  - name: Yixuan Wang
+    url: https://roywangyx.github.io/
+    aff: California Institute of Technology (Caltech)
+    interest: AI for Math
+    image: ./assets/images/yixuan.png 
   
   - name: Mia Rosenfeld
     url: https://x.com/mia_rosenfeld
     aff: Iambic Therapeutics
     interest: AI for Drug Discovery
     image: ./assets/images/mia_bio.jpg
-
-
-
 
 
 ---
