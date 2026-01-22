@@ -11,37 +11,37 @@ speakers:
     url: https://www.yunhahwang.com/
     aff: Allen Institute for AI (AI2)
     interest: AI, Reasoning
-    image: assets/images/peter.jpg
+    image: ./assets/images/peter.jpg
 
   - name: Ziming Liu
     url: https://kindxiaoming.github.io/
     aff: Stanford University
     interest: AI, Physics
-    image: assets/images/ziming.jpg
+    image: ./assets/images/ziming.jpg
 
   - name: xxx
     url: https://www.epfl.ch/labs/cosmo/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/xxx.jpg
+    image: ./assets/images/xxx.jpg
 
   - name: xxx
     url: https://cheme.mit.edu/profile/heather-j-kulik/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/xxx.png
+    image: ./assets/images/xxx.png
 
   - name: xxx
     url: https://stephanhoyer.com/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/xxx.jpg
+    image: ./assets/images/xxx.jpg
 
   - name: xxx
     url: https://roseyu.com/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/xxx.jpg
+    image: ./assets/images/xxx.jpg
   
 
 
@@ -51,31 +51,31 @@ Panelist:
     url: https://staff.fnwi.uva.nl/m.welling
     aff: xxx
     interest: 
-    image: assets/images/xxx.png 
+    image: ./assets/images/xxx.png 
 
   - name: xxx
     url: https://ncfrey.github.io/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/nathan.jpeg
+    image: ./assets/images/nathan.jpeg
 
   - name: xxx
     url: https://www.shirleyho.space/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/xxx.jpeg
+    image: ./assets/images/xxx.jpeg
 
   - name: xxx
     url: https://sites.google.com/site/pratyushtiwary/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/xxx.jpg
+    image: ./assets/images/xxx.jpg
 
   - name: xxx
     url: https://priyadonti.com/
     aff: xxx
     interest: AI, xxx
-    image: assets/images/xxx.jpg
+    image: ./assets/images/xxx.jpg
 
 
 Organizers:
@@ -84,19 +84,19 @@ Organizers:
     url: https://staff.fnwi.uva.nl/m.welling
     aff: CuspAI
     interest: 
-    image: assets/images/max.png 
+    image: ./assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
     aff: Harvard
     interest: 
-    image: assets/images/marinka.png  
+    image: ./assets/images/marinka.png  
     
   - name: xxx
     url: https://www.cs.cornell.edu/gomes/
     aff: xxx
     interest: 
-    image: assets/images/xxx.png 
+    image: ./assets/images/xxx.png 
 
   - name: Lixue Cheng
     url: https://sherrylixuecheng.github.io/
@@ -108,19 +108,19 @@ Organizers:
     url: https://sites.google.com/view/sungsooahn0215/home
     aff: Korea Advanced Institute of Science & Technology (KAIST)
     interest: AI for Chemistry
-    image: assets/images/sungsoo.jpg 
+    image: assets/images/sungsoo.png 
   
   - name: Soojung Yang
     url: https://sites.google.com/view/soojungy/
     aff: Massachusetts Institute of Technology (MIT)
     interest: AI for Materials
-    image: ./assets/images/soojung.jpg 
+    image: ./assets/images/soojung.png 
 
   - name: Yixuan Wang
     url: https://roywangyx.github.io/
     aff: California Institute of Technology (Caltech)
     interest: AI for Math
-    image: ./assets/images/yixuan.png 
+    image: ./assets/images/yixuan.jpg 
   
   - name: Mia Rosenfeld
     url: https://x.com/mia_rosenfeld
