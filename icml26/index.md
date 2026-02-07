@@ -17,7 +17,7 @@ speakers:
     url: https://www.deepmind.com/blog
     aff: Google DeepMind
     interest: AI x Mathematics
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/ray.jpg
 
   - name: Wengong Jin
     url: https://wengong-jin.github.io/
@@ -161,7 +161,7 @@ Our six confirmed speakers span the full spectrum of AI scientist research: Pete
 
 {% include team.html id="speakers" %}
 
-# Panel: From Atoms to Answers: Can AI Simulate Science and Explain It?
+# Panel – Benchmarking “Breakthroughs” in AI Scientist: Definitions and Trustworthiness
 
 Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Markus Buehler (MIT), Ben Miller (Meta FAIR), Chaok Seok (SNU), and Moontae Lee (LG AI Research) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
 
