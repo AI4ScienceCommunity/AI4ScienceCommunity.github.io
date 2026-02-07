@@ -11,62 +11,62 @@ speakers:
     url: https://allenai.org/team/peterc
     aff: Allen Institute for AI
     interest: AI x General Science
-    image: assets/images/peter.jpg
+    image: icml26/assets/images/peter.jpg
 
   - name: Ziming Liu
     url: https://zliu.science/
     aff: Tsinghua University
     interest: AI x Physics
-    image: assets/images/ziming.jpg
+    image: icml26/assets/images/ziming.jpg
 
   - name: Wengong Jin
     url: https://northwestern.datascience.northwestern.edu/people/wengong-jin/
     aff: Northwestern University
     interest: AI x Drug & Chemistry Discovery
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 
   - name: Alek Kemeny
     url: https://www.anthropic.com/
     aff: Anthropic
     interest: AI x Biology, Quantum, Fusion
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 
   - name: Ray Jiang
     url: https://www.deepmind.com/blog
     aff: Google DeepMind
     interest: AI x Mathematics
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 
   - name: Andrew White
     url: https://www.andrewwhite.us/
     aff: FutureHouse
     interest: AI x Drug & Chemistry Discovery
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 Panelist:
 
   - name: Markus Buehler
     url: https://cee.mit.edu/people_individual/markus-buehler/
     aff: MIT
     interest: AI x Materials
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 
   - name: Ben Miller
     url: https://ai.facebook.com/blog/
     aff: Meta FAIR
     interest: AI x Materials
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 
   - name: Chaok Seok
     url: http://bi.snu.ac.kr/~cseok/
     aff: Seoul National University
     interest: AI x Biology
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 
   - name: Moontae Lee
     url: https://www.lgresearch.ai/
     aff: LG AI Research
     interest: AI x General Science
-    image: assets/images/logo.png
+    image: icml26/assets/images/logo.png
 
 
 Organizers:
@@ -75,49 +75,49 @@ Organizers:
     url: https://staff.fnwi.uva.nl/m.welling
     aff: CuspAI
     interest: 
-    image: assets/images/max.png 
+    image: icml26/assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
     aff: Harvard
     interest: 
-    image: assets/images/marinka.png  
+    image: icml26/assets/images/marinka.png  
     
   - name: xxx
     url: https://www.cs.cornell.edu/gomes/
     aff: xxx
     interest: 
-    image: assets/images/logo.png 
+    image: icml26/assets/images/logo.png 
 
   - name: Lixue Cheng
     url: https://sherrylixuecheng.github.io/
     aff: The Hong Kong University of Science and Technology (HKUST)
     interest: AI for Quantum Sciences
-    image: assets/images/lixue.png 
+    image: icml26/assets/images/lixue.png 
 
   - name: Sungsoo Ahn
     url: https://sites.google.com/view/sungsooahn0215/home
     aff: Korea Advanced Institute of Science & Technology (KAIST)
     interest: AI for Chemistry
-    image: assets/images/sungsoo.png 
+    image: icml26/assets/images/sungsoo.png 
   
   - name: Soojung Yang
     url: https://sites.google.com/view/soojungy/
     aff: Massachusetts Institute of Technology (MIT)
     interest: AI for Materials
-    image: assets/images/soojung.png 
+    image: icml26/assets/images/soojung.png 
 
   - name: Yixuan Wang
     url: https://roywangyx.github.io/
     aff: California Institute of Technology (Caltech)
     interest: AI for Math
-    image: assets/images/yixuan.jpg 
+    image: icml26/assets/images/yixuan.jpg 
   
   - name: Mia Rosenfeld
     url: https://x.com/mia_rosenfeld
     aff: Iambic Therapeutics
     interest: AI for Drug Discovery
-    image: assets/images/mia_bio.jpg
+    image: icml26/assets/images/mia_bio.jpg
 
 
 ---
