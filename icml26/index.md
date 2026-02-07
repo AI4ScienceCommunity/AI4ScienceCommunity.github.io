@@ -85,7 +85,7 @@ Organizers:
     
   - name: Mengdi Wang
     url: https://mwang-delta.vercel.app/
-    aff: Princeton University (ECE & Center for Statistics and Machine Learning)
+    aff: Princeton University
     image: icml26/assets/images/mengdi.jpeg 
 
   - name: Lixue Cheng
