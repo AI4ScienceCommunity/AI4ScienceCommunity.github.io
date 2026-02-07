@@ -31,6 +31,7 @@ Winning AI Scientist proposals share **$10K in prizes sponsored by Xaira Therape
 5. **Potential impact** on real labs or cross-domain collaborations.
 
 ## Timeline (Anywhere on Earth)
+- Abstract deadline: **April 21, 2026**
 - Submission deadline: **April 24, 2026**
 - Notification: **May 15, 2026**
 - Camera-ready / spotlight materials: **May 29, 2026**

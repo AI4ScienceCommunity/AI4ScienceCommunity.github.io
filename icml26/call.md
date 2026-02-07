@@ -49,6 +49,7 @@ We run parallel competitions for dataset generation and AI scientist system prop
 
 # Important Dates (Anywhere on Earth)
 
+- Abstract submission deadline: Apr 21, 2026 (AoE)
 - Paper & competition submission deadline: Apr 24, 2026 (AoE)
 - Notification deadline: May 15, 2026 (AoE)
 - Camera-ready / spotlight materials: May 29, 2026 (AoE)

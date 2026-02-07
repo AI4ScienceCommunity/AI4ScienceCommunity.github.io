@@ -13,14 +13,14 @@ speakers:
     interest: AI x General Science
     image: icml26/assets/images/peter.jpg
 
-  - name: Ziming Liu
-    url: https://zliu.science/
-    aff: Tsinghua University
-    interest: AI x Physics
-    image: icml26/assets/images/ziming.jpg
+  - name: Ray Jiang
+    url: https://www.deepmind.com/blog
+    aff: Google DeepMind
+    interest: AI x Mathematics
+    image: icml26/assets/images/logo.png
 
   - name: Wengong Jin
-    url: https://northwestern.datascience.northwestern.edu/people/wengong-jin/
+    url: https://wengong-jin.github.io/
     aff: Northwestern University
     interest: AI x Drug & Chemistry Discovery
     image: icml26/assets/images/wengong.jpg
@@ -31,21 +31,21 @@ speakers:
     interest: AI x Biology, Quantum, Fusion
     image: icml26/assets/images/logo.png
 
-  - name: Ray Jiang
-    url: https://www.deepmind.com/blog
-    aff: Google DeepMind
-    interest: AI x Mathematics
-    image: icml26/assets/images/logo.png
+  - name: Ziming Liu
+    url: https://zliu.science
+    aff: Tsinghua University
+    interest: AI x Physics
+    image: icml26/assets/images/ziming.jpg
 
   - name: Andrew White
-    url: https://www.andrewwhite.us/
+    url: https://www.futurehouse.org/team/andrew-white
     aff: FutureHouse
     interest: AI x Drug & Chemistry Discovery
     image: icml26/assets/images/andrew.jpg
 Panelist:
 
   - name: Markus Buehler
-    url: https://cee.mit.edu/people_individual/markus-buehler/
+    url: https://cee.mit.edu/people_individual/markus-j-buehler/
     aff: MIT
     interest: AI x Materials
     image: icml26/assets/images/markusbuehler.jpg
@@ -57,7 +57,7 @@ Panelist:
     image: icml26/assets/images/benmiller.jpg
 
   - name: Chaok Seok
-    url: http://bi.snu.ac.kr/~cseok/
+    url: https://chem.snu.ac.kr/en/research-faculty/faculty/fulltime?mode=view&profidx=57
     aff: Seoul National University
     interest: AI x Biology
     image: icml26/assets/images/chaok.jpg
@@ -72,7 +72,7 @@ Panelist:
 Organizers:
 
   - name: Max Welling
-    url: https://staff.fnwi.uva.nl/m.welling
+    url: https://amlab.science.uva.nl/people/MaxWelling/
     aff: CuspAI
     interest: 
     image: icml26/assets/images/max.png 
@@ -95,7 +95,7 @@ Organizers:
     image: icml26/assets/images/lixue.png 
 
   - name: Sungsoo Ahn
-    url: https://sites.google.com/view/sungsooahn0215/home
+    url: https://sungsoo-ahn.github.io/
     aff: Korea Advanced Institute of Science & Technology (KAIST)
     interest: AI for Chemistry
     image: icml26/assets/images/sungsoo.png 
@@ -145,7 +145,7 @@ Our discussions and submissions center on three themes:
 
 ## New Dataset Proposal Competition
 
-Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html) and read about both tracks on the new [AI Scientist Competition page](/icml26/competition.html). Update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
+Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html) and read about both tracks on the new [AI Scientist Competition page](/icml26/competition.html). Please update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
 
 ## Follow Us
 
@@ -157,7 +157,7 @@ To deepen collaborations between scientists and AI researchers, we are partnerin
 
 # Invited Talks (In alphabetical order)
 
-Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ziming Liu (AI x Physics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ray Jiang (AI x Mathematics), and Andrew White (AI x Drug & Chemistry Discovery).
+Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ziming Liu (AI x Physics), and Andrew White (AI x Drug & Chemistry Discovery).
 
 {% include team.html id="speakers" %}
 
@@ -170,6 +170,7 @@ Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how 
 
 # Important Dates (Anywhere on Earth)
 
+- Abstract Submission Deadline: Apr 21, 2026
 - Submission Deadline (papers + competition proposals): Apr 24, 2026
 - Notification Deadline: May 15, 2026
 - Camera-ready / spotlight materials: May 29, 2026
@@ -195,7 +196,7 @@ If you actively publish in AI for Science or deploy autonomous labs, we would lo
 ## Frequent Q&A
 
 - **Do I need a full paper for the abstract deadline?**  
-  No. Register your title/abstract on OpenReview by Mar 13 so we can secure reviewers. The full PDF is due at the paper deadline.
+  No. Register your title/abstract on OpenReview by Apr 21 so we can secure reviewers. The full PDF is due at the paper deadline.
 
 - **Can I attend if my work is still in progress?**  
   Absolutely. Registration happens through the ICML 2026 workshop portal; anyone with an ICML pass may join.
