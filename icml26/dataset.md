@@ -1,51 +1,38 @@
 ---
 layout: icml26
-title: "AI Scientists -- Tools, Co-authors, or Founders?"
+title: "Dataset Generation Track"
 permalink: /icml26/dataset
 ---
 
-# Dataset Proposal Competition
+# Dataset Generation Track
 
-Scientific breakthroughs often follow the arrival of ambitious, openly shared datasets: think of the Protein Data Bank, ImageNet, and the explosion of high-resolution Earth observation archives. To unlock trustworthy AI scientists, we need new corpora that capture experimental intent, instrument telemetry, lab notebooks, design-build-test loops, and the sociotechnical context around them. The AI Scientists workshop therefore hosts a dataset proposal competition focused on resources that democratize autonomous discovery.
+Datasets have catalyzed every leap in AI for Science—from the Protein Data Bank to ImageNet and Sloan Digital Sky Survey. To empower trustworthy AI scientists, we now need corpora that capture hypotheses, instrument telemetry, lab notebooks, and closed-loop build–test cycles. The **Dataset Generation Track** celebrates proposals for such resources and forms half of the AI Scientist Competition.
 
-Sponsored by [Renaissance Philanthropy](http://www.renaissancephilanthropy.org), the competition will award a total of USD $10K to the most compelling proposals. Winning teams will present their vision during the ICML workshop and can engage with Renaissance Philanthropy about potential follow-on funding for data collection.
+## What to Include
+- **Scientific bottleneck:** Clearly describe the question, domain, or workflow your dataset unlocks and why it matters now.
+- **Acquisition roadmap:** Outline experimental or computational pipelines, instrumentation, sensing, or simulation steps, plus safety/privacy plans.
+- **Metadata & governance:** Specify schema, labeling standards, licensing, and mechanisms for responsible sharing (including accommodations for sensitive data).
+- **Acceleration potential:** Link the dataset to concrete AI milestones—agents that can reason, design, or execute more reliably because of your resource.
 
-Submissions will be judged on:
-1. **Scientific value** – Does the dataset unlock a high-impact question or application?
-2. **Feasibility & openness** – Can the community realistically build and share it under open licenses or appropriate access policies?
-3. **Breadth of impact** – Will the dataset serve multiple research areas or underrepresented communities?
-4. **Path to execution** – Are there concrete plans for sourcing, cleaning, and maintaining the data (including privacy and safety considerations)?
+## Submission Requirements
+- **Length:** 2 pages of main text (PDF) with unlimited references/appendices.
+- **Format:** ICML 2026 style file (double-blind option). Update the template footnote to “Submitted to the AI for Science workshop (ICML 2026).”
+- **Anonymity:** Fully double blind. Remove institutional identifiers from data sources when possible, or provide anonymized descriptions.
+- **Submission portal:** [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science) → Dataset Generation Track.
 
-**What your proposal must cover**
-- AI task definition – What scientific question will the dataset enable? Is it a prediction, generation, or other task?
-- Dataset rationale – Why is this dataset the bottleneck? Describe the data type(s), scale, resolution, and labels/metadata needed.
-- Acceleration potential – How will access to this dataset transform model development and downstream science?
+## Evaluation Criteria
+1. **Scientific value & novelty** across disciplines (physics, chemistry, biology, climate, materials, etc.).
+2. **Feasibility & openness,** including ethical, privacy, or biosafety safeguards.
+3. **Breadth of impact** on underserved communities or multi-domain AI models.
+4. **Execution plan** with realistic milestones, costs, and sustainability.
 
-**Recommended (optional) details**
-- Data-creation pathway – Where will the data come from? (e.g., public archives, new experiments, shared simulation pipelines, privacy-preserving consortia).
-- Cost & scalability – Rough budget or strategy for cost-effective generation at scale, including new automation or sensing platforms.
-- Risk assessment – Plans for handling safety, privacy, biosafety, or dual-use concerns.
+## Timeline (AoE)
+- Submission deadline: **April 24, 2026**
+- Notification: **May 15, 2026**
+- Camera-ready / spotlight material: **May 29, 2026**
 
-# Important Dates (Anywhere on Earth)
-- Submission Deadline: Apr 5, 2026
-- Submission Revision Deadline: Apr 12, 2026 (you may continue updating your proposal until this date)
-- Acceptance Notification Date: Apr 26, 2026
+## Awards & Support
+- Combined with the AI Scientist Track, the best proposals share **$10K sponsored by Xaira Therapeutics**.
+- Winners present during the workshop and can request introductions to lab or industry partners for dataset collection support.
 
-# Submission Instructions
-- Length: 2 pages of main text max — unlimited space for references and appendices
-- Submission site: [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science)
-- Anonymity: All submissions must be anonymized and may not contain any identifying information that may violate the double-blind reviewing policy. This policy applies to any supplementary or linked material as well. If you need to cite one of your own papers, you should do so with adequate anonymization to preserve double-blind reviewing.
-- Format: We will use the ICML 2026 LaTeX template (link forthcoming; no ICML checklist is required for workshop submissions).
-
-## Frequently Asked Questions
-- **Who can submit?**
-Anyone—researchers, practitioners, students, or independent contributors—from anywhere in the world is welcome to apply. An academic affiliation is not required.
-- **How many authors can a submission have?**
-You may apply as a sole author or as part of a team. There is no upper limit on the number of co-authors.
-- **Will my submission be made public?**
-Yes. Accepted dataset proposals will be published on OpenReview. If you prefer your proposal to stay private, email ai4sciencecommunity@gmail.com after acceptance and we will coordinate an alternative.
-- **Using the ICML 2026 template**:  
-When submitting, please compile with the double-blind ICML 2026 style option. After acceptance we may request a camera-ready version with the “final” option enabled. Update the template footnote to “Submitted to the AI for Science workshop (ICML 2026).”
-
-## About Renaissance Philanthropy
-[Renaissance Philanthropy](http://www.renaissancephilanthropy.org) is a nonprofit organization that fuels a 21st-century renaissance by increasing the ambition of philanthropists, scientists and innovators. In the first year, Renaissance Philanthropy catalyzed more than $214M in philanthropic funding for science, technology, and innovation, launching 10+ initiatives across AI, education, climate, health, and scientific infrastructure. The organization designs time-bound, thesis-driven funds led by field experts and inspires talent to take action through  playbooks and communities. From accelerating mathematical discovery to expanding talent mobility, Renaissance Philanthropy is building the connective tissue between exceptional ideas and resources to create breakthroughs that transform entire fields. 
+Looking for the AI Scientist Track details? Visit the [AI Scientist Competition page](/icml26/competition.html) for both track descriptions, FAQs, and the latest announcements. Questions? Email [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).

@@ -122,6 +122,15 @@ Organizers:
 
 ---
 
+# Workshop Summary
+
+AI has shifted from passive assistant to active agent: systems such as AlphaFold and GNoME accelerate human-led discovery, while platforms like Coscientist, CuspAI, AlphaProof, A-Lab, FutureHouse’s Kosmos, Sakana’s AI Scientist, and Lila Sciences’ “AI Science Factories” autonomously plan experiments, drive robots, and even draft papers. These systems already operate across the **tool → co-author → founder** spectrum, but the field lacks shared definitions, benchmarks, and governance to distinguish marketing from true milestones. Our ICML 2026 workshop convenes ML researchers, domain scientists, experimentalists, policymakers, and industry practitioners to:
+
+1. Establish a shared vocabulary for AI Scientist autonomy levels across disciplines.
+2. Propose evaluation criteria that determine when AI contributions are tools, co-authorship, or independent discovery.
+3. Draft principles for attribution, accountability, and governance that institutions can adopt.
+4. Build durable connections between AI and domain science communities to accelerate responsible progress.
+
 # About
 
 Foundation models and autonomous agents are beginning to draft papers, direct experiments, and negotiate with collaborators. Yet the community is still debating whether these systems are merely powerful tools, trusted co-authors, or independent founders of new scientific disciplines. The ICML 2026 workshop **AI Scientists – Tools, Co-authors, or Founders?** convenes researchers from machine learning, natural sciences, and human-computer interaction to examine how close we are to autonomous scientific teams and what checks must be in place before we rely on them. We emphasize rigorous case studies, best practices from lab deployments, and frameworks for attributing scientific credit in hybrid human–AI teams.
@@ -137,7 +146,7 @@ Our discussions and submissions center on three themes:
 
 ## New Dataset Proposal Competition
 
-Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. We will follow the ICML 2026 LaTeX template (link coming once ICML releases it). Update the footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).” Learn more on [the dataset page](/icml26/dataset.html).
+Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Generation Track page](/icml26/dataset.html) and read about both tracks on the new [AI Scientist Competition page](/icml26/competition.html). Update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
 
 ## Follow Us
 
@@ -162,18 +171,23 @@ Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how 
 
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Mar 13, 2026
-- Paper Submission Deadline: Mar 16, 2026
-- Review Bidding Period: Mar 20–22, 2026
-- Review Deadline: Apr 17, 2026
-- Acceptance Notification Date: Apr 24, 2026
+- Submission Deadline (papers + competition proposals): Apr 24, 2026
+- Notification Deadline: May 15, 2026
+- Camera-ready / spotlight materials: May 29, 2026
 - Workshop Date: July 2026 (exact ICML day TBA)
 
 
 
 ## Submissions 
 
-Please submit your paper on [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science). Our workshop is **nonarchival**; accepted papers will be showcased on this site and at ICML. Final formatting will follow the ICML 2026 template (we will share the official files and checklist guidance once ICML releases them). Submissions should be 4–8 pages, excluding unlimited references and appendices. More information appears on the [Call for Papers page](/icml26/call.html).
+Please submit your paper on [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science). Our workshop is **nonarchival**; accepted papers will be showcased on this site and at ICML and remain eligible for future archival venues. Submissions fall under two tracks:
+
+- **Original Research Track:** 4–8 page studies demonstrating AI-driven advances across physics, chemistry, biology, climate, materials, math, and beyond.
+- **Position Track:** 4–8 page forward-looking or critical perspectives on AI scientists, governance, and sociotechnical implications.
+
+All submissions use the ICML 2026 style (double blind) with unlimited references/appendices. Reviews are handled by **300+ reviewers and 50+ area chairs**, ensuring at least 2–3 expert evaluations per paper. **Best paper and best poster awards are sponsored by Samsung Advanced Institute of Technology (SAIT).** See the [Call for Papers page](/icml26/call.html) for topic suggestions and detailed guidance.
+
+Interested in the AI Scientist Competition (dataset + AI system tracks, $10K in prizes from Xaira Therapeutics)? Visit the [competition page](/icml26/competition.html) for requirements and timeline.
 
 ## Call for Reviewers/Area Chairs
 
@@ -200,7 +214,6 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 ## Organizers 
 
 {% include team.html id="Organizers" %}
-
 
 
 
