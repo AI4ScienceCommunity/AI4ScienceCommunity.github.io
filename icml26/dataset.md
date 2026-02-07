@@ -1,12 +1,12 @@
 ---
 layout: icml26
-title: "Dataset Generation Track"
+title: "Dataset Competition"
 permalink: /icml26/dataset
 ---
 
-# Dataset Generation Track
+# Dataset Competition
 
-Datasets have catalyzed every leap in AI for Science—from the Protein Data Bank to ImageNet and Sloan Digital Sky Survey. To empower trustworthy AI scientists, we now need corpora that capture hypotheses, instrument telemetry, lab notebooks, and closed-loop build–test cycles. The **Dataset Generation Track** celebrates proposals for such resources and forms half of the AI Scientist Competition.
+Datasets have catalyzed every leap in AI for Science—from the Protein Data Bank to ImageNet and Sloan Digital Sky Survey. To empower trustworthy AI scientists, we now need corpora that capture hypotheses, instrument telemetry, lab notebooks, and closed-loop build–test cycles. The **Dataset Competition** celebrates proposals for such resources and forms half of the AI Scientist Competition.
 
 ## What to Include
 - **Scientific bottleneck:** Clearly describe the question, domain, or workflow your dataset unlocks and why it matters now.
@@ -18,7 +18,7 @@ Datasets have catalyzed every leap in AI for Science—from the Protein Data Ban
 - **Length:** 2 pages of main text (PDF) with unlimited references/appendices.
 - **Format:** ICML 2026 style file (double-blind option). Update the template footnote to “Submitted to the AI for Science workshop (ICML 2026).”
 - **Anonymity:** Fully double blind. Remove institutional identifiers from data sources when possible, or provide anonymized descriptions.
-- **Submission portal:** [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science) → Dataset Generation Track.
+- **Submission portal:** [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science) → Dataset Competition.
 
 ## Evaluation Criteria
 1. **Scientific value & novelty** across disciplines (physics, chemistry, biology, climate, materials, etc.).

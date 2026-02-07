@@ -45,7 +45,7 @@ The community needs high-quality, open educational resources to keep pace with r
 
 ## AI Scientist Competition
 
-We run parallel competitions for dataset generation and AI scientist system proposals. Each submission is limited to two pages. Top proposals share **$10K sponsored by Xaira Therapeutics** and deliver spotlights during the workshop. See the [Dataset Generation Track](/icml26/dataset.html) and [AI Scientist Competition page](/icml26/competition.html) for instructions. (The remaining guidelines in this page apply to the paper tracks.)
+We run parallel competitions for dataset generation and AI scientist system proposals. Each submission is limited to two pages. Top proposals share **$10K sponsored by Xaira Therapeutics** and deliver spotlights during the workshop. See the [Dataset Competition page](/icml26/dataset.html) and [AI Scientist Competition page](/icml26/competition.html) for instructions. (The remaining guidelines in this page apply to the paper tracks.)
 
 # Important Dates (Anywhere on Earth)
 

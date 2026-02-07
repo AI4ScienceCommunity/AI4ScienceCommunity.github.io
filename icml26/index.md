@@ -10,62 +10,62 @@ speakers:
   - name: Peter Clark
     url: https://allenai.org/team/peterc
     aff: Allen Institute for AI
-    interest: AI ↔ General Science
-    image: assets/images/logo.png
+    interest: AI x General Science
+    image: assets/images/peter.jpg
 
   - name: Ziming Liu
     url: https://zliu.science/
     aff: Tsinghua University
-    interest: AI ↔ Physics
-    image: assets/images/ziming.jpeg
+    interest: AI x Physics
+    image: assets/images/ziming.jpg
 
   - name: Wengong Jin
     url: https://northwestern.datascience.northwestern.edu/people/wengong-jin/
     aff: Northwestern University
-    interest: AI ↔ Drug & Chemistry Discovery
+    interest: AI x Drug & Chemistry Discovery
     image: assets/images/logo.png
 
   - name: Alek Kemeny
     url: https://www.anthropic.com/
     aff: Anthropic
-    interest: AI ↔ Biology, Quantum, Fusion
+    interest: AI x Biology, Quantum, Fusion
     image: assets/images/logo.png
 
   - name: Ray Jiang
     url: https://www.deepmind.com/blog
     aff: Google DeepMind
-    interest: AI ↔ Mathematics
+    interest: AI x Mathematics
     image: assets/images/logo.png
 
   - name: Andrew White
     url: https://www.andrewwhite.us/
     aff: FutureHouse
-    interest: AI ↔ Drug & Chemistry Discovery
+    interest: AI x Drug & Chemistry Discovery
     image: assets/images/logo.png
 Panelist:
 
   - name: Markus Buehler
     url: https://cee.mit.edu/people_individual/markus-buehler/
     aff: MIT
-    interest: AI ↔ Materials
+    interest: AI x Materials
     image: assets/images/logo.png
 
   - name: Ben Miller
     url: https://ai.facebook.com/blog/
     aff: Meta FAIR
-    interest: AI ↔ Materials
+    interest: AI x Materials
     image: assets/images/logo.png
 
   - name: Chaok Seok
     url: http://bi.snu.ac.kr/~cseok/
     aff: Seoul National University
-    interest: AI ↔ Biology
+    interest: AI x Biology
     image: assets/images/logo.png
 
   - name: Moontae Lee
     url: https://www.lgresearch.ai/
     aff: LG AI Research
-    interest: AI ↔ General Science
+    interest: AI x General Science
     image: assets/images/logo.png
 
 
@@ -75,19 +75,19 @@ Organizers:
     url: https://staff.fnwi.uva.nl/m.welling
     aff: CuspAI
     interest: 
-    image: ./assets/images/max.png 
+    image: assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
     aff: Harvard
     interest: 
-    image: ./assets/images/marinka.png  
+    image: assets/images/marinka.png  
     
   - name: xxx
     url: https://www.cs.cornell.edu/gomes/
     aff: xxx
     interest: 
-    image: ./assets/images/xxx.png 
+    image: assets/images/logo.png 
 
   - name: Lixue Cheng
     url: https://sherrylixuecheng.github.io/
@@ -105,19 +105,19 @@ Organizers:
     url: https://sites.google.com/view/soojungy/
     aff: Massachusetts Institute of Technology (MIT)
     interest: AI for Materials
-    image: ./assets/images/soojung.png 
+    image: assets/images/soojung.png 
 
   - name: Yixuan Wang
     url: https://roywangyx.github.io/
     aff: California Institute of Technology (Caltech)
     interest: AI for Math
-    image: ./assets/images/yixuan.jpg 
+    image: assets/images/yixuan.jpg 
   
   - name: Mia Rosenfeld
     url: https://x.com/mia_rosenfeld
     aff: Iambic Therapeutics
     interest: AI for Drug Discovery
-    image: ./assets/images/mia_bio.jpg
+    image: assets/images/mia_bio.jpg
 
 
 ---
@@ -146,7 +146,7 @@ Our discussions and submissions center on three themes:
 
 ## New Dataset Proposal Competition
 
-Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Generation Track page](/icml26/dataset.html) and read about both tracks on the new [AI Scientist Competition page](/icml26/competition.html). Update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
+Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html) and read about both tracks on the new [AI Scientist Competition page](/icml26/competition.html). Update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
 
 ## Follow Us
 
@@ -158,7 +158,7 @@ To deepen collaborations between scientists and AI researchers, we are partnerin
 
 # Invited Talks (In alphabetical order)
 
-Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI ↔ General Science), Ziming Liu (AI ↔ Physics), Wengong Jin (AI ↔ Drug & Chemistry Discovery), Alek Kemeny (AI ↔ Biology/Quantum/Fusion), Ray Jiang (AI ↔ Mathematics), and Andrew White (AI ↔ Drug & Chemistry Discovery).
+Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ziming Liu (AI x Physics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ray Jiang (AI x Mathematics), and Andrew White (AI x Drug & Chemistry Discovery).
 
 {% include team.html id="speakers" %}
 
@@ -214,6 +214,3 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 ## Organizers 
 
 {% include team.html id="Organizers" %}
-
-
-

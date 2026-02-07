@@ -12,7 +12,7 @@ Winning teams will share **$10K in prizes sponsored by Xaira Therapeutics**, rec
 
 ## Tracks
 
-### Dataset Generation Track
+### Dataset Competition
 - **Goal:** Propose openly shareable datasets that unlock fundamental progress in any scientific domain.
 - **What to cover:** scientific question(s), data modalities, acquisition pipelines (experimental, computational, or hybrid), annotation/metadata plans, and how the dataset will accelerate downstream AI models.
 - **Evaluation:** scientific importance, originality, feasibility of collection, openness, safety/privacy considerations, and clarity of the roadmap for future model development.
