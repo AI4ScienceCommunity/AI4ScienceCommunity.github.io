@@ -23,7 +23,7 @@ speakers:
     url: https://northwestern.datascience.northwestern.edu/people/wengong-jin/
     aff: Northwestern University
     interest: AI x Drug & Chemistry Discovery
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/wengong.jpg
 
   - name: Alek Kemeny
     url: https://www.anthropic.com/
@@ -41,32 +41,32 @@ speakers:
     url: https://www.andrewwhite.us/
     aff: FutureHouse
     interest: AI x Drug & Chemistry Discovery
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/andrew.jpg
 Panelist:
 
   - name: Markus Buehler
     url: https://cee.mit.edu/people_individual/markus-buehler/
     aff: MIT
     interest: AI x Materials
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/markusbuehler.jpg
 
   - name: Ben Miller
     url: https://ai.facebook.com/blog/
     aff: Meta FAIR
     interest: AI x Materials
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/benmiller.jpg
 
   - name: Chaok Seok
     url: http://bi.snu.ac.kr/~cseok/
     aff: Seoul National University
     interest: AI x Biology
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/chaok.jpg
 
   - name: Moontae Lee
     url: https://www.lgresearch.ai/
     aff: LG AI Research
     interest: AI x General Science
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/moontae.png
 
 
 Organizers:
@@ -83,11 +83,10 @@ Organizers:
     interest: 
     image: icml26/assets/images/marinka.png  
     
-  - name: xxx
-    url: https://www.cs.cornell.edu/gomes/
-    aff: xxx
-    interest: 
-    image: icml26/assets/images/logo.png 
+  - name: Mengdi Wang
+    url: https://mwang-delta.vercel.app/
+    aff: Princeton University (ECE & Center for Statistics and Machine Learning)
+    image: icml26/assets/images/mengdi.jpeg 
 
   - name: Lixue Cheng
     url: https://sherrylixuecheng.github.io/
