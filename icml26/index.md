@@ -7,75 +7,66 @@ permalink: /icml26
 
 speakers:
     
-  - name: Peter Clark 
-    url: https://www.yunhahwang.com/
-    aff: Allen Institute for AI (AI2)
-    interest: AI, Reasoning
-    image: ./assets/images/peter.jpg
+  - name: Peter Clark
+    url: https://allenai.org/team/peterc
+    aff: Allen Institute for AI
+    interest: AI ↔ General Science
+    image: assets/images/logo.png
 
   - name: Ziming Liu
-    url: https://kindxiaoming.github.io/
-    aff: Stanford University
-    interest: AI, Physics
-    image: ./assets/images/ziming.jpg
+    url: https://zliu.science/
+    aff: Tsinghua University
+    interest: AI ↔ Physics
+    image: assets/images/ziming.jpeg
 
-  - name: xxx
-    url: https://www.epfl.ch/labs/cosmo/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/xxx.jpg
+  - name: Wengong Jin
+    url: https://northwestern.datascience.northwestern.edu/people/wengong-jin/
+    aff: Northwestern University
+    interest: AI ↔ Drug & Chemistry Discovery
+    image: assets/images/logo.png
 
-  - name: xxx
-    url: https://cheme.mit.edu/profile/heather-j-kulik/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/xxx.png
+  - name: Alek Kemeny
+    url: https://www.anthropic.com/
+    aff: Anthropic
+    interest: AI ↔ Biology, Quantum, Fusion
+    image: assets/images/logo.png
 
-  - name: xxx
-    url: https://stephanhoyer.com/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/xxx.jpg
+  - name: Ray Jiang
+    url: https://www.deepmind.com/blog
+    aff: Google DeepMind
+    interest: AI ↔ Mathematics
+    image: assets/images/logo.png
 
-  - name: xxx
-    url: https://roseyu.com/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/xxx.jpg
-  
-
-
+  - name: Andrew White
+    url: https://www.andrewwhite.us/
+    aff: FutureHouse
+    interest: AI ↔ Drug & Chemistry Discovery
+    image: assets/images/logo.png
 Panelist:
 
-  - name: xxx (Moderator)
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: xxx
-    interest: 
-    image: ./assets/images/xxx.png 
+  - name: Markus Buehler
+    url: https://cee.mit.edu/people_individual/markus-buehler/
+    aff: MIT
+    interest: AI ↔ Materials
+    image: assets/images/logo.png
 
-  - name: xxx
-    url: https://ncfrey.github.io/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/nathan.jpeg
+  - name: Ben Miller
+    url: https://ai.facebook.com/blog/
+    aff: Meta FAIR
+    interest: AI ↔ Materials
+    image: assets/images/logo.png
 
-  - name: xxx
-    url: https://www.shirleyho.space/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/xxx.jpeg
+  - name: Chaok Seok
+    url: http://bi.snu.ac.kr/~cseok/
+    aff: Seoul National University
+    interest: AI ↔ Biology
+    image: assets/images/logo.png
 
-  - name: xxx
-    url: https://sites.google.com/site/pratyushtiwary/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/xxx.jpg
-
-  - name: xxx
-    url: https://priyadonti.com/
-    aff: xxx
-    interest: AI, xxx
-    image: ./assets/images/xxx.jpg
+  - name: Moontae Lee
+    url: https://www.lgresearch.ai/
+    aff: LG AI Research
+    interest: AI ↔ General Science
+    image: assets/images/logo.png
 
 
 Organizers:
@@ -152,15 +143,19 @@ Datasets that capture the full scientific stack—from planning prompts to robot
 
 Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-3eferk1xy-vIDrgaBCdpXfCKmQs9WH0g) for active discussions.
 
-## AI for Science Party
+## AI4Science × Xaira Networking Night
 
-We are hosting a party for the community, check the registration link [here](https://partiful.com/e/IDy23TR5e14Dz4L3hatk?).
+To deepen collaborations between scientists and AI researchers, we are partnering with Xaira Therapeutics to host a networking night immediately after the workshop. Our NeurIPS 2025 edition drew more than 2,000 registrants and 325 invited attendees; for ICML 2026 we are planning for 500+ participants with confirmed sponsorship from Xaira. Details about the venue, RSVP, and invite process will be shared closer to the conference.
 
 # Invited Talks (In alphabetical order)
+
+Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI ↔ General Science), Ziming Liu (AI ↔ Physics), Wengong Jin (AI ↔ Drug & Chemistry Discovery), Alek Kemeny (AI ↔ Biology/Quantum/Fusion), Ray Jiang (AI ↔ Mathematics), and Andrew White (AI ↔ Drug & Chemistry Discovery).
 
 {% include team.html id="speakers" %}
 
 # Panel: From Atoms to Answers: Can AI Simulate Science and Explain It?
+
+Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Markus Buehler (MIT), Ben Miller (Meta FAIR), Chaok Seok (SNU), and Moontae Lee (LG AI Research) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
 
 {% include team.html id="Panelist" %}
 
@@ -205,9 +200,6 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 ## Organizers 
 
 {% include team.html id="Organizers" %}
-
-
-
 
 
 
