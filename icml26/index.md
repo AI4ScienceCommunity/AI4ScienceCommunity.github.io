@@ -29,7 +29,7 @@ speakers:
     url: https://www.anthropic.com/
     aff: Anthropic
     interest: AI x Biology, Quantum, Fusion
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/alex.jpg
 
   - name: Ziming Liu
     url: https://zliu.science
