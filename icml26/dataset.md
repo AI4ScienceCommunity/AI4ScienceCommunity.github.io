@@ -16,7 +16,7 @@ Datasets have catalyzed every leap in AI for Science—from the Protein Data Ban
 
 ## Submission Requirements
 - **Length:** 2 pages of main text (PDF) with unlimited references/appendices.
-- **Format:** ICML 2026 style file (double-blind option). Update the template footnote to “Submitted to the AI for Science workshop (ICML 2026).”
+- **Format:** [ICML 2026 style file](https://icml.cc/Conferences/2026/AuthorInstructions) (double-blind option). Update the template footnote to “Submitted to the AI for Science workshop (ICML 2026).”
 - **Anonymity:** Fully double blind. Remove institutional identifiers from data sources when possible, or provide anonymized descriptions.
 - **Submission portal:** [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science) → Dataset Competition.
 

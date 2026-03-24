@@ -58,6 +58,6 @@ We run parallel competitions for dataset generation and AI scientist system prop
 
 All submissions are managed through [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science).
 
-The review process is double blind, so please remove identifying information from the main paper and supplementary files. Submissions may include work in progress, previously unpublished results, or recently published science-journal articles that you would like to bring to the ICML audience. We use the official ICML 2026 style files (double-blind option). Update the template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
+The review process is double blind, so please remove identifying information from the main paper and supplementary files. Submissions may include work in progress, previously unpublished results, or recently published science-journal articles that you would like to bring to the ICML audience. We use the official [ICML 2026 style files](https://icml.cc/Conferences/2026/AuthorInstructions) (double-blind option). Update the template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
 
 Accepted papers will appear on the workshop website (nonarchival) and may be selected for spotlight talks or poster sessions. **Best Paper and Best Poster Awards are sponsored by Samsung Advanced Institute of Technology (SAIT).**

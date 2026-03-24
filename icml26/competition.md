@@ -18,7 +18,7 @@ Winning AI Scientist proposals share **$10K in prizes sponsored by Xaira Therape
 
 ## Submission Guidelines
 - **Length:** 2 pages of main text (PDF) with unlimited references/appendices.
-- **Format:** ICML 2026 style file (double-blind option). Update the template footnote to “Submitted to the AI for Science workshop (ICML 2026).”
+- **Format:** [ICML 2026 style file](https://icml.cc/Conferences/2026/AuthorInstructions) (double-blind option). Update the template footnote to “Submitted to the AI for Science workshop (ICML 2026).”
 - **Anonymity:** Fully double blind. Remove identifiable metadata, URLs, or repositories.
 - **Submission Portal:** [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4Science) → AI Scientist Competition.
 - **Review:** At least two expert reviewers plus an area chair; top proposals earn spotlight talks and prize consideration.
