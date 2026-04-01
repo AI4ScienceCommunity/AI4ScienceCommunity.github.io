@@ -151,7 +151,7 @@ Our discussions and submissions center on three themes:
 
 ## New Dataset Proposal Competition
 
-Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html) and read about both tracks on the new [AI Scientist Competition page](/icml26/competition.html). Please update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
+Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html), and see the separate [AI Scientist Competition page](/icml26/competition.html) for AI Scientist proposal details. Please update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
 
 ## Follow Us
 
@@ -193,7 +193,7 @@ Please submit your paper on [OpenReview](https://openreview.net/group?id=ICML.cc
 
 All submissions use the ICML 2026 style (double blind) with unlimited references/appendices. Reviews are handled by **300+ reviewers and 50+ area chairs**, ensuring at least 2–3 expert evaluations per paper. **Best paper and best poster awards are sponsored by Samsung Advanced Institute of Technology (SAIT).** See the [Call for Papers page](/icml26/call.html) for topic suggestions and detailed guidance.
 
-Interested in our competitions? The Dataset Proposal Competition is supported by **KAIROS Materials**, and the AI Scientist Competition offers **$10K in prizes from Xaira Therapeutics**. Visit the [competition page](/icml26/competition.html) for requirements and timeline.
+Interested in our competitions? The Dataset Proposal Competition is supported by **KAIROS Materials**, and the AI Scientist Competition is supported by **Xaira Therapeutics**. Visit the [competition page](/icml26/competition.html) for requirements and timeline.
 
 ## Call for Reviewers/Area Chairs
 

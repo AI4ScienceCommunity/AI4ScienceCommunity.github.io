@@ -8,7 +8,7 @@ permalink: /icml26/competition
 
 AI has shifted from passive assistant to active agent: systems now generate hypotheses, design experiments, orchestrate robots, and draft papers. The **AI Scientist Competition** focuses exclusively on these autonomous or semi-autonomous scientific systems. (If you are proposing a dataset, please visit the [Dataset Competition page](/icml26/dataset.html).)
 
-Winning AI Scientist proposals share **$10K in prizes sponsored by Xaira Therapeutics**, present during the workshop, and help shape emerging benchmarks and governance for trustworthy AI-driven discovery.
+Winning AI Scientist proposals receive sponsored awards from **Xaira Therapeutics**, present during the workshop, and help shape emerging benchmarks and governance for trustworthy AI-driven discovery.
 
 ## What to Include
 - **Scope & autonomy:** Explain which stages of the scientific workflow (ideation, planning, simulation, execution, analysis, writing) your system covers and how decisions are made.

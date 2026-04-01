@@ -36,4 +36,4 @@ Datasets have catalyzed every leap in AI for Science—from the Protein Data Ban
 - Best dataset proposals are supported by **KAIROS Materials**.
 - Winners present during the workshop and can request introductions to lab or industry partners for dataset collection support.
 
-Looking for the AI Scientist Track details? Visit the [AI Scientist Competition page](/icml26/competition.html) for both track descriptions, FAQs, and the latest announcements. Questions? Email [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+Looking for AI Scientist Track details? Visit the [AI Scientist Competition page](/icml26/competition.html) for submission requirements, FAQs, and the latest announcements. Questions? Email [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
