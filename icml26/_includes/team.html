@@ -12,9 +12,23 @@ img {
 }
 </style>
 
-<div class="row {% unless is_student_helpers %}justify-content-center{% endunless %}">
+{% if is_student_helpers %}
+<div style="display:flex; flex-wrap:wrap; gap:16px; align-items:flex-start; justify-content:flex-start;">
   {% for member in team %}
-  <div class="{% if is_student_helpers %}col-12 col-md-4 mb-3{% else %}col-20 col-md-3 mb-2{% endif %}" style="font-size:16px; text-align:{% if is_student_helpers %}left{% else %}center{% endif %};">
+  <div style="flex: 0 0 calc(33.333% - 11px); min-width: 240px; font-size:16px; text-align:left; margin:0 !important;">
+    <div style="text-align:left; margin:0;">
+      <h2 style="font-size:22px; text-align:left; margin:0 0 6px 0;"><a{% if member.url %} href="{{ member.url }}"{% endif %}>{{ member.name }}</a></h2>
+      <div style="font-size:16px; text-align:left; white-space:nowrap;">
+        <span>{{ member.aff }}</span>{% if member.interest %} <span>| {{ member.interest }}</span>{% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<div class="row justify-content-center">
+  {% for member in team %}
+  <div class="col-20 col-md-3 mb-2" style="font-size:16px; text-align:center;">
     <div class="team team-summary team-summary-large">
       {% if member.image %}
       <div class="team-image">
@@ -22,16 +36,10 @@ img {
       </div>
       {% endif %}
       <div class="team-meta">
-        {% if is_student_helpers %}
-          <h2 class="team-name" style="font-size:22px; text-align:left; margin-bottom:6px;"><a{% if member.url %} href="{{ member.url }}"{% endif %}>{{ member.name }}</a></h2>
-          <div style="font-size:16px; text-align:left;">
-            <span>{{ member.aff }}</span>{% if member.interest %} <span>| {{ member.interest }}</span>{% endif %}
-          </div>
-        {% else %}
-          <h2 class="team-name" style="font-size:16px; text-align:center;"><a{% if member.url %} href="{{ member.url }}"{% endif %}>{{ member.name }}</a><br>{{ member.aff }}<br><i>{{ member.interest }}</i></h2>
-        {% endif %}
+        <h2 class="team-name" style="font-size:16px; text-align:center;"><a{% if member.url %} href="{{ member.url }}"{% endif %}>{{ member.name }}</a><br>{{ member.aff }}<br><i>{{ member.interest }}</i></h2>
       </div>
     </div>
   </div>
   {% endfor %}
 </div>
+{% endif %}
