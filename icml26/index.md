@@ -118,7 +118,7 @@ Organizers:
     interest: AI for Drug Discovery
     image: icml26/assets/images/mia_bio.jpg
 
-Student Helpers:
+Student_Helpers:
 
   - name: Yunhui Jang
     url: https://yunhuijang.github.io/
@@ -221,6 +221,6 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 
 {% include team.html id="Organizers" %}
 
-## Student Helper
+## Student Helpers
 
-{% include team.html id="Student_Helper" %}
+{% include team.html id="Student_Helpers" %}
