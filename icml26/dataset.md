@@ -33,7 +33,7 @@ Datasets have catalyzed every leap in AI for Science—from the Protein Data Ban
 - Camera-ready / spotlight material: **May 29, 2026**
 
 ## Awards & Support
-- Combined with the AI Scientist Track, the best proposals share **$10K sponsored by Xaira Therapeutics**.
+- Best dataset proposals are supported by **KAIROS Materials**.
 - Winners present during the workshop and can request introductions to lab or industry partners for dataset collection support.
 
 Looking for the AI Scientist Track details? Visit the [AI Scientist Competition page](/icml26/competition.html) for both track descriptions, FAQs, and the latest announcements. Questions? Email [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).

@@ -4,15 +4,17 @@
   {% assign team = page.team %}
 {% endif %}
 
+{% assign is_student_helpers = include.id == 'Student_Helpers' %}
+
 <style>
 img {
   border-radius: 50%;
 }
 </style>
 
-<div class="row justify-content-center">
+<div class="row {% unless is_student_helpers %}justify-content-center{% endunless %}">
   {% for member in team %}
-  <div class="col-20 col-md-3 mb-2" style="font-size:16px; text-align:center;">
+  <div class="{% if is_student_helpers %}col-12 col-md-4 mb-3{% else %}col-20 col-md-3 mb-2{% endif %}" style="font-size:16px; text-align:{% if is_student_helpers %}left{% else %}center{% endif %};">
     <div class="team team-summary team-summary-large">
       {% if member.image %}
       <div class="team-image">
@@ -20,7 +22,14 @@ img {
       </div>
       {% endif %}
       <div class="team-meta">
-        <h2 class="team-name" style="font-size:16px; text-align:center;"><a{% if member.url %} href="{{ member.url }}"{% endif %}>{{ member.name }}</a><br>{{ member.aff }}<br><i>{{ member.interest }}</i></h2>
+        {% if is_student_helpers %}
+          <h2 class="team-name" style="font-size:22px; text-align:left; margin-bottom:6px;"><a{% if member.url %} href="{{ member.url }}"{% endif %}>{{ member.name }}</a></h2>
+          <div style="font-size:16px; text-align:left;">
+            <span>{{ member.aff }}</span>{% if member.interest %} <span>| {{ member.interest }}</span>{% endif %}
+          </div>
+        {% else %}
+          <h2 class="team-name" style="font-size:16px; text-align:center;"><a{% if member.url %} href="{{ member.url }}"{% endif %}>{{ member.name }}</a><br>{{ member.aff }}<br><i>{{ member.interest }}</i></h2>
+        {% endif %}
       </div>
     </div>
   </div>

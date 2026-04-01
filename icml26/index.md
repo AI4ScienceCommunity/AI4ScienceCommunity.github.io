@@ -193,7 +193,7 @@ Please submit your paper on [OpenReview](https://openreview.net/group?id=ICML.cc
 
 All submissions use the ICML 2026 style (double blind) with unlimited references/appendices. Reviews are handled by **300+ reviewers and 50+ area chairs**, ensuring at least 2–3 expert evaluations per paper. **Best paper and best poster awards are sponsored by Samsung Advanced Institute of Technology (SAIT).** See the [Call for Papers page](/icml26/call.html) for topic suggestions and detailed guidance.
 
-Interested in the AI Scientist Competition (dataset + AI system tracks, $10K in prizes from Xaira Therapeutics)? Visit the [competition page](/icml26/competition.html) for requirements and timeline.
+Interested in our competitions? The Dataset Proposal Competition is supported by **KAIROS Materials**, and the AI Scientist Competition offers **$10K in prizes from Xaira Therapeutics**. Visit the [competition page](/icml26/competition.html) for requirements and timeline.
 
 ## Call for Reviewers/Area Chairs
 
