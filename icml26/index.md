@@ -17,7 +17,7 @@ speakers:
     url: https://www.deepmind.com/blog
     aff: Google DeepMind
     interest: AI x Mathematics
-    image: icml26/assets/images/ray.jpg
+    image: icml26/assets/images/logo.png
 
   - name: Wengong Jin
     url: https://wengong-jin.github.io/
@@ -118,6 +118,12 @@ Organizers:
     interest: AI for Drug Discovery
     image: icml26/assets/images/mia_bio.jpg
 
+Student Helpers:
+
+  - name: Yunhui Jang
+    url: https://yunhuijang.github.io/
+    aff: KAIST
+    interest: AI
 
 ---
 
@@ -214,3 +220,7 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 ## Organizers 
 
 {% include team.html id="Organizers" %}
+
+## Student Helper
+
+{% include team.html id="Student_Helper" %}
