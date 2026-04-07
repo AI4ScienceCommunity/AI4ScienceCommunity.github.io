@@ -163,7 +163,7 @@ To deepen collaborations between scientists and AI researchers, we are partnerin
 
 # Invited Talks (In alphabetical order)
 
-Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ziming Liu (AI x Physics), and Kexin Huang (AI x Drug & Chemistry Discovery).
+Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ziming Liu (AI x Physics), and Kexin Huang (AI x Biology).
 
 {% include team.html id="speakers" %}
 
