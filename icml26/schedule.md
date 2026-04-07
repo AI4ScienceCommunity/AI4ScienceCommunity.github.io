@@ -22,7 +22,7 @@ This one-day workshop runs from 8:00 am to 5:00 pm and features six invited 
 | 11:50–12:20 | Invited Talk · AI x Biology/Quantum/Fusion | Alek Kemeny (Anthropic) |
 | 12:20–13:20 | 🤝 Poster Session 2 | All accepted papers & proposals |
 | 13:20–13:50 | Invited Talk · AI x Mathematics | Ray Jiang (Google DeepMind) |
-| 13:50–14:20 | Invited Talk · AI x Drug/Chemistry | Kexin Huang (Stanford) |
+| 13:50–14:20 | Invited Talk · AI x Biology | Kexin Huang (Stanford) |
 | 14:20–14:50 | Contributed Talks Block 2 (Position Track · 3 × 10 min) | Selected authors |
 | 14:50–15:05 | Dataset & AI Scientist Highlights Block 2 (2 × 7.5 min) | Highest-ranked proposals |
 | 15:05–15:25 | 🤝 Coffee Break | All attendees |

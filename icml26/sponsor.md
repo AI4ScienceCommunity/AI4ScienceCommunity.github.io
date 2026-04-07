@@ -20,6 +20,11 @@ We are grateful for the generous support from our sponsors. Logos link directly 
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.kairosmaterials.com/" target="_blank" rel="noopener">
+    <img src="{{ '/icml26/assets/images/kairos.png' | relative_url }}" alt="Kairos Materials" style="max-height: 120px; width: auto;" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://trillionlabs.co/" target="_blank" rel="noopener">

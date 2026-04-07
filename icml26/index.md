@@ -40,7 +40,7 @@ speakers:
   - name: Kexin Huang
     url: https://www.kexinhuang.com/
     aff: Stanford
-    interest: AI x Drug & Chemistry Discovery
+    interest: AI x Biology
     image: icml26/assets/images/kexin.png
 Panelist:
 
