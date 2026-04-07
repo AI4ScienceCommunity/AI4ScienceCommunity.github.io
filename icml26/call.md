@@ -43,7 +43,7 @@ Example topics include (but not limited to):
 
 The community needs high-quality, open educational resources to keep pace with rapid advances. We invite tutorials, curricula, notebooks, or review papers (again 4–8 pages plus unlimited appendices) that lower the barrier for students and practitioners who want to build AI scientists. If you submit multimedia content such as code labs, include a short written overview that explains the intended audience and learning outcomes.
 
-## AI Scientist Competition
+## Competitions
 
 We run parallel competitions for dataset generation and AI scientist system proposals. Each submission is limited to two pages. Dataset Proposal Competition awards are supported by **KAIROS Materials**, and AI Scientist Competition awards are sponsored by **Xaira Therapeutics**; top teams deliver spotlights during the workshop. See the [Dataset Competition page](/icml26/dataset.html) and [AI Scientist Competition page](/icml26/competition.html) for instructions. (The remaining guidelines in this page apply to the paper tracks.)
 

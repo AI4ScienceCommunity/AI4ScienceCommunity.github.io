@@ -22,11 +22,11 @@ This one-day workshop runs from 8:00 am to 5:00 pm and features six invited 
 | 11:50–12:20 | Invited Talk · AI x Biology/Quantum/Fusion | Alek Kemeny (Anthropic) |
 | 12:20–13:20 | 🤝 Poster Session 2 | All accepted papers & proposals |
 | 13:20–13:50 | Invited Talk · AI x Mathematics | Ray Jiang (Google DeepMind) |
-| 13:50–14:20 | Invited Talk · AI x Drug/Chemistry | Andrew White (FutureHouse) |
+| 13:50–14:20 | Invited Talk · AI x Drug/Chemistry | Kexin Huang (Stanford) |
 | 14:20–14:50 | Contributed Talks Block 2 (Position Track · 3 × 10 min) | Selected authors |
 | 14:50–15:05 | Dataset & AI Scientist Highlights Block 2 (2 × 7.5 min) | Highest-ranked proposals |
 | 15:05–15:25 | 🤝 Coffee Break | All attendees |
 | 15:25–16:25 | Panel – Benchmarking “Breakthroughs” in AI Scientist: Definitions and Trustworthiness | Moderator: Mengdi Wang (Princeton); Panelists: Markus Buehler (MIT), Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI) |
 | 16:25–16:45 | Closing Remarks & Awards 🤝 | Organizing Team |
 
-The AI4Science × Xaira networking night remains scheduled as an optional off-site event after 6:00 pm (details and invitations forthcoming).
+The AI4Science × Xaira **Social Night** remains scheduled as an optional off-site event after 6:00 pm (details and invitations forthcoming).

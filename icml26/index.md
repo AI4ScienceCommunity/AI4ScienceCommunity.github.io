@@ -37,11 +37,11 @@ speakers:
     interest: AI x Physics
     image: icml26/assets/images/ziming.jpg
 
-  - name: Andrew White
-    url: https://www.futurehouse.org/team/andrew-white
-    aff: FutureHouse
+  - name: Kexin Huang
+    url: https://www.kexinhuang.com/
+    aff: Stanford
     interest: AI x Drug & Chemistry Discovery
-    image: icml26/assets/images/andrew.jpg
+    image: icml26/assets/images/kexin.png
 Panelist:
 
   - name: Markus Buehler
@@ -163,7 +163,7 @@ To deepen collaborations between scientists and AI researchers, we are partnerin
 
 # Invited Talks (In alphabetical order)
 
-Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ziming Liu (AI x Physics), and Andrew White (AI x Drug & Chemistry Discovery).
+Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ziming Liu (AI x Physics), and Kexin Huang (AI x Drug & Chemistry Discovery).
 
 {% include team.html id="speakers" %}
 
