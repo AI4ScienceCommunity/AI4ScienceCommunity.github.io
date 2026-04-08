@@ -17,7 +17,7 @@ speakers:
     url: https://www.deepmind.com/blog
     aff: Google DeepMind
     interest: AI x Mathematics
-    image: icml26/assets/images/logo.png
+    image: icml26/assets/images/ray.jpg
 
   - name: Wengong Jin
     url: https://wengong-jin.github.io/
@@ -124,6 +124,11 @@ Student_Helpers:
     url: https://yunhuijang.github.io/
     aff: KAIST
     interest: AI
+
+  - name: Yuyang Lou
+    url: https://vmoonlightv.github.io/
+    aff: HKUST
+    interest: Physics
 
 ---
 
