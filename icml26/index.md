@@ -68,6 +68,11 @@ Panelist:
     interest: AI x General Science
     image: icml26/assets/images/moontae.png
 
+  - name: Brian Cheung
+    url: https://briancheung.github.io/
+    aff: UCSF/MIT
+    interest: AI x Neuroscience
+    image: icml26/assets/images/brian.png
 
 Organizers:
 
@@ -174,7 +179,7 @@ Our six confirmed speakers span the full spectrum of AI scientist research: Pete
 
 # Panel – Benchmarking “Breakthroughs” in AI Scientist: Definitions and Trustworthiness
 
-Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Markus Buehler (MIT), Ben Miller (Meta FAIR), Chaok Seok (SNU), and Moontae Lee (LG AI Research) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
+Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Markus Buehler (MIT), Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), and Brian Cheung (UCSF/MIT) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
 
 {% include team.html id="Panelist" %}
 
