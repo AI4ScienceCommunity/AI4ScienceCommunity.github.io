@@ -44,12 +44,6 @@ speakers:
     image: icml26/assets/images/kexin.png
 Panelist:
 
-  - name: Markus Buehler
-    url: https://cee.mit.edu/people_individual/markus-j-buehler/
-    aff: MIT
-    interest: AI x Materials
-    image: icml26/assets/images/markusbuehler.jpg
-
   - name: Ben Miller
     url: https://ai.facebook.com/blog/
     aff: Meta FAIR
@@ -179,7 +173,7 @@ Our six confirmed speakers span the full spectrum of AI scientist research: Pete
 
 # Panel – Benchmarking “Breakthroughs” in AI Scientist: Definitions and Trustworthiness
 
-Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Markus Buehler (MIT), Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), and Brian Cheung (UCSF/MIT) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
+Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), and Brian Cheung (UCSF/MIT) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
 
 {% include team.html id="Panelist" %}
 
