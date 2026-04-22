@@ -180,9 +180,9 @@ Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how 
 
 # Important Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Apr 21, 2026
-- Submission Deadline (papers + competition proposals): Apr 24, 2026
-- Notification Deadline: May 15, 2026
+- Abstract Submission Deadline: Apr 29, 2026
+- Submission Deadline (papers + competition proposals): May 1, 2026
+- Notification Deadline: May 19, 2026
 - Camera-ready / spotlight materials: May 29, 2026
 - Workshop Date: July 2026 (exact ICML day TBA)
 

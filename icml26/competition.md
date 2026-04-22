@@ -28,9 +28,9 @@ AI has shifted from passive assistant to active agent: systems now generate hypo
 5. **Potential impact** on real labs or cross-domain collaborations.
 
 ## Timeline (AoE)
-- Abstract deadline: **April 21, 2026**
-- Submission deadline: **April 24, 2026**
-- Notification: **May 15, 2026**
+- Abstract deadline: **April 29, 2026**
+- Submission deadline: **May 1, 2026**
+- Notification: **May 19, 2026**
 - Camera-ready / spotlight materials: **May 29, 2026**
 - Live spotlights: **Workshop day at ICML 2026 (July, exact date TBA)**
 
