@@ -29,4 +29,4 @@ This one-day workshop runs from 8:00 am to 5:00 pm and features six invited 
 | 15:25–16:25 | Panel – Benchmarking “Breakthroughs” in AI Scientist: Definitions and Trustworthiness | Moderator: Mengdi Wang (Princeton); Panelists: Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI), Brian Cheung (UCSF/MIT) |
 | 16:25–16:45 | Closing Remarks & Awards 🤝 | Organizing Team |
 
-The AI4Science × Xaira **Social Night** remains scheduled as an optional off-site event after 6:00 pm (details and invitations forthcoming).
+The AI4Science × Xaira & OpenSci **Social Night** remains scheduled as an optional off-site event after 6:00 pm (details and invitations forthcoming).
