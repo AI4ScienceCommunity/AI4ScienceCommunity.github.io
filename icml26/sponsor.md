@@ -37,3 +37,9 @@ We are grateful for the generous support from our sponsors. Logos link directly 
     <img src="{{ '/icml26/assets/images/opensci.png' | relative_url }}" alt="OpenSci" style="max-height: 120px; width: auto;" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.desres.com/" target="_blank" rel="noopener">
+    <img src="{{ '/icml26/assets/images/DESRES.svg' | relative_url }}" alt="DESRES" style="max-height: 120px; width: auto;" />
+  </a>
+</p>

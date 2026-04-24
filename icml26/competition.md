@@ -36,6 +36,7 @@ AI has shifted from passive assistant to active agent: systems now generate hypo
 
 ## Awards & Support
 - Best AI Scientist proposals receive sponsored awards from **Xaira Therapeutics**.
+- Additional support is provided by **[OpenSci](https://www.opensci.io/)**.
 - Winners present during the workshop and can request introductions to relevant collaborators (e.g., robotics labs or evaluation partners).
 
 Questions? Email [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
