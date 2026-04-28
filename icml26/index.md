@@ -71,7 +71,7 @@ Panelist:
   - name: Ramine Tinati
     url: https://raminetinati.github.io/
     aff: Google DeepMind AI Impact Accelerator
-    interest: AI x Social Science
+    interest: AI x Cross-Discplines 
     image: icml26/assets/images/ramine.jpeg
 
 Organizers:
