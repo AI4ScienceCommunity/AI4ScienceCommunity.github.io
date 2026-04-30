@@ -27,9 +27,9 @@ Datasets have catalyzed every leap in AI for Science—from the Protein Data Ban
 4. **Execution plan** with realistic milestones, costs, and sustainability.
 
 ## Timeline (AoE)
-- Abstract deadline: **April 29, 2026**
-- Submission deadline: **May 1, 2026**
-- Notification: **May 19, 2026**
+- Abstract deadline: **May 5, 2026**
+- Submission deadline: **May 7, 2026**
+- Notification: **May 22, 2026**
 - Camera-ready / spotlight material: **May 29, 2026**
 
 ## Awards & Support
