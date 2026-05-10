@@ -1,21 +1,21 @@
 ---
-layout: neurips25
-title: "The Reach and Limits of AI for Scientific Discovery"
-permalink: /neurips25
+layout: neurips26
+title: "Verifications in the Age of AI Scientists"
+permalink: /neurips26
 
 
 speakers:
     
-  - name: Yunha Hwang
+  - name: Mario Krenn
     url: https://www.yunhahwang.com/
     aff: MIT
-    interest: AI, Biology 
+    interest: AI, Physics 
     image: assets/images/yunha.jpg
 
-  - name: Daniel Hackett
+  - name: Teresa Head-Gordon
     url: https://scholar.google.com/citations?user=9ZDR9jYAAAAJ&hl=en
     aff: Fermilab
-    interest: AI, Physics
+    interest: AI, Chemistry
     image: assets/images/daniel.png
 
   - name: Michele Ceriotti
@@ -91,29 +91,17 @@ Organizers:
     interest: 
     image: assets/images/marinka.png  
     
-  - name: Carla P. Gomes
+  - name: Priya Donti
     url: https://www.cs.cornell.edu/gomes/
-    aff: Cornell
+    aff: MIT
     interest: 
     image: assets/images/carla.png 
     
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
-    aff: Cornell 
+    aff: Microsoft Research New England 
     interest: AI for Science
     image: assets/images/yuanqi.png 
-
-  - name: Lixue Cheng
-    url: https://sherrylixuecheng.github.io/
-    aff: Microsoft Research 
-    interest: AI for Quantum Chemistry
-    image: assets/images/lixue.png 
-
-  - name: Lijing Wang 
-    url: https://lijingwang.github.io/
-    aff: University of Connecticut 
-    interest: AI for Earth Science
-    image: assets/images/lijing2.png 
   
   - name: Ada Fang
     url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
@@ -121,21 +109,21 @@ Organizers:
     interest: AI for Medicine
     image: ./assets/images/ada.jpg 
 
-  - name: Sanjeev Raja
-    url: https://sanjeevraja.com/
-    aff: UC Berkeley
-    interest: AI for Comp. Chemistry
-    image: ./assets/images/sanjeev.png 
-  
-  - name: Michael Albergo
-    url: http://malbergo.me/
+  - name: Anvita Bhagavathula
+    url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
     aff: Harvard
-    interest: AI for Physics
-    image: ./assets/images/michael.jpg 
+    interest: AI for Medicine
+    image: ./assets/images/ada.jpg 
   
-  - name: Mia Rosenfeld
+  - name: Ana Rivera
+    url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
+    aff: Harvard
+    interest: AI for Medicine
+    image: ./assets/images/ada.jpg 
+  
+  - name: Emilien Dupont
     url: https://x.com/mia_rosenfeld
-    aff: Iambic Therapeutics
+    aff: Google DeepMind
     interest: AI for Drug Discovery
     image: ./assets/images/mia_bio.jpg
 
@@ -148,6 +136,14 @@ Organizers:
 # About
 
 High-profile voices in AI research and industry have forecasted that AGI will “cure all diseases” and that due to developments in AI, “scientific progress will likely be much faster than it is today”. While these statements underscore the rapid and exciting developments in the AI for Science community, beneath the headlines lie unresolved questions about *where current AI methods genuinely advance scientific discovery and where they still hit hard limits*. Through our proposed AI for Science workshop, we will bring together experimentalists, domain scientists, and ML researchers to discuss where this boundary lies. Our workshop will highlight common bottlenecks in developing AI methods across scientific application domains, and delve into solutions that can unlock progress across all of these domains. We welcome submissions from all AI for Science areas, but we concentrate our talks and panel on the reach and limits of AI for scientific discovery. The main objectives include:
+
+* **Trustworthiness/Verification in open-ended hypothesis generation** How do we judge whether an AI-generated hypothesis is not only plausible, but scientifically meaningful, novel, and worth pursuing? What is the role of human taste, intuition, and domain expertise in evaluating good hypotheses?
+* **Trustworthiness/Verification under imperfect simulators** Scientific domains differ dramatically in the strength of their verifiers. In mathematics, formal systems such as Lean can provide near-perfect verification. In biology, simulators are far less reliable, and in climate science, verification may depend on partial models, historical data, and expert judgment. How should AI scientists operate when simulators are incomplete or imperfect?
+* **Trustworthiness/Verification under real-world constraints (considering uncertainty & safety)** In practice, verification is limited by time, cost, experimental throughput, and uncertainty. How do we decide which AI-generated ideas to test, which evidence to trust, and when to stop? How should scarce verification resources be allocated across competing hypotheses?
+- Clinical trials for medicine
+- Extreme weather prediction 
+- Power systems operations 
+
 
 * **Multi-domain scientific reasoning**
   - Benchmark how well today’s LLMs and autonomous agents generate rigorously testable hypotheses and interpret results that span physics, chemistry, biology, climate science, and beyond.
@@ -180,14 +176,14 @@ We are hosting a party for the community, check the registration link [here](htt
 {% include team.html id="Panelist" %}
 
 
-# Important Dates (Anywhere on Earth)
+# Tentative Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Aug 22, 2025 (extended to Aug 24)
-- Paper Submission Deadline: Aug 25, 2025 (extended to Aug 27)
-- Review Bidding Period: Aug 25-27, 2025 (extended to Aug 27-28)
-- Review Deadline: Sep 19, 2025
-- Acceptance Notification Date: Sep 22, 2025
-- Workshop Date: Dec 7, 2025
+- Abstract Submission Deadline: Aug 22, 2026 
+- Paper Submission Deadline: Aug 25, 2026
+- Review Bidding Period: Aug 25-27, 2026
+- Review Deadline: Sep 19, 2026
+- Acceptance Notification Date: Sep 22, 2026
+- Workshop Date: Dec 7, 2026
 
 
 
