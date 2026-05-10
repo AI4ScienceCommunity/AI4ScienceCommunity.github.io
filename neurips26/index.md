@@ -46,19 +46,19 @@ speakers:
 
 Panelist:
 
-  - name: Max Welling (Moderator)
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: CuspAI
-    interest: 
-    image: assets/images/max.png 
+  # - name: Max Welling (Moderator)
+  #   url: https://staff.fnwi.uva.nl/m.welling
+  #   aff: CuspAI
+  #   interest: 
+  #   image: assets/images/max.png 
 
-  - name: Nathan Frey
+  - name: David Rolnick
     url: https://ncfrey.github.io/
     aff: Coefficient Bio
     interest: AI, Drug Discovery
     image: assets/images/nathan.jpeg
 
-  - name: Shirley Ho
+  - name: Rianne van den Berg
     url: https://www.shirleyho.space/
     aff: NYU, Flatiron Institute
     interest: AI, Astrophysics
