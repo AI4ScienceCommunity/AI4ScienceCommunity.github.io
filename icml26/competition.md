@@ -32,7 +32,7 @@ AI has shifted from passive assistant to active agent: systems now generate hypo
 - Submission deadline: **May 7, 2026**
 - Notification: **May 25, 2026**
 - Camera-ready / spotlight materials: **June 1, 2026**
-- Live spotlights: **Workshop day at ICML 2026 (July, exact date TBA)**
+- Live spotlights: **Sat, Jul 11, 2026**
 
 ## Awards & Support
 - Best AI Scientist proposals receive sponsored awards from **Xaira Therapeutics**.

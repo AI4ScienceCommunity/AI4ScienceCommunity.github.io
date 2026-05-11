@@ -7,7 +7,7 @@ permalink: /icml26/schedule
 
 # Schedule
 
-This one-day workshop runs from 8:00 am to 5:00 pm and features six invited talks, two blocks of contributed talks, two dataset/AI scientist highlight sessions, and two poster sessions. Events marked 🤝 emphasize community building. Times are approximate and listed in the local ICML 2026 timezone.
+This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** in Hall C and features six invited talks, two blocks of contributed talks, two dataset/AI scientist highlight sessions, and two poster sessions. Events marked 🤝 emphasize community building. Times are approximate and listed in the KST (UTC+9) timezone. This is a hybrid event — virtual page: https://icml.cc/virtual/2026/workshop/54099
 
 | Time | Event | Speaker(s) |
 | :--- | :--- | :--- |

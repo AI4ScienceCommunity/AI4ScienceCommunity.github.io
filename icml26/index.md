@@ -190,7 +190,7 @@ Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how 
 - Submission Deadline (papers + competition proposals): May 7, 2026
 - Notification Deadline: May 25, 2026
 - Camera-ready / spotlight materials: June 1, 2026
-- Workshop Date: July 2026 (exact ICML day TBA)
+- Workshop Date: Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST, Hall C, virtual page https://icml.cc/virtual/2026/workshop/54099
 
 
 
