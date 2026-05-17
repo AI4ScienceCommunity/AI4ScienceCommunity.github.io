@@ -30,11 +30,11 @@ speakers:
     interest: AI, Mathematics
     image: assets/images/Adam.jpeg
 
-  - name: Stephan Hoyer
-    url: https://stephanhoyer.com/
-    aff: Google Research
-    interest: AI, Climate Science
-    image: assets/images/stephan.jpg
+  - name: Charlotte Bunne
+    url: https://aimm.epfl.ch/
+    aff: EPFL
+    interest: AI, Biology
+    image: assets/images/charlotte.jpeg
 
   - name: Rose Yu
     url: https://roseyu.com/
@@ -155,9 +155,9 @@ High-profile voices in AI research and industry have forecasted that AGI will �
   - Spotlight scientific areas that lack “Protein-Data-Bank–level” resources and invite dataset-generation proposals to catalyze community efforts.
   - Explore lab-in-the-loop strategies—active learning, autonomous experimentation, synthetic data augmentation—to overcome limited or biased measurements and accelerate model improvement.
 
-## New Dataset Proposal Competition
+<!-- ## New Dataset Proposal Competition
 
-We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025). Check details on [this page](/neurips25/dataset.html).
+We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025). Check details on [this page](/neurips25/dataset.html). -->
 
 ## Follow Us
 
@@ -165,7 +165,8 @@ Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www
 
 ## AI for Science Party
 
-We are hosting a party for the community, check the registration link [here](https://partiful.com/e/IDy23TR5e14Dz4L3hatk?).
+Detailed information to be posted. 
+<!-- We are hosting a party for the community, check the registration link [here](https://partiful.com/e/IDy23TR5e14Dz4L3hatk?). -->
 
 # Invited Talks (In alphabetical order)
 
