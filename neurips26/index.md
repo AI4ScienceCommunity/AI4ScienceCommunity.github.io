@@ -7,28 +7,28 @@ permalink: /neurips26
 speakers:
     
   - name: Mario Krenn
-    url: https://www.yunhahwang.com/
-    aff: MIT
+    url: https://www.artificial-scientist-lab.ai/
+    aff: University of Tübingen
     interest: AI, Physics 
-    image: assets/images/yunha.jpg
+    image: assets/images/mario.png
 
   - name: Teresa Head-Gordon
-    url: https://scholar.google.com/citations?user=9ZDR9jYAAAAJ&hl=en
-    aff: Fermilab
+    url: https://thglab.berkeley.edu/
+    aff: UC Berkeley
     interest: AI, Chemistry
-    image: assets/images/daniel.png
+    image: assets/images/teresa.jpeg
 
-  - name: Michele Ceriotti
-    url: https://www.epfl.ch/labs/cosmo/
-    aff: EPFL
-    interest: AI, Materials Science
-    image: assets/images/michele.jpg
+  - name: Anna Scaglione
+    url: https://sinelab.tech.cornell.edu/
+    aff: Cornell
+    interest: AI, Power System
+    image: assets/images/anna.jpeg
 
-  - name: Heather Kulik
-    url: https://cheme.mit.edu/profile/heather-j-kulik/
-    aff: MIT
-    interest: AI, Chemistry
-    image: assets/images/heather.png
+  - name: Adam Zsolt Wagner
+    url: https://zawagner22.github.io/
+    aff: Google DeepMind
+    interest: AI, Mathematics
+    image: assets/images/Adam.jpeg
 
   - name: Stephan Hoyer
     url: https://stephanhoyer.com/
