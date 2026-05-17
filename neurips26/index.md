@@ -92,40 +92,40 @@ Organizers:
     image: assets/images/marinka.png  
     
   - name: Priya Donti
-    url: https://www.cs.cornell.edu/gomes/
+    url: https://priyadonti.com/
     aff: MIT
     interest: 
-    image: assets/images/carla.png 
+    image: assets/images/priya.jpg
     
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
     aff: Microsoft Research New England 
-    interest: AI for Science
+    interest: 
     image: assets/images/yuanqi.png 
   
   - name: Ada Fang
     url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
     aff: Harvard
-    interest: AI for Medicine
+    interest: 
     image: ./assets/images/ada.jpg 
 
   - name: Anvita Bhagavathula
-    url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
-    aff: Harvard
-    interest: AI for Medicine
-    image: ./assets/images/ada.jpg 
+    url: https://a-bhagava.github.io/
+    aff: MIT
+    interest: 
+    image: ./assets/images/anvita.jpeg 
   
   - name: Ana Rivera
-    url: https://scholar.google.com/citations?user=f40sqL8AAAAJ&hl=en 
-    aff: Harvard
-    interest: AI for Medicine
-    image: ./assets/images/ada.jpg 
+    url: https://eesg.mit.edu/ana-rivera
+    aff: MIT
+    interest:
+    image: ./assets/images/ada.png 
   
   - name: Emilien Dupont
-    url: https://x.com/mia_rosenfeld
+    url: https://emiliendupont.github.io/
     aff: Google DeepMind
-    interest: AI for Drug Discovery
-    image: ./assets/images/mia_bio.jpg
+    interest: 
+    image: ./assets/images/emilien.jpeg
 
 
 
@@ -157,7 +157,7 @@ High-profile voices in AI research and industry have forecasted that AGI will â€
 
 <!-- ## New Dataset Proposal Competition
 
-We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025). Check details on [this page](/neurips25/dataset.html). -->
+We use [the NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2026). Check details on [this page](/neurips25/dataset.html). -->
 
 ## Follow Us
 
@@ -172,7 +172,7 @@ Detailed information to be posted.
 
 {% include team.html id="speakers" %}
 
-# Panel: From Atoms to Answers: Can AI Simulate Science and Explain It?
+# Panel: What does it mean to be human in the age of AI scientists?
 
 {% include team.html id="Panelist" %}
 
@@ -190,7 +190,7 @@ Detailed information to be posted.
 
 ## Submissions 
 
-Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. We use [the template from NeurIPS 2025](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025). The submissions are expected to be 4-8 pages with unlimited references and appendices. For more detials, please check [the Call for Papers page](/neurips25/call.html).
+Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. We use [the template from NeurIPS 2026](https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2026). The submissions are expected to be 4-8 pages with unlimited references and appendices. For more detials, please check [the Call for Papers page](/neurips25/call.html).
 
 ## Call for Reviewers/Area Chairs
 
@@ -202,7 +202,7 @@ We are calling for active researchers in the field to help with our review proce
 - You only need to create a submission tab on OpenReview by the abstract deadline. (**This is not a separate submission track for short papers**). As we receive a large volume of diverse submissions, to entire good review quality and coverage of reviewer areas, we keep an abstract deadline for us to have a chance to invite new reviewers if needed.
 
 - Can I attend the workshop even if I don't have any submissions?
-- Yes, you are welcome to attend the workshop. Registration is through NeurIPS 2025 registration system with workshop selected. 
+- Yes, you are welcome to attend the workshop. Registration is through NeurIPS 2026 registration system with workshop selected. 
 
 - Can I join the organizing team?
 - We always welcome new members to join our organizing team, feel free to reach out to us if you are interested. Several questions are recommended to be answered to help us make decision: what do you like about the workshop? what do you think we should improve? what can you contribute to the organizing team?
