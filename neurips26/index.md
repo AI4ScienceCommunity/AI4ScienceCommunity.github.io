@@ -119,7 +119,7 @@ Organizers:
     url: https://eesg.mit.edu/ana-rivera
     aff: MIT
     interest:
-    image: ./assets/images/ada.png 
+    image: ./assets/images/ana.png 
   
   - name: Emilien Dupont
     url: https://emiliendupont.github.io/
