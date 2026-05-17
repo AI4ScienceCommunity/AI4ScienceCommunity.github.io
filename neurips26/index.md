@@ -28,7 +28,7 @@ speakers:
     url: https://zawagner22.github.io/
     aff: Google DeepMind
     interest: AI, Mathematics
-    image: assets/images/Adam.jpeg
+    image: assets/images/adam.jpeg
 
   - name: Charlotte Bunne
     url: https://aimm.epfl.ch/
@@ -36,11 +36,11 @@ speakers:
     interest: AI, Biology
     image: assets/images/charlotte.jpeg
 
-  - name: Rose Yu
-    url: https://roseyu.com/
-    aff: UCSD
-    interest: AI, Science
-    image: assets/images/rose.jpg
+  # - name: Rose Yu
+  #   url: https://roseyu.com/
+  #   aff: UCSD
+  #   interest: AI, Science
+  #   image: assets/images/rose.jpg
   
 
 
@@ -53,28 +53,28 @@ Panelist:
   #   image: assets/images/max.png 
 
   - name: David Rolnick
-    url: https://ncfrey.github.io/
-    aff: Coefficient Bio
-    interest: AI, Drug Discovery
-    image: assets/images/nathan.jpeg
+    url: https://davidrolnick.com/
+    aff: McGill and Mila
+    interest: AI, Climate Science
+    image: assets/images/david_rolnick.jpeg
 
   - name: Rianne van den Berg
-    url: https://www.shirleyho.space/
-    aff: NYU, Flatiron Institute
-    interest: AI, Astrophysics
-    image: assets/images/Ho_Shirley.jpeg
+    url: https://www.microsoft.com/en-us/research/people/rvandenberg/
+    aff: Microsoft Research
+    interest: AI, Chemistry
+    image: assets/images/rianne.jpeg
 
-  - name: Pratyush Tiwary
-    url: https://sites.google.com/site/pratyushtiwary/
-    aff: University of Maryland
-    interest: AI, Comp. Chemistry
-    image: assets/images/pratyush.jpg
+  # - name: Pratyush Tiwary
+  #   url: https://sites.google.com/site/pratyushtiwary/
+  #   aff: University of Maryland
+  #   interest: AI, Comp. Chemistry
+  #   image: assets/images/pratyush.jpg
 
-  - name: Priya Donti
-    url: https://priyadonti.com/
-    aff: MIT
-    interest: AI, Climate Science
-    image: assets/images/priya.jpg
+  # - name: Priya Donti
+  #   url: https://priyadonti.com/
+  #   aff: MIT
+  #   interest: AI, Climate Science
+  #   image: assets/images/priya.jpg
 
 
 Organizers:
