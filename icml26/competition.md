@@ -31,7 +31,7 @@ AI has shifted from passive assistant to active agent: systems now generate hypo
 - Abstract deadline: **May 5, 2026**
 - Submission deadline: **May 7, 2026**
 - Notification: **May 25, 2026**
-- Camera-ready / spotlight materials: **June 1, 2026**
+- Camera-ready / spotlight materials: **June 30, 2026**
 - Live spotlights: **Sat, Jul 11, 2026**
 
 ## Awards & Support
