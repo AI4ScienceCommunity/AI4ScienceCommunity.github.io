@@ -52,6 +52,12 @@ Panelist:
   #   interest: 
   #   image: assets/images/max.png 
 
+  - name: Marinka Zitnik (Moderator)
+    url: https://zitniklab.hms.harvard.edu
+    aff: Harvard
+    interest: 
+    image: assets/images/marinka.png  
+
   - name: David Rolnick
     url: https://davidrolnick.com/
     aff: McGill and Mila
@@ -64,11 +70,11 @@ Panelist:
     interest: AI, Chemistry
     image: assets/images/rianne.jpeg
 
-  # - name: Pratyush Tiwary
-  #   url: https://sites.google.com/site/pratyushtiwary/
-  #   aff: University of Maryland
-  #   interest: AI, Comp. Chemistry
-  #   image: assets/images/pratyush.jpg
+  - name: Cheng Soon Ong
+    url: https://www.ong-home.my/
+    aff: CSIRO and Australian National University
+    interest: AI, Science
+    image: assets/images/cheng.jpeg
 
   # - name: Priya Donti
   #   url: https://priyadonti.com/
@@ -175,7 +181,7 @@ Detailed information to be posted.
 
 {% include team.html id="speakers" %}
 
-# Panel: What does it mean to be human in the age of AI scientists?
+# Panel: The Verification Gap: Abundant Hypotheses, Scarce Verifiers
 
 {% include team.html id="Panelist" %}
 
