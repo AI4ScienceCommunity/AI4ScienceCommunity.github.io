@@ -4,12 +4,18 @@ title: "AI Scientists -- Tools, Co-authors, or Founders?"
 permalink: /icml26/award
 ---
 
-# Best Paper Awards
+# Best Paper Awards (TBD)
 
 
-# Best Poster Awards 
+# Track 2 Dataset Competition Winners (TBD)
 
 
-# Best Poster Runner-ups 
+# Track 3 AI Scientist Competition Winners (TBD)
+
+
+# Best Poster Awards (Voted by attendees during the workshop) 
+
+
+# Best Poster Runner-ups (Voted by attendees during the workshop)
 
 

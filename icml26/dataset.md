@@ -30,7 +30,8 @@ Datasets have catalyzed every leap in AI for Science—from the Protein Data Ban
 - Abstract deadline: **May 5, 2026**
 - Submission deadline: **May 7, 2026**
 - Notification: **May 25, 2026**
-- Camera-ready / spotlight material: **June 1, 2026**
+- Camera-ready / spotlight material: **June 30, 2026**
+- Live spotlights: **Sat, Jul 11, 2026**
 
 ## Awards & Support
 - Best dataset proposals are supported by **KAIROS Materials**.
