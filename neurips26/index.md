@@ -30,17 +30,17 @@ speakers:
     interest: AI, Mathematics
     image: assets/images/adam.jpeg
 
-  - name: Charlotte Bunne
-    url: https://aimm.epfl.ch/
-    aff: EPFL
+  - name: Charlotte Deane
+    url: https://www.stats.ox.ac.uk/~deane/
+    aff: Oxford
     interest: AI, Biology
-    image: assets/images/charlotte.jpeg
+    image: assets/images/charlotte_deane.jpg
 
-  # - name: Rose Yu
-  #   url: https://roseyu.com/
-  #   aff: UCSD
-  #   interest: AI, Science
-  #   image: assets/images/rose.jpg
+  - name: Amanda Barnard
+    url: https://comp.anu.edu.au/people/amanda-barnard/
+    aff: Australian National University
+    interest: AI, Healthcare
+    image: assets/images/amanda.jpeg
   
 
 
@@ -79,11 +79,11 @@ Panelist:
 
 Organizers:
 
-  - name: Max Welling
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: CuspAI
-    interest: 
-    image: assets/images/max.png 
+  # - name: Max Welling
+  #   url: https://staff.fnwi.uva.nl/m.welling
+  #   aff: CuspAI
+  #   interest: 
+  #   image: assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
@@ -99,7 +99,7 @@ Organizers:
     
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
-    aff: Microsoft Research New England 
+    aff: Microsoft Research 
     interest: 
     image: assets/images/yuanqi.png 
   
@@ -135,7 +135,10 @@ Organizers:
 
 # About
 
-High-profile voices in AI research and industry have forecasted that AGI will “cure all diseases” and that due to developments in AI, “scientific progress will likely be much faster than it is today”. While these statements underscore the rapid and exciting developments in the AI for Science community, beneath the headlines lie unresolved questions about *where current AI methods genuinely advance scientific discovery and where they still hit hard limits*. Through our proposed AI for Science workshop, we will bring together experimentalists, domain scientists, and ML researchers to discuss where this boundary lies. Our workshop will highlight common bottlenecks in developing AI methods across scientific application domains, and delve into solutions that can unlock progress across all of these domains. We welcome submissions from all AI for Science areas, but we concentrate our talks and panel on the reach and limits of AI for scientific discovery. The main objectives include:
+AI Scientists now operate at a scale that outpaces human capacity for manual review. Systems such as Sakana's AI Scientist write entire workshop papers end-to-end. Lila Sciences runs autonomous ``AI Science Factories'' that hypothesize, experiment, and iterate without human guidance. FutureHouse's Kosmos and Robin generate thousands of candidate hypotheses in a single run, and Google's Co-Scientist proposes testable experiments at a rate no laboratory can fully evaluate. 
+Each of these systems emphasizes *verified* results, yet that standard ranges from near-perfect formal proof in mathematics to decade-long clinical trials in medicine, with no shared framework for judging sufficiency across domains. As outputs scale beyond what humans can manually inspect, the question of which results to trust becomes as hard as generating them. *The bottleneck for AI for Science is no longer hypothesis generation, it is verification*.
+
+Our NeurIPS 2026 workshop, *Verification in the Age of AI Scientists*, asks how we should trust, judge, and act on AI-generated science when verifiers are imperfect, scarce, or absent. In most sciences the verifier itself is imperfect or prohibitively expensive, and as AI Scientists scale beyond what humans can manually inspect, the central problem becomes *which AI outputs deserve our scarce verification budget, and on what evidence we should be willing to act*. We organize our discussion around three challenges.
 
 * **Trustworthiness/Verification in open-ended hypothesis generation** How do we judge whether an AI-generated hypothesis is not only plausible, but scientifically meaningful, novel, and worth pursuing? What is the role of human taste, intuition, and domain expertise in evaluating good hypotheses?
 * **Trustworthiness/Verification under imperfect simulators** Scientific domains differ dramatically in the strength of their verifiers. In mathematics, formal systems such as Lean can provide near-perfect verification. In biology, simulators are far less reliable, and in climate science, verification may depend on partial models, historical data, and expert judgment. How should AI scientists operate when simulators are incomplete or imperfect?
