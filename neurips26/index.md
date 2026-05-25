@@ -146,23 +146,11 @@ Each of these systems emphasizes *verified* results, yet that standard ranges fr
 
 Our NeurIPS 2026 workshop, *Verification in the Age of AI Scientists*, asks how we should trust, judge, and act on AI-generated science when verifiers are imperfect, scarce, or absent. In most sciences the verifier itself is imperfect or prohibitively expensive, and as AI Scientists scale beyond what humans can manually inspect, the central problem becomes *which AI outputs deserve our scarce verification budget, and on what evidence we should be willing to act*. We organize our discussion around three challenges.
 
-* **Trustworthiness/Verification in open-ended hypothesis generation** How do we judge whether an AI-generated hypothesis is not only plausible, but scientifically meaningful, novel, and worth pursuing? What is the role of human taste, intuition, and domain expertise in evaluating good hypotheses?
-* **Trustworthiness/Verification under imperfect simulators** Scientific domains differ dramatically in the strength of their verifiers. In mathematics, formal systems such as Lean can provide near-perfect verification. In biology, simulators are far less reliable, and in climate science, verification may depend on partial models, historical data, and expert judgment. How should AI scientists operate when simulators are incomplete or imperfect?
-* **Trustworthiness/Verification under real-world constraints (considering uncertainty & safety)** In practice, verification is limited by time, cost, experimental throughput, and uncertainty. How do we decide which AI-generated ideas to test, which evidence to trust, and when to stop? How should scarce verification resources be allocated across competing hypotheses?
-- Clinical trials for medicine
-- Extreme weather prediction 
-- Power systems operations 
+* **Verification in open-ended hypothesis generation** When AI Scientists propose thousands of candidate hypotheses, only a small fraction can ever be tested, and not all plausible outputs are scientifically meaningful, novel, or worth pursuing. Subtle failure modes such as data leakage, benchmark gaming, and hallucinated citations can make an output look verified without being so, and human taste, intuition, and domain expertise remain essential filters that are not yet well understood as learnable verifiers. This workshop asks how to build verifiers that can separate genuinely novel scientific contributions from convincing artifacts.
 
+* **Verification under imperfect simulators** Scientific domains differ dramatically in the reliability of their verifiers. In mathematics, formal systems such as Lean provide near-perfect verification, but in biology, force fields fail outside their training distribution and structure prediction has well-documented blind spots , while climate models depend on partial observations and expert judgment. This workshop asks when surrogate verifiers can substitute for ground truth, and on what evidence AI Scientists should be willing to act when the two disagree.
 
-* **Multi-domain scientific reasoning**
-  - Benchmark how well today’s LLMs and autonomous agents generate rigorously testable hypotheses and interpret results that span physics, chemistry, biology, climate science, and beyond.
-  - Identify failure modes in cross-disciplinary reasoning and outline directions--e.g., tool-augmented prompting, graph-structured memory, retrieval pipelines—-to close these gaps.
-* **High-fidelity generative & surrogate simulators**
-  - Survey state-of-the-art models—from all-atom biomolecular generators to neural weather simulators—and assess the spatial, temporal, and accuracy limits they still cannot cross.
-  - Convene domain and ML experts to design hybrid, physics-informed, or multiscale approaches that push simulation fidelity where classical or purely data-driven methods plateau.
-* **Experimental data scarcity & bias**
-  - Spotlight scientific areas that lack “Protein-Data-Bank–level” resources and invite dataset-generation proposals to catalyze community efforts.
-  - Explore lab-in-the-loop strategies—active learning, autonomous experimentation, synthetic data augmentation—to overcome limited or biased measurements and accelerate model improvement.
+* **Verification under real-world constraints (uncertainty & safety)** In practice, verification is bounded by time, cost, experimental throughput, and safety. A single Phase III clinical trial costs hundreds of millions of dollars and takes a decade, and in extreme weather prediction, rare out-of-distribution events drive evacuation and infrastructure decisions before sufficient evidence can be gathered. This workshop asks how scarce verification resources should be allocated across competing AI-generated hypotheses when downstream decisions affect human lives.
 
 <!-- ## New Dataset Proposal Competition
 
