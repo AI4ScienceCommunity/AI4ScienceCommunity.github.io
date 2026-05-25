@@ -165,7 +165,7 @@ Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www
 Detailed information to be posted. 
 <!-- We are hosting a party for the community, check the registration link [here](https://partiful.com/e/IDy23TR5e14Dz4L3hatk?). -->
 
-# Invited Talks (In alphabetical order)
+# Invited Talks 
 
 {% include team.html id="speakers" %}
 
