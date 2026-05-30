@@ -30,17 +30,17 @@ speakers:
     interest: AI, Mathematics
     image: assets/images/adam.jpeg
 
-  - name: Charlotte Bunne
-    url: https://aimm.epfl.ch/
-    aff: EPFL
+  - name: Charlotte Deane
+    url: https://www.stats.ox.ac.uk/~deane/
+    aff: Oxford
     interest: AI, Biology
-    image: assets/images/charlotte.jpeg
+    image: assets/images/charlotte_deane.jpg
 
-  # - name: Rose Yu
-  #   url: https://roseyu.com/
-  #   aff: UCSD
-  #   interest: AI, Science
-  #   image: assets/images/rose.jpg
+  - name: Amanda Barnard
+    url: https://comp.anu.edu.au/people/amanda-barnard/
+    aff: Australian National University
+    interest: AI, Healthcare
+    image: assets/images/amanda.jpeg
   
 
 
@@ -51,6 +51,12 @@ Panelist:
   #   aff: CuspAI
   #   interest: 
   #   image: assets/images/max.png 
+
+  - name: Marinka Zitnik (Moderator)
+    url: https://zitniklab.hms.harvard.edu
+    aff: Harvard
+    interest: 
+    image: assets/images/marinka.png  
 
   - name: David Rolnick
     url: https://davidrolnick.com/
@@ -64,11 +70,11 @@ Panelist:
     interest: AI, Chemistry
     image: assets/images/rianne.jpeg
 
-  # - name: Pratyush Tiwary
-  #   url: https://sites.google.com/site/pratyushtiwary/
-  #   aff: University of Maryland
-  #   interest: AI, Comp. Chemistry
-  #   image: assets/images/pratyush.jpg
+  - name: Cheng Soon Ong
+    url: https://www.ong-home.my/
+    aff: CSIRO and Australian National University
+    interest: AI, Science
+    image: assets/images/cheng.jpeg
 
   # - name: Priya Donti
   #   url: https://priyadonti.com/
@@ -79,11 +85,11 @@ Panelist:
 
 Organizers:
 
-  - name: Max Welling
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: CuspAI
-    interest: 
-    image: assets/images/max.png 
+  # - name: Max Welling
+  #   url: https://staff.fnwi.uva.nl/m.welling
+  #   aff: CuspAI
+  #   interest: 
+  #   image: assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
@@ -99,7 +105,7 @@ Organizers:
     
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
-    aff: Microsoft Research New England 
+    aff: Microsoft Research 
     interest: 
     image: assets/images/yuanqi.png 
   
@@ -135,25 +141,16 @@ Organizers:
 
 # About
 
-High-profile voices in AI research and industry have forecasted that AGI will “cure all diseases” and that due to developments in AI, “scientific progress will likely be much faster than it is today”. While these statements underscore the rapid and exciting developments in the AI for Science community, beneath the headlines lie unresolved questions about *where current AI methods genuinely advance scientific discovery and where they still hit hard limits*. Through our proposed AI for Science workshop, we will bring together experimentalists, domain scientists, and ML researchers to discuss where this boundary lies. Our workshop will highlight common bottlenecks in developing AI methods across scientific application domains, and delve into solutions that can unlock progress across all of these domains. We welcome submissions from all AI for Science areas, but we concentrate our talks and panel on the reach and limits of AI for scientific discovery. The main objectives include:
+AI Scientists now operate at a scale that outpaces human capacity for manual review. Systems such as Sakana's AI Scientist write entire workshop papers end-to-end. Lila Sciences runs autonomous ``AI Science Factories'' that hypothesize, experiment, and iterate without human guidance. FutureHouse's Kosmos and Robin generate thousands of candidate hypotheses in a single run, and Google's Co-Scientist proposes testable experiments at a rate no laboratory can fully evaluate. 
+Each of these systems emphasizes *verified* results, yet that standard ranges from near-perfect formal proof in mathematics to decade-long clinical trials in medicine, with no shared framework for judging sufficiency across domains. As outputs scale beyond what humans can manually inspect, the question of which results to trust becomes as hard as generating them. *The bottleneck for AI for Science is no longer hypothesis generation, it is verification*.
 
-* **Trustworthiness/Verification in open-ended hypothesis generation** How do we judge whether an AI-generated hypothesis is not only plausible, but scientifically meaningful, novel, and worth pursuing? What is the role of human taste, intuition, and domain expertise in evaluating good hypotheses?
-* **Trustworthiness/Verification under imperfect simulators** Scientific domains differ dramatically in the strength of their verifiers. In mathematics, formal systems such as Lean can provide near-perfect verification. In biology, simulators are far less reliable, and in climate science, verification may depend on partial models, historical data, and expert judgment. How should AI scientists operate when simulators are incomplete or imperfect?
-* **Trustworthiness/Verification under real-world constraints (considering uncertainty & safety)** In practice, verification is limited by time, cost, experimental throughput, and uncertainty. How do we decide which AI-generated ideas to test, which evidence to trust, and when to stop? How should scarce verification resources be allocated across competing hypotheses?
-- Clinical trials for medicine
-- Extreme weather prediction 
-- Power systems operations 
+Our NeurIPS 2026 workshop, *Verification in the Age of AI Scientists*, asks how we should trust, judge, and act on AI-generated science when verifiers are imperfect, scarce, or absent. In most sciences the verifier itself is imperfect or prohibitively expensive, and as AI Scientists scale beyond what humans can manually inspect, the central problem becomes *which AI outputs deserve our scarce verification budget, and on what evidence we should be willing to act*. We organize our discussion around three challenges.
 
+* **Verification in open-ended hypothesis generation** When AI Scientists propose thousands of candidate hypotheses, only a small fraction can ever be tested, and not all plausible outputs are scientifically meaningful, novel, or worth pursuing. Subtle failure modes such as data leakage, benchmark gaming, and hallucinated citations can make an output look verified without being so, and human taste, intuition, and domain expertise remain essential filters that are not yet well understood as learnable verifiers. This workshop asks how to build verifiers that can separate genuinely novel scientific contributions from convincing artifacts.
 
-* **Multi-domain scientific reasoning**
-  - Benchmark how well today’s LLMs and autonomous agents generate rigorously testable hypotheses and interpret results that span physics, chemistry, biology, climate science, and beyond.
-  - Identify failure modes in cross-disciplinary reasoning and outline directions--e.g., tool-augmented prompting, graph-structured memory, retrieval pipelines—-to close these gaps.
-* **High-fidelity generative & surrogate simulators**
-  - Survey state-of-the-art models—from all-atom biomolecular generators to neural weather simulators—and assess the spatial, temporal, and accuracy limits they still cannot cross.
-  - Convene domain and ML experts to design hybrid, physics-informed, or multiscale approaches that push simulation fidelity where classical or purely data-driven methods plateau.
-* **Experimental data scarcity & bias**
-  - Spotlight scientific areas that lack “Protein-Data-Bank–level” resources and invite dataset-generation proposals to catalyze community efforts.
-  - Explore lab-in-the-loop strategies—active learning, autonomous experimentation, synthetic data augmentation—to overcome limited or biased measurements and accelerate model improvement.
+* **Verification under imperfect simulators** Scientific domains differ dramatically in the reliability of their verifiers. In mathematics, formal systems such as Lean provide near-perfect verification, but in biology, force fields fail outside their training distribution and structure prediction has well-documented blind spots , while climate models depend on partial observations and expert judgment. This workshop asks when surrogate verifiers can substitute for ground truth, and on what evidence AI Scientists should be willing to act when the two disagree.
+
+* **Verification under real-world constraints (uncertainty & safety)** In practice, verification is bounded by time, cost, experimental throughput, and safety. A single Phase III clinical trial costs hundreds of millions of dollars and takes a decade, and in extreme weather prediction, rare out-of-distribution events drive evacuation and infrastructure decisions before sufficient evidence can be gathered. This workshop asks how scarce verification resources should be allocated across competing AI-generated hypotheses when downstream decisions affect human lives.
 
 <!-- ## New Dataset Proposal Competition
 
@@ -168,11 +165,11 @@ Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www
 Detailed information to be posted. 
 <!-- We are hosting a party for the community, check the registration link [here](https://partiful.com/e/IDy23TR5e14Dz4L3hatk?). -->
 
-# Invited Talks (In alphabetical order)
+# Invited Talks 
 
 {% include team.html id="speakers" %}
 
-# Panel: What does it mean to be human in the age of AI scientists?
+# Panel: The Verification Gap: Abundant Hypotheses, Scarce Verifiers
 
 {% include team.html id="Panelist" %}
 
