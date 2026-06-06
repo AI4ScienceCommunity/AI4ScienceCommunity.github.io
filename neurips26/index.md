@@ -76,11 +76,11 @@ Panelist:
     interest: AI, Science
     image: assets/images/cheng.jpeg
 
-  # - name: Priya Donti
-  #   url: https://priyadonti.com/
-  #   aff: MIT
-  #   interest: AI, Climate Science
-  #   image: assets/images/priya.jpg
+  - name: Lina Yao
+    url: https://www.unsw.edu.au/staff/lina-yao
+    aff: UNSW
+    interest: AI, Healthcare
+    image: assets/images/LinaYao.jpg
 
 
 Organizers:
