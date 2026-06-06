@@ -31,11 +31,11 @@ speakers:
     interest: AI x Biology, Quantum, Fusion
     image: icml26/assets/images/alex.jpg
 
-  - name: Ziming Liu
-    url: https://zliu.science
-    aff: Tsinghua University
-    interest: AI x Physics
-    image: icml26/assets/images/ziming.jpg
+  - name: Ramine Tinati
+    url: https://raminetinati.github.io/
+    aff: Google DeepMind AI Impact Accelerator
+    interest: AI x Science
+    image: icml26/assets/images/ramine.jpeg
 
   - name: Kexin Huang
     url: https://www.kexinhuang.com/
@@ -173,7 +173,7 @@ To deepen collaborations between scientists and AI researchers, we are partnerin
 
 # Invited Talks (In alphabetical order)
 
-Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ziming Liu (AI x Physics), and Kexin Huang (AI x Biology).
+Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ramine Tinati (AI x Science), and Kexin Huang (AI x Biology).
 
 {% include team.html id="speakers" %}
 
