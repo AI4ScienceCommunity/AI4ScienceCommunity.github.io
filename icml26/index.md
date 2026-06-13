@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: icml26
 title: "AI Scientists -- Tools, Co-authors, or Founders?"
 permalink: /icml26
 
