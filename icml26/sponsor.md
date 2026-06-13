@@ -43,3 +43,9 @@ We are grateful for the generous support from our sponsors. Logos link directly 
     <img src="{{ '/icml26/assets/images/DESRES.svg' | relative_url }}" alt="DESRES" style="max-height: 120px; width: auto;" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://liner.com/" target="_blank" rel="noopener">
+    <img src="{{ '/icml26/assets/images/liner.png' | relative_url }}" alt="Liner" style="max-height: 120px; width: auto;" />
+  </a>
+</p>
