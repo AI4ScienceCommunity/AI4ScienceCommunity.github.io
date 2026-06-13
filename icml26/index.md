@@ -139,7 +139,7 @@ Student_Helpers:
 
 # Workshop Summary
 
-AI has shifted from passive assistant to active agent: systems such as AlphaFold and GNoME accelerate human-led discovery, while platforms like Coscientist, CuspAI, AlphaProof, A-Lab, FutureHouse’s Kosmos, Sakana’s AI Scientist, and Lila Sciences’ “AI Science Factories” autonomously plan experiments, drive robots, and even draft papers. These systems already operate across the **tool → co-author → founder** spectrum, but the field lacks shared definitions, benchmarks, and governance to distinguish marketing from true milestones. Our ICML 2026 workshop convenes ML researchers, domain scientists, experimentalists, policymakers, and industry practitioners to:
+AI has shifted from passive assistant to active agent: systems such as AlphaFold and GNoME accelerate human-led discovery, while platforms like Coscientist, CuspAI, AlphaProof, A-Lab, FutureHouse's Kosmos, Sakana's AI Scientist, and Lila Sciences' "AI Science Factories" autonomously plan experiments, drive robots, and even draft papers. These systems already operate across the **tool → co-author → founder** spectrum, but the field lacks shared definitions, benchmarks, and governance to distinguish marketing from true milestones. Our ICML 2026 workshop convenes ML researchers, domain scientists, experimentalists, policymakers, and industry practitioners to:
 
 1. Establish a shared vocabulary for AI Scientist autonomy levels across disciplines.
 2. Propose evaluation criteria that determine when AI contributions are tools, co-authorship, or independent discovery.
@@ -161,7 +161,11 @@ Our discussions and submissions center on three themes:
 
 ## New Dataset Proposal Competition
 
-Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html), and see the separate [AI Scientist Competition page](/icml26/competition.html) for AI Scientist proposal details. Please update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
+Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html), and see the separate [AI Scientist Competition page](/icml26/competition.html) for AI Scientist proposal details. Please update the ICML template footnote to "Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026)."
+
+## Journal Option – MSTL Focused Collection
+
+We have partnered with *Machine Learning: Science and Technology (MSTL)* to organize a **focused collection** on AI for Scientific Discovery. Accepted workshop papers are encouraged to expand their work for submission to this collection. Visit the [Journal Option page](/icml26/journal.html) for submission guidelines and the collection link.
 
 ## Follow Us
 
@@ -177,9 +181,9 @@ Our six confirmed speakers span the full spectrum of AI scientist research: Pete
 
 {% include team.html id="speakers" %}
 
-# Panel – Benchmarking “Breakthroughs” in AI Scientist: Definitions and Trustworthiness
+# Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness
 
-Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), Brian Cheung (UCSF/MIT), and Ramine Tinati (Google DeepMind AI Impact Accelerator) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
+Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust "breakthroughs" claimed by AI scientists. Panelists Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), Brian Cheung (UCSF/MIT), and Ramine Tinati (Google DeepMind AI Impact Accelerator) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
 
 {% include team.html id="Panelist" %}
 
