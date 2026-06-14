@@ -36,12 +36,6 @@ speakers:
     aff: Google DeepMind AI Impact Accelerator
     interest: AI x Science
     image: icml26/assets/images/ramine.jpeg
-
-  - name: Kexin Huang
-    url: https://www.kexinhuang.com/
-    aff: Stanford
-    interest: AI x Biology
-    image: icml26/assets/images/kexin.png
 Panelist:
 
   - name: Ben Miller
@@ -177,7 +171,7 @@ To deepen collaborations between scientists and AI researchers, we are partnerin
 
 # Invited Talks (In alphabetical order)
 
-Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ramine Tinati (AI x Science), and Kexin Huang (AI x Biology).
+Our five confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), and Ramine Tinati (AI x Science).
 
 {% include team.html id="speakers" %}
 
