@@ -8,11 +8,13 @@ permalink: /icml26/sponsor
 
 We are grateful for the generous support from our sponsors. Logos link directly to sponsor websites.
 
+{% comment %}
 <p align="center">
   <a href="https://www.xaira.com/" target="_blank" rel="noopener">
     <img src="{{ '/icml26/assets/images/xaira.png' | relative_url }}" alt="Xaira Therapeutics" style="max-height: 120px; width: auto;" />
   </a>
 </p>
+{% endcomment %}
 
 <p align="center">
   <a href="https://semiconductor.samsung.com/sait/" target="_blank" rel="noopener">

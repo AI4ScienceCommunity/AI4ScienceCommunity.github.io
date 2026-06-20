@@ -29,4 +29,4 @@ This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** 
 | **15:55–16:55** | **🤝 Poster Session 2 (60 min)** | All accepted papers & proposals |
 | 16:55–17:00 | Closing Remarks & Awards | Organizing Team |
 
-The AI4Science × Xaira & OpenSci **Social Night** remains scheduled as an optional off-site event after 6:00 pm (details and invitations forthcoming).
+The **AI4Science @ ICML Afterparty**, in partnership with **DESRES**, will take place on **Sunday, July 12, 2026 • 10:00 AM – 3:00 PM KST** (venue TBA). Priority access for workshop paper authors; registration link coming soon.

@@ -165,9 +165,9 @@ We have partnered with *Machine Learning: Science and Technology (MSTL)* to orga
 
 Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-3eferk1xy-vIDrgaBCdpXfCKmQs9WH0g) for active discussions.
 
-## AI4Science × Xaira & OpenSci Networking Night
+## AI4Science @ ICML Afterparty
 
-To deepen collaborations between scientists and AI researchers, we are partnering with Xaira Therapeutics and OpenSci to host a networking night immediately after the workshop. Our NeurIPS 2025 edition drew more than 2,000 registrants and 325 invited attendees; for ICML 2026 we are planning for 500+ participants with confirmed sponsorship from Xaira and OpenSci. Details about the venue, RSVP, and invite process will be shared closer to the conference.
+To continue the conversations beyond the workshop, we are partnering with **DESRES** to host an Afterparty on **Sunday, July 12, 2026 • 10:00 AM – 3:00 PM KST** (venue TBA). This relaxed gathering is designed for deeper networking and collaboration discussions in an informal setting. **Priority access will be given to workshop paper authors**; a registration link will be released closer to the conference. Our NeurIPS 2025 edition drew more than 2,000 registrants and 325 invited attendees; we look forward to an equally vibrant gathering at ICML 2026.
 
 # Invited Talks (In alphabetical order)
 
