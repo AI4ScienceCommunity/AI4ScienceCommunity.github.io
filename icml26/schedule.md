@@ -20,7 +20,7 @@ This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** 
 | 10:30–10:50 | Dataset & AI Scientist Highlights Block 1 (20 min) | Highest-ranked proposals |
 | **10:50–11:50** | **🤝 Poster Session 1 (60 min)** | All accepted papers & proposals |
 | **11:50–12:50** | **Lunch Break** | All attendees |
-| 12:50–13:20 | Invited Talk · AI x Biology/Quantum/Fusion | Alek Kemeny (Anthropic) |
+| 12:50–13:20 | Invited Talk · AI x Science | Aron Thomas (Anthropic) |
 | 13:20–13:50 | Invited Talk · AI x Mathematics | Ray Jiang (Google DeepMind) |
 | 13:50–14:30 | Contributed Talks Block 2 (4 × 10 min) | Selected authors |
 | 14:30–14:50 | Dataset & AI Scientist Highlights Block 2 (20 min) | Highest-ranked proposals |
