@@ -167,7 +167,7 @@ Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www
 
 ## AI4Science @ ICML Afterparty
 
-To continue the conversations beyond the workshop, we are partnering with **DESRES** to host an Afterparty on **Sunday, July 12, 2026 • 10:00 AM – 3:00 PM KST** (venue TBA). This relaxed gathering is designed for deeper networking and collaboration discussions in an informal setting. **Priority access will be given to workshop paper authors**; a registration link will be released closer to the conference. Our NeurIPS 2025 edition drew more than 2,000 registrants and 325 invited attendees; we look forward to an equally vibrant gathering at ICML 2026.
+To continue the conversations beyond the workshop, we are partnering with **DESRES** to host an Afterparty on **Saturday, July 11, 2026 • 6:00 PM – 11:30 PM KST** (venue TBA). This relaxed gathering is designed for deeper networking and collaboration discussions in an informal setting. **Priority access will be given to workshop paper authors**; a registration link will be released closer to the conference. Our NeurIPS 2025 edition drew more than 2,000 registrants and 325 invited attendees; we look forward to an equally vibrant gathering at ICML 2026.
 
 # Invited Talks (In alphabetical order)
 
