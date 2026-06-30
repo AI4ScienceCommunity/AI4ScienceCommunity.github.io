@@ -25,11 +25,11 @@ speakers:
     interest: AI x Drug & Chemistry Discovery
     image: icml26/assets/images/wengong.jpg
 
-  - name: Aron Thomas
-    url: https://www.linkedin.com/in/aron-thomas-23b663213
-    aff: Anthropic
-    interest: AI x Science
-    image: icml26/assets/images/aron.jpg
+  - name: Jonas Köhler
+    url: https://www.linkedin.com/in/jonkhler
+    aff: CuspAI
+    interest: AI x Sampling, Comp. Chemistry
+    image: icml26/assets/images/jonas.jpeg
 
   - name: Ramine Tinati
     url: https://raminetinati.github.io/
@@ -62,11 +62,11 @@ Panelist:
     interest: AI x Neuroscience
     image: icml26/assets/images/brian.png 
 
-  - name: Jonas Köhler
-    url: https://www.linkedin.com/in/jonkhler
-    aff: CuspAI
-    interest: AI, Sampling, Comp. Chemistry
-    image: icml26/assets/images/jonas.jpeg
+  - name: Julian Schrittwieser
+    url: https://scholar.google.com/citations?user=AiH3_CkAAAAJ&hl=en
+    aff: Anthropic
+    interest: AI x Reasoning, Planning
+    image: icml26/assets/images/julian.png
 
 Organizers:
 
@@ -177,7 +177,7 @@ Our five confirmed speakers span the full spectrum of AI scientist research: Pet
 
 # Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness
 
-Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust "breakthroughs" claimed by AI scientists. Panelists Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), Brian Cheung (UCSF/MIT), and Jonas Köhler (CuspAI) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
+Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust "breakthroughs" claimed by AI scientists. Panelists Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), Brian Cheung (UCSF/MIT), and Julian Schrittwieser (Anthropic) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
 
 {% include team.html id="Panelist" %}
 
