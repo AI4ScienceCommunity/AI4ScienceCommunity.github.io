@@ -8,14 +8,6 @@ permalink: /icml26/sponsor
 
 We are grateful for the generous support from our sponsors. Logos link directly to sponsor websites.
 
-{% comment %}
-<p align="center">
-  <a href="https://www.xaira.com/" target="_blank" rel="noopener">
-    <img src="{{ '/icml26/assets/images/xaira.png' | relative_url }}" alt="Xaira Therapeutics" style="max-height: 120px; width: auto;" />
-  </a>
-</p>
-{% endcomment %}
-
 <p align="center">
   <a href="https://semiconductor.samsung.com/sait/" target="_blank" rel="noopener">
     <img src="{{ '/icml26/assets/images/sait.jpg' | relative_url }}" alt="Samsung Advanced Institute of Technology (SAIT)" style="max-height: 120px; width: auto;" />
@@ -35,14 +27,14 @@ We are grateful for the generous support from our sponsors. Logos link directly 
 </p>
 
 <p align="center">
-  <a href="https://www.opensci.io/" target="_blank" rel="noopener">
-    <img src="{{ '/icml26/assets/images/opensci.png' | relative_url }}" alt="OpenSci" style="max-height: 120px; width: auto;" />
+  <a href="https://www.desres.com/" target="_blank" rel="noopener">
+    <img src="{{ '/icml26/assets/images/DESRES.svg' | relative_url }}" alt="DESRES" style="max-height: 120px; width: auto;" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.desres.com/" target="_blank" rel="noopener">
-    <img src="{{ '/icml26/assets/images/DESRES.svg' | relative_url }}" alt="DESRES" style="max-height: 120px; width: auto;" />
+  <a href="https://www.kakao.vc/en" target="_blank" rel="noopener">
+    <img src="{{ '/icml26/assets/images/kakao.png' | relative_url }}" alt="Kakao Ventures" style="max-height: 120px; width: auto;" />
   </a>
 </p>
 
