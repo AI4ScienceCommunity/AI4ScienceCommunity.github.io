@@ -199,9 +199,9 @@ Please submit your paper on [OpenReview](https://openreview.net/group?id=ICML.cc
 - **Original Research Track:** 4–8 page studies demonstrating AI-driven advances across physics, chemistry, biology, climate, materials, math, and beyond.
 - **Position Track:** 4–8 page forward-looking or critical perspectives on AI scientists, governance, and sociotechnical implications.
 
-All submissions use the ICML 2026 style (double blind) with unlimited references/appendices. Reviews are handled by **300+ reviewers and 50+ area chairs**, ensuring at least 2–3 expert evaluations per paper. **Best paper and best poster awards are sponsored by Samsung Advanced Institute of Technology (SAIT).** Additional sponsorship is provided by **[OpenSci](https://www.opensci.io/)**. See the [Call for Papers page](/icml26/call.html) for topic suggestions and detailed guidance.
+All submissions use the ICML 2026 style (double blind) with unlimited references/appendices. Reviews are handled by **300+ reviewers and 50+ area chairs**, ensuring at least 2–3 expert evaluations per paper. **Best paper and best poster awards are sponsored by Samsung Advanced Institute of Technology (SAIT).** See the [Call for Papers page](/icml26/call.html) for topic suggestions and detailed guidance.
 
-Interested in our competitions? The Dataset Proposal Competition is supported by **KAIROS Materials**, and the AI Scientist Competition is supported by **Xaira Therapeutics**. Visit the [competition page](/icml26/competition.html) for requirements and timeline.
+Interested in our competitions? The Dataset Proposal Competition is supported by **KAIROS Materials**, and the AI Scientist Competition is supported by **Kakao Ventures**. Visit the [competition page](/icml26/competition.html) for requirements and timeline.
 
 ## Call for Reviewers/Area Chairs
 
