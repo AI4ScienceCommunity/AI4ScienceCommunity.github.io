@@ -17,14 +17,14 @@ This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** 
 | 09:05–09:10 | 🎤 DESRES Sponsor Talk | DESRES |
 | 09:10–09:20 | ☕ Coffee Break | All attendees |
 | 09:20–09:50 | Invited Talk · AI x Drug/Chemistry | Wengong Jin (Northwestern University) |
-| 09:50–10:30 | Contributed Talks Block 1 (4 × 10 min) | Selected authors |
-| 10:30–10:50 | Dataset & AI Scientist Highlights Block 1 (20 min) | Highest-ranked proposals |
+| 09:50–10:30 | Contributed Talks Block 1 (4 × 10 min) | #340 FabScore: Fine-Grained Evaluation of Fabrications in Automated AI Research<br>#316 ARA: Agent-Native Research Artifacts<br>#303 Large Language Models as Generative Bayesian Policies<br>#300 NMR Elucidation as an Agentic Search Problem, Not a Modeling Problem |
+| 10:30–10:50 | Dataset & AI Scientist Highlights Block 1 (20 min) | #142 OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows<br>#154 Open Electrolyte Databank: Unlocking Molecular-Mixture Intelligence for Battery Electrolyte Discovery through a Standardized, Multimodal Foundation |
 | **10:50–11:50** | **🤝 Poster Session 1 (60 min)** | All accepted papers & proposals |
 | **11:50–12:50** | **Lunch Break** | All attendees |
 | 12:50–13:20 | Invited Talk · AI x Sampling & Comp. Chemistry | Jonas Köhler (CuspAI) |
 | 13:20–13:50 | Invited Talk · AI x Mathematics | Ray Jiang (Google DeepMind) |
-| 13:50–14:30 | Contributed Talks Block 2 (4 × 10 min) | Selected authors |
-| 14:30–14:50 | Dataset & AI Scientist Highlights Block 2 (20 min) | Highest-ranked proposals |
+| 13:50–14:30 | Contributed Talks Block 2 (4 × 10 min) | #26 Position: Correct Answer, Wrong Mechanism - When AI Scientists Defend General Claims Their Own Data Contradicts<br>#284 ReviewArena: A Large-Scale Cross-Conference Dataset and Benchmark for LLM Peer Review<br>#152 Propose, Critique, Falsify: Benchmarking Self-Verifying AI Scientists<br>#341 U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster |
+| 14:30–14:50 | Dataset & AI Scientist Highlights Block 2 (20 min) | #251 A Multimodal Literature Agent as Substrate for Autonomous Biology Research<br>#281 Bruno: An AI Product Manager for Scientists |
 | 14:50–15:05 | ☕ Coffee Break | All attendees |
 | **15:05–15:55** | **Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness (50 min)** | Moderator: Mengdi Wang (Princeton); Panelists: Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI), Brian Cheung (UCSF/MIT), Julian Schrittwieser (Anthropic) |
 | **15:55–16:55** | **🤝 Poster Session 2 (60 min)** | All accepted papers & proposals |
