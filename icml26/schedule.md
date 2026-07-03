@@ -28,6 +28,6 @@ This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** 
 | 14:50–15:05 | ☕ Coffee Break | All attendees |
 | **15:05–15:55** | **Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness (50 min)** | Moderator: Mengdi Wang (Princeton); Panelists: Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI), Brian Cheung (UCSF/MIT), Julian Schrittwieser (Anthropic) |
 | **15:55–16:55** | **🤝 Poster Session 2 (60 min)** | All accepted papers & proposals |
-| 16:55–17:00 | Closing Remarks & Awards | Organizing Team |
+| 16:55–17:00 | Closing Remarks & Awards<br>🏆 Best Paper Award (sponsored by Liner)<br>🏆 Best Poster Awards (sponsored by Trillion Labs) | Organizing Team |
 
 The **AI4Science @ ICML Afterparty**, in partnership with **DESRES**, will take place on **Saturday, July 11, 2026 • 6:00 PM – 11:30 PM KST** (venue TBA). Priority access for workshop paper authors; registration link coming soon.
