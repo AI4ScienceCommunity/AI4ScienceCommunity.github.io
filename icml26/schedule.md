@@ -17,7 +17,7 @@ This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** 
 | 09:05–09:10 | 🎤 DESRES Sponsor Talk | DESRES |
 | 09:10–09:20 | ☕ Coffee Break | All attendees |
 | 09:20–09:50 | Invited Talk · AI x Drug/Chemistry | Wengong Jin (Northwestern University) |
-| 09:50–10:30 | Contributed Talks Block 1 (4 × 10 min) | #340 FabScore: Fine-Grained Evaluation of Fabrications in Automated AI Research<br>#316 ARA: Agent-Native Research Artifacts<br>#303 Large Language Models as Generative Bayesian Policies<br>#300 NMR Elucidation as an Agentic Search Problem, Not a Modeling Problem |
+| 09:50–10:30 | Contributed Talks Block 1 (4 × 10 min) | 🏆 **#340 FabScore: Fine-Grained Evaluation of Fabrications in Automated AI Research** (Best Paper Award)<br>#316 ARA: Agent-Native Research Artifacts<br>🏆 **#303 Large Language Models as Generative Bayesian Policies** (Best Paper Award)<br>#300 NMR Elucidation as an Agentic Search Problem, Not a Modeling Problem |
 | 10:30–10:50 | Dataset & AI Scientist Highlights Block 1 (20 min) | #142 OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows<br>#154 Open Electrolyte Databank: Unlocking Molecular-Mixture Intelligence for Battery Electrolyte Discovery through a Standardized, Multimodal Foundation |
 | **10:50–11:50** | **🤝 Poster Session 1 (60 min)** | All accepted papers & proposals |
 | **11:50–12:50** | **Lunch Break** | All attendees |
@@ -28,6 +28,6 @@ This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** 
 | 14:50–15:05 | ☕ Coffee Break | All attendees |
 | **15:05–15:55** | **Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness (50 min)** | Moderator: Mengdi Wang (Princeton); Panelists: Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI), Brian Cheung (UCSF/MIT), Julian Schrittwieser (Anthropic) |
 | **15:55–16:55** | **🤝 Poster Session 2 (60 min)** | All accepted papers & proposals |
-| 16:55–17:00 | Closing Remarks & Awards<br>🏆 Best Paper Award (sponsored by Liner)<br>🏆 Best Poster Awards (sponsored by Trillion Labs) | Organizing Team |
+| 16:55–17:00 | Closing Remarks & Awards<br>🏆 **Best Paper Award** (sponsored by **Liner**):<br>&nbsp;&nbsp;• [FabScore: Fine-Grained Evaluation of Fabrications in Automated AI Research](https://openreview.net/forum?id=6gYWcYQcWM)<br>&nbsp;&nbsp;• [Large Language Models as Generative Bayesian Policies](https://openreview.net/forum?id=OSlXZGcur9)<br>🏆 **Best Poster Awards** (sponsored by **Trillion Labs**) | Organizing Team |
 
 The **AI4Science @ ICML Afterparty**, in partnership with **DESRES**, will take place on **Saturday, July 11, 2026 • 6:00 PM – 11:30 PM KST** (venue TBA). Priority access for workshop paper authors; registration link coming soon.
