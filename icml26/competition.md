@@ -35,7 +35,7 @@ AI has shifted from passive assistant to active agent: systems now generate hypo
 - Live spotlights: **Sat, Jul 11, 2026**
 
 ## Awards & Support
-- Best AI Scientist proposals receive sponsored awards.
+- Best AI Scientist proposals receive awards sponsored by **Samsung Advanced Institute of Technology (SAIT)**.
 - Winners present during the workshop and can request introductions to relevant collaborators (e.g., robotics labs or evaluation partners).
 
 Questions? Email [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
