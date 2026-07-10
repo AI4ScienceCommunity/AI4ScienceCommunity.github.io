@@ -28,36 +28,36 @@ We welcome submissions that align with the workshop's themes, including but not 
 ## 📝 Submission Guidelines
 
 ### For Workshop Participants
-- Authors of **accepted workshop papers** are encouraged to expand their work for submission to the MSTL focused collection.
+- Authors of **accepted workshop papers** are encouraged to expand their work for submission to the MLST focused collection.
 - New submissions that align with the scope are also welcome.
 
 ### Manuscript Requirements
-- Follow the [MSTL author guidelines](https://iopscience.iop.org/journal/2632-2153/page/Author%20guidelines)
+- Follow the [MLST author guidelines](https://iopscience.iop.org/journal/2632-2153/page/Author%20guidelines)
 - Select **"AI for Scientific Discovery"** as the article type when submitting
 - Clearly indicate in your cover letter that the work is related to the ICML 2026 AI for Science Workshop
 
 ### Review Process
-- All submissions undergo **peer review** according to MSTL's standards
+- All submissions undergo **peer review** according to MLST's standards
 - The focused collection ensures visibility alongside other cutting-edge AI4Science work
 - Fast-track processing for high-quality workshop papers
 
 ## 🏆 Benefits of Publishing in the Focused Collection
 
 1. **Visibility** – Your work appears in a dedicated collection alongside other leading AI4Science research
-2. **Rigorous Review** – Benefit from MSTL's established peer review process
+2. **Rigorous Review** – Benefit from MLST's established peer review process
 3. **Open Access** – IOP Science provides wide dissemination of your work
 4. **Community Building** – Contribute to a centralized resource for the AI4Science community
 
 ## 📅 Important Dates
 
 - **Workshop Date:** Saturday, July 11, 2026
-- **Submission Deadline:** Rolling basis, November 15th, 2026 currently (check the [MSTL collection page](https://iopscience.iop.org/collections/mlst-260607-1156) for updates)
+- **Submission Deadline:** Rolling basis, November 15th, 2026 currently (check the [MLST collection page](https://iopscience.iop.org/collections/mlst-260607-1156) for updates)
 
 ## 📧 Contact
 
 For questions about the focused collection or submission process, please contact:
 - **Workshop Organizers:** [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com)
-- **MSTL Editorial Office:** (contact information available on the [MLST website](https://iopscience.iop.org/journal/2632-2153))
+- **MLST Editorial Office:** (contact information available on the [MLST website](https://iopscience.iop.org/journal/2632-2153))
 
 ---
 
