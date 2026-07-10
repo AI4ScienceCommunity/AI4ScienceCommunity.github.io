@@ -7,7 +7,7 @@ permalink: /icml26/schedule
 
 # Schedule
 
-📌 **All posters will be displayed in Hall A on Sat, Jul 11 (total **44 boards**, IDs: **310–317, 400–416, 500–516, 600–601**). Full poster details (titles, authors) are available in [this document](https://docs.google.com/spreadsheets/d/1cmmsU6yV037kINZi4KnvakwpBdwjEW1NXSbDfaU6iOE/edit?usp=sharing).**
+📌 **All posters will be displayed in Hall A on Sat, Jul 11 (IDs: **310–317, 400–416, 500–516, 600–601**). Full poster details (titles, authors) are available in [this document](https://docs.google.com/spreadsheets/d/1cmmsU6yV037kINZi4KnvakwpBdwjEW1NXSbDfaU6iOE/edit?usp=sharing).**
 
 This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** in Hall C and features five invited talks, two blocks of contributed talks (8 total), two dataset/AI scientist highlight sessions, two poster sessions (60 min each), and a panel discussion. Events marked 🤝 emphasize community building. Times are approximate and listed in the KST (UTC+9) timezone. This is a hybrid event — virtual page: https://icml.cc/virtual/2026/workshop/54099
 
