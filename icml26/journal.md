@@ -1,12 +1,12 @@
 ---
 layout: icml26
-title: "Journal Option – MSTL Focused Collection"
+title: "Journal Option – MLST Focused Collection"
 permalink: /icml26/journal
 ---
 
-# Journal Option: Machine Learning: Science and Technology (MSTL) Focused Collection
+# Journal Option: Machine Learning: Science and Technology (MLST) Focused Collection
 
-We are excited to announce a **special publication opportunity** for ICML 2026 AI for Science Workshop participants! In partnership with *Machine Learning: Science and Technology (MSTL)*, we have organized a **focused collection** dedicated to advancing AI for scientific discovery.
+We are excited to announce a **special publication opportunity** for ICML 2026 AI for Science Workshop participants! In partnership with *Machine Learning: Science and Technology (MLST)*, we have organized a **focused collection** dedicated to advancing AI for scientific discovery.
 
 ## 📚 Focused Collection: AI for Scientific Discovery
 
@@ -57,8 +57,8 @@ We welcome submissions that align with the workshop's themes, including but not 
 
 For questions about the focused collection or submission process, please contact:
 - **Workshop Organizers:** [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com)
-- **MSTL Editorial Office:** (contact information available on the [MSTL website](https://iopscience.iop.org/journal/2632-2153))
+- **MSTL Editorial Office:** (contact information available on the [MLST website](https://iopscience.iop.org/journal/2632-2153))
 
 ---
 
-**Ready to submit?** Visit the [MSTL focused collection page](https://iopscience.iop.org/collections/mlst-260607-1156) to begin your submission and join the growing community of AI for Scientific Discovery researchers!
+**Ready to submit?** Visit the [MLST focused collection page](https://iopscience.iop.org/collections/mlst-260607-1156) to begin your submission and join the growing community of AI for Scientific Discovery researchers!
