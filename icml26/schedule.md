@@ -32,4 +32,4 @@ This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** 
 | 15:55–16:00 | Closing Remarks & Awards<br>🏆 **Best Poster Awards** (sponsored by **Trillion Labs**) | Organizing Team |
 | **16:00–17:00** | **🤝 Poster Session 2 (60 min)** | All accepted papers & proposals — **Hall A (IDs: 310–317, 400–416, 500–516, 600–601)**<br>🗳️ Scan to vote for **Best Poster**: <img src="/icml26/assets/images/qr.png" width="120" alt="Best Poster voting QR"> |
 
-The **AI4Science @ ICML Afterparty**, in partnership with **DESRES**, will take place on **Saturday, July 11, 2026 • 6:00 PM – 11:30 PM KST** (venue TBA). Priority access for workshop paper authors; registration link coming soon.
+The **AI4Science @ ICML Afterparty**, in partnership with **DESRES**, will take place on **Saturday, July 11, 2026 • 6:00 PM – 11:30 PM KST**. Priority access for workshop paper authors; registration link coming soon.
