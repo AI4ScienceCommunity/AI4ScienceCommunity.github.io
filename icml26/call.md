@@ -45,7 +45,7 @@ The community needs high-quality, open educational resources to keep pace with r
 
 ## Competitions
 
-We run parallel competitions for dataset generation and AI scientist system proposals. Each submission is limited to two pages. Dataset Proposal Competition awards are supported by **KAIROS Materials**, and AI Scientist Competition awards are sponsored by **Xaira Therapeutics**; top teams deliver spotlights during the workshop. See the [Dataset Competition page](/icml26/dataset.html) and [AI Scientist Competition page](/icml26/competition.html) for instructions. (The remaining guidelines in this page apply to the paper tracks.)
+We run parallel competitions for dataset generation and AI scientist system proposals. Each submission is limited to two pages. Dataset Proposal Competition awards are supported by **KAIROS Materials**, and AI Scientist Competition awards are sponsored by **Samsung Advanced Institute of Technology (SAIT)**; top teams deliver spotlights during the workshop. See the [Dataset Competition page](/icml26/dataset.html) and [AI Scientist Competition page](/icml26/competition.html) for instructions. (The remaining guidelines in this page apply to the paper tracks.)
 
 # Important Dates (Anywhere on Earth)
 
@@ -61,4 +61,4 @@ All submissions are managed through [OpenReview](https://openreview.net/group?id
 
 The review process is double blind, so please remove identifying information from the main paper and supplementary files. Submissions may include work in progress, previously unpublished results, or recently published science-journal articles that you would like to bring to the ICML audience. We use the official [ICML 2026 style files](https://icml.cc/Conferences/2026/AuthorInstructions) (double-blind option). Update the template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
 
-Accepted papers will appear on the workshop website (nonarchival) and may be selected for spotlight talks or poster sessions. **Best Paper and Best Poster Awards are sponsored by Samsung Advanced Institute of Technology (SAIT).** Additional sponsorship is provided by **[OpenSci](https://www.opensci.io/)**.
+Accepted papers will appear on the workshop website (nonarchival) and may be selected for spotlight talks or poster sessions. **Best Paper Award is sponsored by Liner, and Best Poster Awards are sponsored by Trillion Labs.**

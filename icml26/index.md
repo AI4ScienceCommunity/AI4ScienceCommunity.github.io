@@ -25,23 +25,17 @@ speakers:
     interest: AI x Drug & Chemistry Discovery
     image: icml26/assets/images/wengong.jpg
 
-  - name: Alek Kemeny
-    url: https://www.anthropic.com/
-    aff: Anthropic
-    interest: AI x Biology, Quantum, Fusion
-    image: icml26/assets/images/alex.jpg
+  - name: Jonas Köhler
+    url: https://www.linkedin.com/in/jonkhler
+    aff: CuspAI
+    interest: AI x Sampling, Comp. Chemistry
+    image: icml26/assets/images/jonas.jpeg
 
   - name: Ramine Tinati
     url: https://raminetinati.github.io/
     aff: Google DeepMind AI Impact Accelerator
     interest: AI x Science
     image: icml26/assets/images/ramine.jpeg
-
-  - name: Kexin Huang
-    url: https://www.kexinhuang.com/
-    aff: Stanford
-    interest: AI x Biology
-    image: icml26/assets/images/kexin.png
 Panelist:
 
   - name: Ben Miller
@@ -66,13 +60,13 @@ Panelist:
     url: https://briancheung.github.io/
     aff: UCSF/MIT
     interest: AI x Neuroscience
-    image: icml26/assets/images/brian.png
+    image: icml26/assets/images/brian.png 
 
-  - name: Ramine Tinati
-    url: https://raminetinati.github.io/
-    aff: Google DeepMind AI Impact Accelerator
-    interest: AI x Cross-Discplines 
-    image: icml26/assets/images/ramine.jpeg
+  - name: Julian Schrittwieser
+    url: https://scholar.google.com/citations?user=AiH3_CkAAAAJ&hl=en
+    aff: Anthropic
+    interest: AI x Reasoning, Planning
+    image: icml26/assets/images/julian.png
 
 Organizers:
 
@@ -139,7 +133,7 @@ Student_Helpers:
 
 # Workshop Summary
 
-AI has shifted from passive assistant to active agent: systems such as AlphaFold and GNoME accelerate human-led discovery, while platforms like Coscientist, CuspAI, AlphaProof, A-Lab, FutureHouse’s Kosmos, Sakana’s AI Scientist, and Lila Sciences’ “AI Science Factories” autonomously plan experiments, drive robots, and even draft papers. These systems already operate across the **tool → co-author → founder** spectrum, but the field lacks shared definitions, benchmarks, and governance to distinguish marketing from true milestones. Our ICML 2026 workshop convenes ML researchers, domain scientists, experimentalists, policymakers, and industry practitioners to:
+AI has shifted from passive assistant to active agent: systems such as AlphaFold and GNoME accelerate human-led discovery, while platforms like Coscientist, CuspAI, AlphaProof, A-Lab, FutureHouse's Kosmos, Sakana's AI Scientist, and Lila Sciences' "AI Science Factories" autonomously plan experiments, drive robots, and even draft papers. These systems already operate across the **tool → co-author → founder** spectrum, but the field lacks shared definitions, benchmarks, and governance to distinguish marketing from true milestones. Our ICML 2026 workshop convenes ML researchers, domain scientists, experimentalists, policymakers, and industry practitioners to:
 
 1. Establish a shared vocabulary for AI Scientist autonomy levels across disciplines.
 2. Propose evaluation criteria that determine when AI contributions are tools, co-authorship, or independent discovery.
@@ -161,25 +155,29 @@ Our discussions and submissions center on three themes:
 
 ## New Dataset Proposal Competition
 
-Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html), and see the separate [AI Scientist Competition page](/icml26/competition.html) for AI Scientist proposal details. Please update the ICML template footnote to “Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026).”
+Datasets that capture the full scientific stack—from planning prompts to robotic execution traces—are urgently needed. We invite new dataset proposals that accelerate autonomous discovery and lower the barrier for researchers who do not have access to large labs. Check requirements on the [Dataset Competition page](/icml26/dataset.html), and see the separate [AI Scientist Competition page](/icml26/competition.html) for AI Scientist proposal details. Please update the ICML template footnote to "Submitted to/Accepted at/Published in the AI for Science workshop (ICML 2026)."
+
+## Journal Option – MSTL Focused Collection
+
+We have partnered with *Machine Learning: Science and Technology (MSTL)* to organize a **focused collection** on AI for Scientific Discovery. Accepted workshop papers are encouraged to expand their work for submission to this collection. Visit the [Journal Option page](/icml26/journal.html) for submission guidelines and the collection link.
 
 ## Follow Us
 
 Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-3eferk1xy-vIDrgaBCdpXfCKmQs9WH0g) for active discussions.
 
-## AI4Science × Xaira & OpenSci Networking Night
+## AI4Science @ ICML Afterparty
 
-To deepen collaborations between scientists and AI researchers, we are partnering with Xaira Therapeutics and OpenSci to host a networking night immediately after the workshop. Our NeurIPS 2025 edition drew more than 2,000 registrants and 325 invited attendees; for ICML 2026 we are planning for 500+ participants with confirmed sponsorship from Xaira and OpenSci. Details about the venue, RSVP, and invite process will be shared closer to the conference.
+To continue the conversations beyond the workshop, we are partnering with **DESRES** to host an Afterparty on **Saturday, July 11, 2026 • 6:00 PM – 11:30 PM KST** (venue TBA). This relaxed gathering is designed for deeper networking and collaboration discussions in an informal setting. **Priority access will be given to workshop paper authors**; a registration link will be released closer to the conference. Our NeurIPS 2025 edition drew more than 2,000 registrants and 325 invited attendees; we look forward to an equally vibrant gathering at ICML 2026.
 
 # Invited Talks (In alphabetical order)
 
-Our six confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), Ramine Tinati (AI x Science), and Kexin Huang (AI x Biology).
+Our five confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), and Ramine Tinati (AI x Science).
 
 {% include team.html id="speakers" %}
 
-# Panel – Benchmarking “Breakthroughs” in AI Scientist: Definitions and Trustworthiness
+# Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness
 
-Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust “breakthroughs” claimed by AI scientists. Panelists Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), Brian Cheung (UCSF/MIT), and Ramine Tinati (Google DeepMind AI Impact Accelerator) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
+Our ICML 2026 panel, moderated by Prof. Mengdi Wang (Princeton), will probe how we define, measure, and trust "breakthroughs" claimed by AI scientists. Panelists Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI Research), Brian Cheung (UCSF/MIT), and Julian Schrittwieser (Anthropic) will debate definitions, novelty benchmarks, and trust thresholds for autonomous discovery systems.
 
 {% include team.html id="Panelist" %}
 
@@ -201,9 +199,9 @@ Please submit your paper on [OpenReview](https://openreview.net/group?id=ICML.cc
 - **Original Research Track:** 4–8 page studies demonstrating AI-driven advances across physics, chemistry, biology, climate, materials, math, and beyond.
 - **Position Track:** 4–8 page forward-looking or critical perspectives on AI scientists, governance, and sociotechnical implications.
 
-All submissions use the ICML 2026 style (double blind) with unlimited references/appendices. Reviews are handled by **300+ reviewers and 50+ area chairs**, ensuring at least 2–3 expert evaluations per paper. **Best paper and best poster awards are sponsored by Samsung Advanced Institute of Technology (SAIT).** Additional sponsorship is provided by **[OpenSci](https://www.opensci.io/)**. See the [Call for Papers page](/icml26/call.html) for topic suggestions and detailed guidance.
+All submissions use the ICML 2026 style (double blind) with unlimited references/appendices. Reviews are handled by **300+ reviewers and 50+ area chairs**, ensuring at least 2–3 expert evaluations per paper. **Best Paper Award is sponsored by Liner, and Best Poster Awards are sponsored by Trillion Labs.** See the [Call for Papers page](/icml26/call.html) for topic suggestions and detailed guidance.
 
-Interested in our competitions? The Dataset Proposal Competition is supported by **KAIROS Materials**, and the AI Scientist Competition is supported by **Xaira Therapeutics**. Visit the [competition page](/icml26/competition.html) for requirements and timeline.
+Interested in our competitions? The Dataset Proposal Competition is supported by **KAIROS Materials**, and the AI Scientist Competition is sponsored by **Samsung Advanced Institute of Technology (SAIT)**. Visit the [competition page](/icml26/competition.html) for requirements and timeline.
 
 ## Call for Reviewers/Area Chairs
 

@@ -7,26 +7,29 @@ permalink: /icml26/schedule
 
 # Schedule
 
-This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** in Hall C and features six invited talks, two blocks of contributed talks (8 total), two dataset/AI scientist highlight sessions, and one poster session. Events marked 🤝 emphasize community building. Times are approximate and listed in the KST (UTC+9) timezone. This is a hybrid event — virtual page: https://icml.cc/virtual/2026/workshop/54099
+📌 **All posters will be displayed in Hall A on Sat, Jul 11 (IDs: **310–317, 400–416, 500–516, 600–601**). Full poster details (titles, authors) are available in [this document](https://docs.google.com/spreadsheets/d/1cmmsU6yV037kINZi4KnvakwpBdwjEW1NXSbDfaU6iOE/edit?usp=sharing).**
+
+This one-day workshop runs on **Sat, Jul 11, 2026 • 8:00 AM – 5:00 PM KST** in Hall C and features five invited talks, two blocks of contributed talks (8 total), two dataset/AI scientist highlight sessions, two poster sessions (60 min each), and a panel discussion. Events marked 🤝 emphasize community building. Times are approximate and listed in the KST (UTC+9) timezone. This is a hybrid event — virtual page: https://icml.cc/virtual/2026/workshop/54099
 
 | Time | Event | Speaker(s) |
 | :--- | :--- | :--- |
-| 08:00–08:15 | Opening Remarks | Organizing Team |
-| 08:15–08:45 | Invited Talk · AI x General Science | Peter Clark (AI2) |
-| 08:45–09:15 | Invited Talk · AI x Science | Ramine Tinati (Google DeepMind AI Impact Accelerator) |
-| 09:15–09:45 | Invited Talk · AI x Drug/Chemistry | Wengong Jin (Northwestern University) |
-| 09:45–10:00 | 🤝 Community Coffee Break | All attendees |
-| 10:00–10:40 | Contributed Talks Block 1 (4 × 10 min) | Selected authors |
-| 10:40–11:00 | Dataset & AI Scientist Highlights Block 1 (2 × 10 min) | Highest-ranked proposals |
-| 11:00–12:00 | 🤝 Poster Session | All accepted papers & proposals |
-| 12:00–13:00 | Lunch Break | All attendees |
-| 13:00–13:30 | Invited Talk · AI x Biology/Quantum/Fusion | Alek Kemeny (Anthropic) |
-| 13:30–14:00 | Invited Talk · AI x Mathematics | Ray Jiang (Google DeepMind) |
-| 14:00–14:30 | Invited Talk · AI x Biology | Kexin Huang (Stanford) |
-| 14:30–15:10 | Contributed Talks Block 2 (4 × 10 min) | Selected authors |
-| 15:10–15:30 | Dataset & AI Scientist Highlights Block 2 (2 × 10 min) | Highest-ranked proposals |
-| 15:30–15:45 | 🤝 Coffee Break | All attendees |
-| 15:45–16:25 | Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness | Moderator: Mengdi Wang (Princeton); Panelists: Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI), Brian Cheung (UCSF/MIT) |
-| 16:25–16:45 | Closing Remarks & Awards 🤝 | Organizing Team |
+| 08:00–08:05 | Opening Remarks | Organizing Team |
+| 08:05–08:35 | Invited Talk · AI x General Science | Peter Clark (AI2) |
+| 08:35–09:05 | Invited Talk · AI x Science | Ramine Tinati (Google DeepMind AI Impact Accelerator) |
+| 09:05–09:10 | 🎤 DESRES Sponsor Talk | DESRES |
+| 09:10–09:20 | ☕ Coffee Break | All attendees |
+| 09:20–09:50 | Invited Talk · AI x Drug/Chemistry | Wengong Jin (Northwestern University) |
+| 09:50–10:30 | Contributed Talks Block 1 (4 × 10 min) | 🏆 **#340 FabScore: Fine-Grained Evaluation of Fabrications in Automated AI Research** (Best Paper Award)<br>#316 ARA: Agent-Native Research Artifacts<br>🏆 **#303 Large Language Models as Generative Bayesian Policies** (Best Paper Award)<br>#300 NMR Elucidation as an Agentic Search Problem, Not a Modeling Problem<br><br>🏆 **Best Paper Award** (sponsored by **Liner**) |
+| 10:30–10:50 | Dataset & AI Scientist Highlights Block 1 (20 min) | #142 OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows<br>#154 Open Electrolyte Databank: Unlocking Molecular-Mixture Intelligence for Battery Electrolyte Discovery through a Standardized, Multimodal Foundation |
+| **10:50–11:50** | **🤝 Poster Session 1 (60 min)** | All accepted papers & proposals — **Hall A (IDs: 310–317, 400–416, 500–516, 600–601)** |
+| **11:50–12:50** | **Lunch Break** | All attendees |
+| 12:50–13:20 | Invited Talk · AI x Sampling & Comp. Chemistry | Jonas Köhler (CuspAI) |
+| 13:20–13:50 | Invited Talk · AI x Mathematics | Ray Jiang (Google DeepMind) |
+| 13:50–14:30 | Contributed Talks Block 2 (4 × 10 min) | #26 Position: Correct Answer, Wrong Mechanism - When AI Scientists Defend General Claims Their Own Data Contradicts<br>#284 ReviewArena: A Large-Scale Cross-Conference Dataset and Benchmark for LLM Peer Review<br>#152 Propose, Critique, Falsify: Benchmarking Self-Verifying AI Scientists<br>#341 U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster |
+| 14:30–14:50 | Dataset & AI Scientist Highlights Block 2 (20 min) | #251 A Multimodal Literature Agent as Substrate for Autonomous Biology Research<br>#281 Bruno: An AI Product Manager for Scientists |
+| 14:50–15:05 | ☕ Coffee Break | All attendees |
+| **15:05–15:55** | **Panel – Benchmarking "Breakthroughs" in AI Scientist: Definitions and Trustworthiness (50 min)** | Moderator: Mengdi Wang (Princeton); Panelists: Ben Miller (Meta FAIR), Chaok Seok (SNU), Moontae Lee (LG AI), Brian Cheung (UCSF/MIT), Julian Schrittwieser (Anthropic) |
+| 15:55–16:00 | Closing Remarks & Awards<br>🏆 **Best Poster Awards** (sponsored by **Trillion Labs**) — winners announced on **July 12**:<br>&nbsp;&nbsp;• **#19** [PaperDoctor: Evidence-Grounded and Actionable Feedback for Scientific Papers in Progress](https://openreview.net/forum?id=Xxot90rctA)<br>&nbsp;&nbsp;• **#193** [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://openreview.net/forum?id=cmXVfGR44k) | Organizing Team |
+| **16:00–17:00** | **🤝 Poster Session 2 (60 min)** | All accepted papers & proposals — **Hall A (IDs: 310–317, 400–416, 500–516, 600–601)**<br>🗳️ Scan to vote for **Best Poster**: <img src="/icml26/assets/images/qr.png" width="120" alt="Best Poster voting QR"><br>&nbsp;&nbsp;*Voting has now closed.* |
 
-The AI4Science × Xaira & OpenSci **Social Night** remains scheduled as an optional off-site event after 6:00 pm (details and invitations forthcoming).
+The **AI4Science @ ICML Afterparty**, in partnership with **DESRES**, will take place on **Saturday, July 11, 2026 • 6:00 PM – 11:30 PM KST**. Priority access for workshop paper authors; registration link coming soon.
