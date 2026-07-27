@@ -158,7 +158,7 @@ We use [the NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/Ne
 
 ## Follow Us
 
-Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-3eferk1xy-vIDrgaBCdpXfCKmQs9WH0g) for active discussions.
+Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-3z4drsyte-s~bzcT_ZGXzwf5IWWtXXwQ) for active discussions.
 
 ## AI for Science Party
 
@@ -191,7 +191,7 @@ Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS
 
 ## Call for Reviewers/Area Chairs
 
-We are calling for active researchers in the field to help with our review process. Here are the [reviewer](https://docs.google.com/forms/d/e/1FAIpQLSff7J0JVJ_oXEARMagWYB6a6wSNifjY7rl50eODT4xwm8vPRw/viewform) and [area chair](https://docs.google.com/forms/d/e/1FAIpQLSfYbGfWTtMFRe5fKdC2HrIOgnKXsfupLjV0z-Zzf1g0HNzkhA/viewform) sign up forms.
+We are calling for active researchers in the field to help with our review process. Here are the [reviewer](https://forms.gle/oVXM4HSDJTQKuiSi9) and [area chair](https://forms.gle/XSeN5K6kGbeDyET48) sign up forms.
 
 ## Frequent Q&A
 
@@ -208,7 +208,7 @@ We are calling for active researchers in the field to help with our review proce
 
 # Organizers and Contact
 
-For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+For any question, please contact [ai4scienceneurips2026@googlegroups.com](mailto:ai4scienceneurips2026@googlegroups.com).
 
 
 ## Organizers 
