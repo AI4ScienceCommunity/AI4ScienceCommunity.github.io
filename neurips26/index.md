@@ -1,6 +1,6 @@
 ---
 layout: neurips26
-title: "Verifications in the Age of AI Scientists"
+title: "Verification in the Age of AI Scientists"
 permalink: /neurips26
 
 
