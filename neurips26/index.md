@@ -1,6 +1,7 @@
 ---
 layout: neurips26
-title: "Verification in the Age of AI Scientists"
+title: "Verification in the Age of AI Scientists\nwith NeurIPS at Sydney, Australia"
+# subtitle: "with NeurIPS at Sydney, Australia"
 permalink: /neurips26
 
 
@@ -176,12 +177,12 @@ Detailed information to be posted.
 
 # Tentative Dates (Anywhere on Earth)
 
-- Abstract Submission Deadline: Aug 22, 2026 
-- Paper Submission Deadline: Aug 25, 2026
-- Review Bidding Period: Aug 25-27, 2026
-- Review Deadline: Sep 19, 2026
-- Acceptance Notification Date: Sep 22, 2026
-- Workshop Date: Dec 7, 2026
+- Submission deadline: August 29, 2026 AoE
+- Reviewer period: August 31 – September 1, 2026 AoE
+- Reviewer reviews due: September 17, 2026 AoE
+- Area Chair recommendations due: September 24, 2026 AoE
+- Accept/reject notifications: September 29, 2026 AoE
+- Workshop date: December 11 or 12, 2026
 
 
 
