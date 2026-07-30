@@ -1,7 +1,7 @@
 ---
 layout: neurips26
-title: "Verification in the Age of AI Scientists\nwith NeurIPS at Sydney, Australia"
-# subtitle: "with NeurIPS at Sydney, Australia"
+title: "Verification in the Age of AI Scientists"
+subtitle: "with NeurIPS at Sydney, Australia"
 permalink: /neurips26
 
 
