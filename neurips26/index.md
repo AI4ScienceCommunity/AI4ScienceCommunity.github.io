@@ -188,7 +188,7 @@ Detailed information to be posted.
 
 ## Submissions 
 
-Please submit your paper on [Openreview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. We use [the template from NeurIPS 2026](https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2026). The submissions are expected to be 4-8 pages with unlimited references and appendices. For more detials, please check [the Call for Papers page](/neurips26/call.html).
+Please submit your paper through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4Science). Our workshop is **nonarchival**, and accepted papers will be posted on the workshop website. Please use the [NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip); the NeurIPS checklist is not required. Change the template footnote to "Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2026)." Submissions should be 4-8 pages, with unlimited references and appendices. See the [Call for Papers page](/neurips26/call.html) for full details.
 
 ## Call for Reviewers/Area Chairs
 
@@ -215,7 +215,6 @@ For any question, please contact [ai4scienceneurips2026@googlegroups.com](mailto
 ## Organizers 
 
 {% include team.html id="Organizers" %}
-
 
 
 

@@ -1,72 +1,45 @@
 ---
-layout: neurips25
-title: "The Reach and Limits of AI for Scientific Discovery"
-permalink: /neurips25/call
+layout: neurips26
+title: "Verification in the Age of AI Scientists"
+subtitle: "NeurIPS 2026 Workshop in Sydney, Australia"
+permalink: /neurips26/call
 ---
 
 # Call for Papers
-Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
-Our workshop calls for high-quality and cutting-edge paper submissions in the following two tracks:
+
+We invite high-quality submissions on the verification of AI-generated science. The workshop is **nonarchival**, and accepted papers will be posted on the workshop website. Submissions are welcome in the following three tracks:
 
 ## (A) Original Research Track
 
-This track calls for 4-8 page paper (with unlimited references and appendices) of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. Appendix is optional, but reviewers are not required to read. 
+We invite original studies that develop or apply methods for verifying AI-generated science across all scientific disciplines. Topics include, but are not limited to, learned verifiers, formal methods, surrogate-versus-experiment calibration, uncertainty quantification, active experimental design, and safety-aware deployment.
 
-Example topics include (but not limited to):
-- Learning from acoustics
-- Learning physical dynamics from data
-- Speeding up physical simulators, samplers and solvers
-- Molecular modeling and de novo generation
-- Modeling biological systems, genomics, protein, RNA 
-- Accelerating cosmological simulations
-- Improving crop yields through precision agriculture
-- Optimizing aerospace product design and development
-- Benchmarking related or new tasks (i.e., datasets, sota models, etc.)
-- Building tools/infrastructures/platforms for scientific discovery
-- Study of science of science/scientific methods
+## (B) Position Track
 
-## (B) Attention Track
+We invite clear, contestable arguments about the *epistemics* of verification: what constitutes *sufficient* verification within a domain, when surrogate models can substitute for ground truth, and where current verification practices fall short.
 
-This track solicits 4-8 page paper (with unlimited references and appendices) that highlights a perspective of a subject in the field of AI for Science. We especially welcome contributions that discuss the gaps between AI and Science.
+Submissions will be evaluated on the novelty of the argument, its engagement with practice in at least one scientific domain, and the falsifiability of its central claim.
 
-Example topics include (but not limited to):
-- Unrealistic ML methodological assumptions
-- Overlooked scientific questions
-- Opportunities on the intersections of multiple disciplines
-- Future research directions/hypothesis of an application area
-- Responsible use and development of AI for science
+## (C) Verifier Systems Track
 
+In the spirit of the NeurIPS *Evaluations & Datasets* Track, we invite **papers describing a deployed verifier**. We welcome formal, learned, simulator-based, human-AI hybrid, and consensus verifiers.
 
-## (C) Highlight Track
+Papers should describe how the verifier was constructed, its intended use, its performance and failure modes, and how it can be accessed. Authors must release code and verifier artifacts alongside publication.
 
-This track solicits 4-8 page paper (with unlimited references and appendices) that is comprehensive survey/benchmark on a specific topic under AI4Science, e.g., ML for Molecules, comparing with the original track, this track is more focused on the are more interested in summarising the published works. 
+# Tentative Dates (Anywhere on Earth)
 
-Example topics include (but not limited to):
-- ML for molecule design
-- ML for symbolic regression
-- ML for combinatorial optimization
-- ML for simulation
-
-## (D) Education Track 
-
-To support the ever-growing AI for Science field, education is an indispensable part of our community. We aim to solicit systematic and multi-level learning resources (including but not limited to courses, tutorials, notebooks, review papers, etc.) to bridge the educational gap in AI for Science. The content of the submission is flexible but a paper or report needs to be written using the LaTeX template. If the proposed content type is notebook with code example, we would still expect a short report to write about the overview and motivation about the topic and the learning resources for people who have further interest in the topic. As other tracks, we will highlight the best submissions from this track and invite the authors for a contributed talk at the workshop.
-
-## Dataset Proposal Competition
-
-For the details and instructions of the dataset proposal competition, [check this page](https://ai4sciencecommunity.github.io/neurips25/dataset.html). (The instructions below only apply to the original research/attention/highlight/education tracks).
-
-# Important Dates (Anywhere on Earth)
-
-- Abstract Submission Deadline: Aug 22, 2025 (extended to Aug 24)
-- Paper Submission Deadline: Aug 25, 2025 (extended to Aug 27)
-- Review Bidding Period: Aug 25-27, 2025 (extended to Aug 27-28)
-- Review Deadline: Sep 19, 2025
-- Acceptance Notification Date: Sep 22, 2025
+- Submission deadline: August 29, 2026 AoE
+- Reviewer period: August 31 to September 1, 2026 AoE
+- Reviews due: September 17, 2026 AoE
+- Area Chair recommendations due: September 24, 2026 AoE
+- Acceptance notifications: September 29, 2026 AoE
+- Workshop date: December 11 or 12, 2026
 
 # Submission Instructions
 
-All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science).
+All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4Science).
 
-The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published in science journals, or (3) work-in-progress.
-We use [the NeurIPS 2025 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (**Note** that you do not need to attach the NeurIPS checklist). Please change the footnote to Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2025).
-Accepted papers would be archived on the workshop website. Contributed talks and best paper awards would be given based on review scores and chairs discussion. 
+The review process is double-blind, so submissions must be anonymized. We welcome original unpublished work, recently published work in scientific journals, and work in progress.
+
+Submissions should be 4-8 pages, with unlimited references and appendices. Appendices are optional, and reviewers are not required to read them. Please use the [NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip); the NeurIPS checklist is not required. Please change the template footnote to "Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2026)."
+
+Contributed talks and best paper awards will be selected based on review scores and discussion among the workshop chairs.
