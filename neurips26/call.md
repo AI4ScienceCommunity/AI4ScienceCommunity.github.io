@@ -40,6 +40,6 @@ All submissions are managed through [OpenReview](https://openreview.net/group?id
 
 The review process is double-blind, so submissions must be anonymized. We welcome original unpublished work, recently published work in scientific journals, and work in progress.
 
-Submissions should be 4-8 pages, with unlimited references and appendices. Appendices are optional, and reviewers are not required to read them. Please use the [NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip); the NeurIPS checklist is not required. Please change the template footnote to "Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2026)."
+Submissions should be 4-8 pages, with unlimited references and appendices. Appendices are optional, and reviewers are not required to read them. Please use the [NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip); the NeurIPS checklist is not required. Please change the template footnote to "Submitted to/Accepted at/Published in the AI for Science workshop (NeurIPS 2026)."
 
 Contributed talks and best paper awards will be selected based on review scores and discussion among the workshop chairs.
