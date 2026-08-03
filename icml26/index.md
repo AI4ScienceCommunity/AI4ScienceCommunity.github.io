@@ -171,7 +171,7 @@ To continue the conversations beyond the workshop, we are partnering with **DESR
 
 # Invited Talks (In alphabetical order)
 
-Our five confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Alek Kemeny (AI x Biology/Quantum/Fusion), and Ramine Tinati (AI x Science).
+Our five confirmed speakers span the full spectrum of AI scientist research: Peter Clark (AI x General Science), Ray Jiang (AI x Mathematics), Wengong Jin (AI x Drug & Chemistry Discovery), Jonas Köhler (AI x Sampling, Comp. Chemistry), and Ramine Tinati (AI x Science).
 
 {% include team.html id="speakers" %}
 
