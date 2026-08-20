@@ -7,13 +7,13 @@ permalink: /neurips26/call
 
 # Call for Papers
 
-We invite high-quality submissions on the verification of AI-generated science. The workshop is **nonarchival**, and accepted papers will be posted on the workshop website. Submissions are welcome in the following three tracks:
+We invite high-quality submissions across AI for Science. The workshop is **nonarchival**, and accepted papers will be posted on the workshop website. Submissions are welcome in the following three tracks:
 
 ## (A) Original Research Track
 
-Submit 4–8 page papers (unlimited references/appendices) describing new algorithms, systems, or scientific findings enabled by AI. We welcome work spanning physics, chemistry, biology, climate, engineering, and the social or management sciences. Appendices may include implementation details, but reviewers are not required to read them.
+We invite 4–8-page papers presenting new AI-enabled algorithms, systems, or scientific findings. References and appendices are unlimited, and appendices may include implementation details; however, reviewers are not required to read them. Submissions may span physics, chemistry, biology, climate, engineering, and the social and management sciences.
 
-We invite original studies that develop or apply methods for verifying AI-generated science across all scientific disciplines. Topics include, but are not limited to, learned verifiers, formal methods, surrogate-versus-experiment calibration, uncertainty quantification, active experimental design, and safety-aware deployment.
+We particularly welcome original studies that develop or apply methods for verifying AI-generated science in any scientific discipline. Relevant topics include, but are not limited to, learned verifiers, formal methods, calibration of surrogate models against experiments, uncertainty quantification, active experimental design, and safety-aware deployment.
 
 ## (B) Position Track
 
