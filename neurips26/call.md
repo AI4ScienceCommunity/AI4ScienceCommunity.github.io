@@ -11,6 +11,8 @@ We invite high-quality submissions on the verification of AI-generated science. 
 
 ## (A) Original Research Track
 
+Submit 4–8 page papers (unlimited references/appendices) describing new algorithms, systems, or scientific findings enabled by AI. We welcome work spanning physics, chemistry, biology, climate, engineering, and the social or management sciences. Appendices may include implementation details, but reviewers are not required to read them.
+
 We invite original studies that develop or apply methods for verifying AI-generated science across all scientific disciplines. Topics include, but are not limited to, learned verifiers, formal methods, surrogate-versus-experiment calibration, uncertainty quantification, active experimental design, and safety-aware deployment.
 
 ## (B) Position Track
