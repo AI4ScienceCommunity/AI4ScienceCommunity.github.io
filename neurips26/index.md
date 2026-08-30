@@ -179,8 +179,8 @@ Detailed information to be posted.
 
 - Submission deadline: August 29, 2026 AoE
 <!-- - Reviewer period: August 31 – September 1, 2026 AoE -->
-- Reviewer reviews due: September 17, 2026 AoE
-- Area Chair recommendations due: September 24, 2026 AoE
+- Reviewer reviews due: September 14, 2026 AoE
+<!-- - Area Chair recommendations due: September 24, 2026 AoE -->
 - Accept/reject notifications: September 29, 2026 AoE
 - Workshop date: December 11 or 12, 2026
 

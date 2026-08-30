@@ -30,9 +30,9 @@ Papers should describe how the verifier was constructed, its intended use, its p
 # Tentative Dates (Anywhere on Earth)
 
 - Submission deadline: August 29, 2026 AoE
-- Reviewer period: August 31 to September 1, 2026 AoE
-- Reviews due: September 17, 2026 AoE
-- Area Chair recommendations due: September 24, 2026 AoE
+<!-- - Reviewer period: August 31 to September 1, 2026 AoE -->
+- Reviews due: September 14, 2026 AoE
+<!-- - Area Chair recommendations due: September 24, 2026 AoE -->
 - Acceptance notifications: September 29, 2026 AoE
 - Workshop date: December 11 or 12, 2026
 
