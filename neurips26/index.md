@@ -68,7 +68,7 @@ Panelist:
   - name: Irina Espejo
     url: https://polymathic-ai.org/members/irina-espejo
     aff: NYU and Polymathic AI
-    interest: AI, Foundation Models
+    interest: AI, Science
     image: assets/images/irina_espejo.png
 
   - name: Cheng Soon Ong
