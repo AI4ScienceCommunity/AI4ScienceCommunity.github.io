@@ -65,11 +65,11 @@ Panelist:
     interest: AI, Climate Science
     image: assets/images/david_rolnick.jpeg
 
-  - name: Rianne van den Berg
-    url: https://www.microsoft.com/en-us/research/people/rvandenberg/
-    aff: Microsoft Research
-    interest: AI, Chemistry
-    image: assets/images/rianne.jpeg
+  - name: Irina Espejo
+    url: https://polymathic-ai.org/members/irina-espejo
+    aff: NYU and Polymathic AI
+    interest: AI, Foundation Models
+    image: assets/images/irina_espejo.png
 
   - name: Cheng Soon Ong
     url: https://www.ong-home.my/
