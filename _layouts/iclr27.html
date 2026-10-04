@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="{{ '/assets/images/logo.png' | relative_url }}">
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/iclr27/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body class="iclr27">
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title }}</h1>
+      <h2 class="project-tagline">{{ page.subtitle }}</h2>
+      <nav aria-label="Workshop navigation">
+        <a href="{{ '/iclr27.html' | relative_url }}" class="btn"{% if page.section == 'about' %} aria-current="page"{% endif %}>About</a>
+        <a href="{{ '/iclr27/call.html' | relative_url }}" class="btn"{% if page.section == 'call' %} aria-current="page"{% endif %}>Call for Papers</a>
+        <a href="{{ '/iclr27/competition.html' | relative_url }}" class="btn"{% if page.section == 'competition' %} aria-current="page"{% endif %}>Competitions</a>
+        <a href="{{ '/iclr27/schedule.html' | relative_url }}" class="btn"{% if page.section == 'schedule' %} aria-current="page"{% endif %}>Program</a>
+        <a href="{{ '/' | relative_url }}" class="btn">Back</a>
+      </nav>
+    </header>
+    <main id="content" class="main-content" role="main">
+      <p class="workshop-status"><strong>In preparation.</strong> This is a proposed ICLR 2027 workshop. Dates and program details are tentative; the workshop date, venue, and submission link will be announced.</p>
+      {{ content }}
+    </main>
+  </body>
+</html>
