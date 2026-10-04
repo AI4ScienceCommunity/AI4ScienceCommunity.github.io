@@ -44,7 +44,3 @@ The program includes three contributed talks from each research track, each last
 ## Proposal Competitions
 
 The workshop also invites **two-page proposals** for the Iterative Improvement of AI Scientists and AI Credit Assignment in Science competitions. These use the same submission and notification dates. See the [Competitions page]({{ '/iclr27/competition.html' | relative_url }}) for the requirements.
-
-## Contact
-
-Please contact [Soojung Yang](mailto:soojungy@stanford.edu) and [Yunhui Jang](mailto:yunhuijang@kaist.ac.kr) with submission questions.

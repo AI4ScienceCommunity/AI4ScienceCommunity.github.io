@@ -48,7 +48,3 @@ Proposals addressing other problems in AI credit assignment are also welcome. Su
 # Important Dates (Anywhere on Earth)
 
 {% include iclr27-dates.html %}
-
-## Contact
-
-Please contact [Soojung Yang](mailto:soojungy@stanford.edu) and [Yunhui Jang](mailto:yunhuijang@kaist.ac.kr) with competition questions.
