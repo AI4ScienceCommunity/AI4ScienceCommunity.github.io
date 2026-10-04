@@ -1,0 +1,16 @@
+submission_deadline: "February 1, 2027 AoE"
+notification_date: "February 26, 2027 AoE"
+workshop_date: "To be announced"
+
+# Public profile pages used for the new portraits. Existing portraits for
+# Soojung Yang, Anima Anandkumar, Marinka Zitnik, Max Welling, and
+# Rafael Gomez-Bombarelli are reused.
+portrait_sources:
+  venkat: https://eeg.engin.umich.edu/people.html
+  risa: https://physics.stanford.edu/people/risa-wechsler
+  james-zou: https://www.james-zou.com/
+  yunhui: https://yunhuijang.github.io/
+  namkyeong: https://namkyeong.github.io/
+  zongyi: https://zongyi-li.github.io/
+  alex-starr: https://www.futurehouse.org/fellows/alexander-starr
+  sathya: https://gomezbombarelli.mit.edu/sathya-edamadaka/

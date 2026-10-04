@@ -1,0 +1,75 @@
+---
+---
+
+// Edition-specific styles extend the shared Cayman theme.
+.iclr27 {
+  .page-header .btn[aria-current="page"] {
+    border-color: rgba(255, 255, 255, 0.65);
+    background-color: rgba(255, 255, 255, 0.18);
+  }
+
+  .discovery-loop {
+    padding: 1rem;
+    border-left: 4px solid #159957;
+    background: #f3f8f6;
+    color: #157878;
+    text-align: center;
+    line-height: 2;
+  }
+
+  .discovery-loop span {
+    display: inline-block;
+  }
+
+  .workshop-team {
+    margin-top: 1.5rem;
+  }
+
+  .team-member {
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .team-portrait {
+    width: 160px;
+    height: 160px;
+    max-width: 100%;
+    margin-bottom: 0.75rem;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center top;
+  }
+
+  .team-name {
+    margin: 0.5rem 0 0.25rem;
+    font-size: 16px;
+  }
+
+  .team-affiliation,
+  .team-interest {
+    margin: 0;
+  }
+
+  .skip-link {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+  }
+
+  .skip-link:focus {
+    left: 1rem;
+    top: 1rem;
+    padding: 0.5rem 1rem;
+    background: white;
+    z-index: 1;
+  }
+
+  a:focus-visible {
+    outline: 3px solid #157878;
+    outline-offset: 3px;
+  }
+
+  .page-header a:focus-visible {
+    outline-color: white;
+  }
+}

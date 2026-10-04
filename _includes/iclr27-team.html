@@ -1,0 +1,13 @@
+{% assign team = page[include.id] %}
+<div class="row justify-content-center workshop-team">
+  {% for member in team %}
+  <div class="col-12 col-sm-6 col-lg-3 mb-4 team-member">
+    {% if member.image %}
+    <img alt="{{ member.name | escape }}" class="team-portrait" src="{{ member.image | relative_url }}" width="160" height="160" loading="lazy">
+    {% endif %}
+    <h3 class="team-name">{% if member.url %}<a href="{{ member.url | escape }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h3>
+    <p class="team-affiliation">{{ member.aff }}</p>
+    {% if member.interest %}<p class="team-interest"><i>{{ member.interest }}</i></p>{% endif %}
+  </div>
+  {% endfor %}
+</div>
