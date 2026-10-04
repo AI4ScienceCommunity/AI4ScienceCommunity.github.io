@@ -81,7 +81,7 @@ Steering_Committee:
 
   - name: Rafael Gomez-Bombarelli
     url: https://gomezbombarelli.mit.edu/
-    aff: MIT
+    aff: MIT & Lila Sciences
     image: /assets/images/rafael.jpeg
 ---
 
@@ -162,7 +162,7 @@ Please follow us on [X](https://x.com/AI_for_Science) and [LinkedIn](https://www
 
 # Organizers and Contact
 
-For questions, please contact **Soojung Yang** ([soojungy@stanford.edu](mailto:soojungy@stanford.edu)) and **Yunhui Jang** ([yunhuijang@kaist.ac.kr](mailto:yunhuijang@kaist.ac.kr)). General community inquiries can be sent to [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+For questions, please contact [ai4science_iclr27@googlegroups.com](mailto:ai4science_iclr27@googlegroups.com). General community inquiries can be sent to [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
 ## Organizers
 
