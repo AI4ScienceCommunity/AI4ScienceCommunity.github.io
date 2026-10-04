@@ -1,14 +1,12 @@
 ---
 layout: iclr27
 title: "AI for Science: Scientific Workbenches for Discovery"
-subtitle: "Proposed ICLR 2027 Workshop"
-description: "Scientific workbenches for reliable, interactive, and iterative scientific discovery. A proposed AI for Science workshop at ICLR 2027."
+subtitle: "ICLR 2027 Workshop"
+description: "Scientific workbenches for reliable, interactive, and iterative scientific discovery. An AI for Science workshop at ICLR 2027."
 permalink: /iclr27
 section: about
 
-# The proposal explicitly labels these four participants as panelists.
-# The invited talk lineup, panel topic, and moderator are still to be announced.
-Panelists:
+Speakers:
   - name: Venkat Viswanathan
     url: https://eeg.engin.umich.edu/people.html
     aff: University of Michigan
@@ -80,13 +78,18 @@ Steering_Committee:
     url: https://staff.fnwi.uva.nl/m.welling/
     aff: University of Amsterdam & CuspAI
     image: /assets/images/max.png
+
+  - name: Rafael Gomez-Bombarelli
+    url: https://gomezbombarelli.mit.edu/
+    aff: MIT
+    image: /assets/images/rafael.jpeg
 ---
 
 # About
 
 AI for Science is moving beyond individual models toward systems that participate in iterative scientific discovery. As AI systems generate hypotheses, use scientific tools, design experiments, interpret observations, and adapt their next actions based on feedback, a central challenge is how to engineer environments that compose these capabilities into reliable scientific workflows.
 
-Our proposed ICLR 2027 workshop, **Scientific Workbenches for Discovery**, brings together AI researchers, tool builders, and experimental scientists to develop a shared research agenda for reliable, interactive, and iterative scientific discovery.
+Our ICLR 2027 workshop, **Scientific Workbenches for Discovery**, brings together AI researchers, tool builders, and experimental scientists to develop a shared research agenda for reliable, interactive, and iterative scientific discovery.
 
 We use the term **scientific workbench** for an integrated system of models, tools, data, experimental interfaces, orchestration mechanisms, and evaluators that supports an iterative loop:
 
@@ -94,7 +97,7 @@ We use the term **scientific workbench** for an integrated system of models, too
   <span>Hypothesis →</span> <span>Action / Experiment →</span> <span>Observation →</span> <span>Feedback →</span> <span>Revision</span>
 </div>
 
-## Four Interconnected Pillars
+## Main themes
 
 * **Loop Engineering:** Design, optimize, and strengthen scientific interaction cycles across repeated rounds of reasoning, experimentation, and feedback.
 * **Harnesses & Orchestration:** Coordinate heterogeneous scientific tools, data sources, and computational resources into executable workflows.
@@ -103,7 +106,7 @@ We use the term **scientific workbench** for an integrated system of models, too
 
 Many components of scientific workbenches are emerging in isolation, with different interfaces, assumptions, and objectives. This workshop aims to bring these directions together. Attendees will gain a clearer framework for scientific workbenches, research principles and open problems for loop engineering and scientific harnesses, new directions for interactive evaluation, and connections across machine learning and the sciences.
 
-# Tentative Dates (Anywhere on Earth)
+# Important Dates (Anywhere on Earth)
 
 {% include iclr27-dates.html %}
 
@@ -123,31 +126,31 @@ We invite **two-page proposals** for two competitions:
 * **Iterative Improvement of AI Scientists:** Design a framework through which an AI scientist learns to improve at a meaningful scientific task using existing data and knowledge as feedback, without requiring new experiments.
 * **AI Credit Assignment in Science:** Propose ways to improve citation, attribution, novelty assessment, review, and guardrails for AI-assisted science.
 
-The top two proposals in each competition are planned to receive podium presentations. Cash awards are planned; sponsors and award amounts will be announced. Read the [competition requirements]({{ '/iclr27/competition.html' | relative_url }}).
+The top two proposals in each competition will receive podium presentations. Sponsors and cash award amounts are TBA. Read the [competition requirements]({{ '/iclr27/competition.html' | relative_url }}).
 
 # Invited Talks
 
-The proposed program includes **six invited talks**, each with 30 minutes for the talk and Q&A. The invited speaker lineup will be announced.
+The program includes **six invited talks**, each with 30 minutes for the talk and Q&A. Our speakers span materials science, physics, cosmology, and biology. Additional speakers will be announced.
+
+{% include iclr27-team.html id="Speakers" %}
 
 # Panel
 
-The proposal lists the following four panelists. The panel topic and moderator will be announced.
+The panel topic, moderator, and panelists are TBA.
 
-{% include iclr27-team.html id="Panelists" %}
+# Program
 
-# Tentative Program
-
-The proposed one-day program includes six invited talks, six contributed talks, four competition proposal highlights, one panel discussion, and two poster sessions. See the [program overview]({{ '/iclr27/schedule.html' | relative_url }}) for session formats and durations.
+The one-day program includes six invited talks, six contributed talks, four competition proposal highlights, one panel discussion, and two poster sessions. See the [program overview]({{ '/iclr27/schedule.html' | relative_url }}) for session formats and durations.
 
 ## Community and Accessibility
 
-We encourage in-person participation and plan to facilitate participation for virtual attendees and authors unable to travel. Accepted papers will be listed on this website, and presentation slides and talks will be shared as they become available, with speakers' consent. Livestream and remote participation details will be announced.
+We encourage in-person participation and will facilitate participation for virtual attendees and authors unable to travel. Accepted papers will be listed on this website, and presentation slides and talks will be shared as they become available, with speakers' consent. Livestream and remote participation details will be announced.
 
 We welcome researchers from varied scientific disciplines, institutions, career stages, and backgrounds. The workshop aims to connect machine learning researchers with the broader scientific community, including scientists attending an AI conference for the first time.
 
 ## Post-Workshop Networking Event
 
-We plan to host an evening networking event to continue conversations between scientists and AI researchers. Partners, venue, timing, and registration details will be announced.
+We will host an evening networking event to continue conversations between scientists and AI researchers. Partners, venue, timing, and registration details will be announced.
 
 ## Workshop Series
 
@@ -164,8 +167,6 @@ For questions, please contact **Soojung Yang** ([soojungy@stanford.edu](mailto:s
 ## Organizers
 
 {% include iclr27-team.html id="Organizers" %}
-
-Soojung Yang is currently an Independent Postdoctoral Fellow at Stanford and FutureHouse and will join Duke University's Department of Biochemistry and Cell Biology as an assistant professor in February 2027.
 
 ## Steering Committee
 

@@ -1,7 +1,7 @@
 ---
 layout: iclr27
 title: "AI for Science: Scientific Workbenches for Discovery"
-subtitle: "Proposed ICLR 2027 Workshop"
+subtitle: "ICLR 2027 Workshop"
 description: "Proposal competitions on iterative improvement of AI scientists and AI credit assignment in science."
 permalink: /iclr27/competition
 section: competition
@@ -42,10 +42,10 @@ Proposals addressing other problems in AI credit assignment are also welcome. Su
 
 * **Length:** At most two pages of main text for each competition proposal.
 * **Submission platform:** OpenReview. The workshop submission link and final formatting instructions will be announced.
-* **Presentations:** The two highest-ranked proposals in each competition are planned to receive 10-minute podium presentations. Accepted proposals are planned to be presented in interactive poster sessions.
-* **Awards:** Cash awards are planned for the best proposals. Sponsors and award amounts will be announced.
+* **Presentations:** The two highest-ranked proposals in each competition will receive 10-minute podium presentations. Accepted proposals will be presented in interactive poster sessions.
+* **Awards:** Sponsors and cash award amounts are TBA.
 
-# Tentative Dates (Anywhere on Earth)
+# Important Dates (Anywhere on Earth)
 
 {% include iclr27-dates.html %}
 

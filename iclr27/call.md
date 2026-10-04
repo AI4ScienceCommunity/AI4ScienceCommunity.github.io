@@ -1,8 +1,8 @@
 ---
 layout: iclr27
 title: "AI for Science: Scientific Workbenches for Discovery"
-subtitle: "Proposed ICLR 2027 Workshop"
-description: "Research and position paper submissions for the proposed AI for Science workshop at ICLR 2027."
+subtitle: "ICLR 2027 Workshop"
+description: "Research and position paper submissions for the AI for Science workshop at ICLR 2027."
 permalink: /iclr27/call
 section: call
 ---
@@ -15,7 +15,7 @@ The workshop welcomes current research and forward-looking discussion through tw
 
 ## (A) Original Research Track
 
-We invite original studies using AI to tackle problems across scientific disciplines. Contributions may address any of the workshop's four interconnected pillars:
+We invite original studies using AI to tackle problems across scientific disciplines. Contributions may address any of the workshop's main themes:
 
 * **Loop Engineering:** Designing, optimizing, and strengthening repeated cycles of hypothesis generation, action or experimentation, observation, feedback, and revision.
 * **Harnesses & Orchestration:** Composing models, scientific tools, data sources, and computational resources into executable workflows.
@@ -35,15 +35,15 @@ We invite perspectives on current progress, open questions, and concerns in AI s
 * **Publication:** Accepted papers will be **non-archival** and listed on the workshop website.
 * **Submission platform:** OpenReview. The workshop submission link will be announced.
 
-The proposed program includes three contributed talks from each research track, each lasting 10 minutes. Accepted papers are planned to be presented in interactive poster sessions. Best paper and best poster awards are planned; sponsors and award details will be announced.
+The program includes three contributed talks from each research track, each lasting 10 minutes. Accepted papers will be presented in interactive poster sessions. Best paper and best poster awards will be presented; sponsors and award details are TBA.
 
-# Tentative Dates (Anywhere on Earth)
+# Important Dates (Anywhere on Earth)
 
 {% include iclr27-dates.html %}
 
 ## Proposal Competitions
 
-The workshop also invites **two-page proposals** for the Iterative Improvement of AI Scientists and AI Credit Assignment in Science competitions. These use the same tentative submission and notification dates. See the [Competitions page]({{ '/iclr27/competition.html' | relative_url }}) for the requirements.
+The workshop also invites **two-page proposals** for the Iterative Improvement of AI Scientists and AI Credit Assignment in Science competitions. These use the same submission and notification dates. See the [Competitions page]({{ '/iclr27/competition.html' | relative_url }}) for the requirements.
 
 ## Contact
 

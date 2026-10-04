@@ -3,14 +3,6 @@
 
 // Edition-specific styles extend the shared Cayman theme.
 .iclr27 {
-  .workshop-status {
-    padding: 1rem 1.25rem;
-    margin-bottom: 2rem;
-    border-left: 4px solid #159957;
-    background: #f3f8f6;
-    font-size: 1rem;
-  }
-
   .page-header .btn[aria-current="page"] {
     border-color: rgba(255, 255, 255, 0.65);
     background-color: rgba(255, 255, 255, 0.18);

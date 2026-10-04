@@ -11,7 +11,7 @@ For centuries, the method of discovery—the fundamental practice of science tha
 
 ## Upcoming Workshop
 
-We are preparing [AI for Science: Scientific Workbenches for Discovery]({{ '/iclr27.html' | relative_url }}) as a proposed ICLR 2027 workshop. Explore the workshop theme, tentative dates, research tracks, proposal competitions, and organizing team on the new page.
+[AI for Science: Scientific Workbenches for Discovery]({{ '/iclr27.html' | relative_url }}) at ICLR 2027 brings together AI researchers, tool builders, and experimental scientists. Explore the workshop themes, important dates, research tracks, proposal competitions, and organizing team on the workshop page.
 
 ## News
 
