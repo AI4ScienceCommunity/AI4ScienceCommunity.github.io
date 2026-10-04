@@ -81,7 +81,7 @@ Steering_Committee:
 
   - name: Rafael Gomez-Bombarelli
     url: https://gomezbombarelli.mit.edu/
-    aff: MIT
+    aff: MIT & Lila Sciences
     image: /assets/images/rafael.jpeg
 ---
 
