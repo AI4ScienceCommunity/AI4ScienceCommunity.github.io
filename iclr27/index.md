@@ -68,6 +68,18 @@ Organizers:
     interest: AI for Materials Science
     image: /iclr27/assets/images/sathya.jpg
 
+  - name: Steven Dillmann
+    url: https://stevendillmann.github.io/
+    aff: Stanford University
+    interest: AI for Scientific Discovery
+    image: /iclr27/assets/images/steven-dillmann.jpg
+
+  - name: Allen Hart
+    url: https://warwick.ac.uk/fac/sci/camacs/people/hart/
+    aff: University of Warwick
+    interest: Scientific Benchmarks & AI Evaluation
+    image: /iclr27/assets/images/allen-hart.jpg
+
 Steering_Committee:
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu/
