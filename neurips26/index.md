@@ -83,6 +83,12 @@ Panelist:
     interest: AI, Healthcare
     image: assets/images/LinaYao.jpg
 
+  - name: Arash Vahdat
+    url: https://research.nvidia.com/person/arash-vahdat
+    aff: NVIDIA
+    interest: AI, Science
+    image: assets/images/arash_vahdat.jpg
+
 
 Organizers:
 

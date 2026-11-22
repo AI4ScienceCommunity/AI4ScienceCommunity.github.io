@@ -23,7 +23,7 @@ permalink: /neurips26/schedule
 | 1:05 pm – 1:40 pm | Invited Talk 5 | Teresa Head-Gordon |
 | 1:40 pm – 1:50 pm | Coffee Break | |
 | 1:50 pm – 2:25 pm | Invited Talk 6 | Mario Krenn |
-| 2:25 pm – 3:25 pm | Panel (60 min): The Verification Gap: Abundant Hypotheses, Scarce Verifiers | David Rolnick, Irina Espejo, Cheng Soon Ong, Lina Yao. Moderator: Marinka Zitnik |
+| 2:25 pm – 3:25 pm | Panel (60 min): The Verification Gap: Abundant Hypotheses, Scarce Verifiers | David Rolnick, Irina Espejo, Cheng Soon Ong, Lina Yao, Arash Vahdat. Moderator: Marinka Zitnik |
 | 3:25 pm – 3:55 pm | Contributed Talks Block 2 (3 × 10 min) | |
 | 3:55 pm – 4:00 pm | Closing Remarks | |
 | 4:00 pm – 5:00 pm | Poster Session 2 | |
